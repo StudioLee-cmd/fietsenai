@@ -30,7 +30,7 @@ export const footerDetails: {
             url: "/review-pakket"
         },
         {
-            text: "Gratis Scan",
+            text: "Gratis Readiness Scan",
             url: "/gratis-scan"
         }
     ],

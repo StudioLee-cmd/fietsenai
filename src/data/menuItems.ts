@@ -14,7 +14,7 @@ export const menuItems: IMenuItem[] = [
         url: "/review-pakket"
     },
     {
-        text: "Gratis Scan",
+        text: "Gratis Readiness Scan",
         url: "/gratis-scan"
     },
     {

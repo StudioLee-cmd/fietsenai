@@ -1,7 +1,6 @@
 "use client";
 import React from 'react';
 import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 import ReviewPricing from "@/components/Review/ReviewPricing";
 import { motion } from "framer-motion";
 import { BsArrowRight, BsWhatsapp, BsCalendarCheck, BsPen, BsBoxSeam, BsSend } from 'react-icons/bs';
@@ -105,7 +104,6 @@ export default function ReviewPage() {
                 </div>
             </section>
 
-            <Footer />
         </main>
     );
 }

@@ -2,7 +2,6 @@
 import React, { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Header from "@/components/Header";
-import Footer from "@/components/Footer";
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
 
@@ -189,7 +188,6 @@ export default function GratisScanPage() {
                 )}
             </AnimatePresence>
 
-            <Footer />
         </main>
     );
 }

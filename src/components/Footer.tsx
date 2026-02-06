@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
                             alt={siteDetails.siteName}
                             width={300}
                             height={100}
-                            className="h-14 md:h-16 w-auto object-contain mix-blend-multiply brightness-110 contrast-125"
+                            className="h-14 md:h-16 w-auto object-contain"
                         />
                     </Link>
                     <p className="mt-3.5 text-foreground-accent">

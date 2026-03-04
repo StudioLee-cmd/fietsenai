@@ -65,38 +65,38 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
-            "Je Werkbonnen op Orde 📋",
+            // HERO USPs (FIETSEN EDITION)
+            "Meer Winst per Fiets 🚲",
+            "Alles-in-1 Systeem 📱",
+            "Nooit Meer Gemiste Reparaties 📅",
+            "Je Werkplaats op Orde 🔧",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Fietsenwinkel in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
             "100% Jouw Eigen Stijl 🎨",
             "Klanten & AI in 1 Systeem 🤝",
-            "Volgeboekte Agenda 📈",
-            "Offertes die scoren 📝",
+            "Volgeboekte Werkplaats 📈",
+            "Klanten die terugkomen als een boemerang 🪃",
             "Slapende klanten wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // FIETSEN PUNS & FUN
+            "Minder lekke banden, meer business 🚲",
+            "Tijd voor koffie & je fietsenrek ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Laat de AI je agenda vullen 🤖",
+            "Repareren, niet telefoneren 🔧",
+            "Geen lekke band in je planning 🚴",
+            "Vol gas vooruit, AI doet de rest 🤖",
+            "Jij de fiets, AI het gedoe 🤖",
+            "Van fietsenmaker naar top-ondernemer 🚀",
+            "Ketting eraf? AI helpt je verder ⛓️",
+            "Meer fietsen in minder tijd ⏳",
+            "Altijd op koers, net als je fiets 🧭",
+            "Strakke spaken, strakke planning 🚲",
             "Eindelijk rustig lunchen 🥪"
         ];
 

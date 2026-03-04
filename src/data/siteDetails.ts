@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'Dakdekker AI',
-    siteUrl: 'https://dakdekkerai.nl/',
+    siteName: 'FietsenAI',
+    siteUrl: 'https://fietsenai.nl/',
     metadata: {
-        title: 'Dakdekker AI - De slimme assistent voor jouw dakdekkersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'FietsenAI - AI Telefoniste & Automatisering voor Fietsenmakers',
+        description: 'FietsenAI helpt fietsenmakers groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & herinneringen.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: '/images/logo-transparent.png', // Transparent logo for dark mode support
+    siteLogo: '/images/logo.png',
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

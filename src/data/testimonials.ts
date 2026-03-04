@@ -3,73 +3,59 @@ import { ITestimonial } from "@/types";
 
 export const testimonials: ITestimonial[] = [
     {
-        name: 'Mark Janssen',
-        role: 'Dakservice Janssen, Utrecht',
-        message: 'Sta je net op een dakkapel, belt er een klant voor een lekkage. Voorheen nam ik niet op, nu pakt de AI het direct op en plant de afspraak in. Ideaal.',
+        name: 'Jasper de Bruin',
+        role: 'De Fietsenmaker, Utrecht',
+        message: 'Sta je net een ketting te spannen of een e-bike uit te lezen, gaat de telefoon. Vroeger miste ik de helft van de oproepen, nu pakt de AI het op en plant direct een reparatie in. Werkt fantastisch.',
         avatar: '/images/testimonials/testimonial-1.jpg',
         stars: 5
     },
     {
-        name: 'Sander de Vries',
-        role: 'Sander Daktechniek, Rotterdam',
-        message: 'Ik was bang dat het robotachtig zou klinken, maar klanten merken het verschil niet. Ze zijn blij dat ze direct iemand "spreken" als ik bezig ben.',
+        name: 'Sanne Bakker',
+        role: 'Bakker E-bikes, Amersfoort',
+        message: 'Ik was bang dat het onpersoonlijk zou zijn voor onze vaste klanten, maar ze vinden het heerlijk dat ze direct hun beurt kunnen inplannen zonder te hoeven wachten. De AI klinkt super natuurlijk.',
         avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
-        name: 'Pieter Bakker',
-        role: 'Bakker Dakwerken, Amsterdam',
-        message: 'Offertes maken was altijd een drama in de avonduren. Nu doet het systeem het meeste werk. Ik heb weer tijd voor mijn gezin.',
+        name: 'Thijs van Gelder',
+        role: 'Van Gelder Race & MTB, Arnhem',
+        message: 'In het hoogseizoen is het hier gekkenhuis. De AI telefoniste filtert de vragen en plant de werkplaats vol. Ik heb nu veel meer rust in m\'n kop tijdens het sleutelen.',
         avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
-        name: 'Lars Visser',
-        role: 'Visser Renovatie, Den Haag',
-        message: 'Geen dubbele afspraken meer en mijn routes zijn veel logischer. Het systeem snapt gewoon hoe een dakdekker werkt. Scheelt me uren per week.',
+        name: 'Mark Visser',
+        role: 'Visser Tweewielers, Rotterdam',
+        message: 'Geen gedoe meer met WhatsApp en mails beantwoorden in de avonduren. De AI handelt de meeste vragen direct af. Klanten zijn sneller geholpen en ik heb m\'n avond terug.',
         avatar: '/images/testimonials/testimonial-4.jpg',
         stars: 5
     },
     {
-        name: 'Karel van den Berg',
-        role: 'Dakspecialist Brabant, Eindhoven',
-        message: 'Als je handen onder de bitumen zitten, pak je je telefoon niet. Nu krijg ik gewoon een appje met de klusdetails. Top oplossing.',
+        name: 'Linda de Jong',
+        role: 'Fietsplezier Linda, Eindhoven',
+        message: 'De automatische herinneringen zorgen ervoor dat mensen hun fiets ook echt op komen halen na de reparatie. Scheelt ons enorm veel ruimte in de zaak en snellere betalingen.',
         avatar: '/images/testimonials/testimonial-5.png',
         stars: 5
     },
     {
-        name: 'Erik de Groot',
-        role: 'De Groot Dak & Zink, Arnhem',
-        message: 'De automatische facturatie is goud. Klus klaar, factuur de deur uit. Vroeger deed ik dat pas in het weekend, nu is het meteen geregeld.',
+        name: 'Erik van den Berg',
+        role: 'Mobiele Fietsenmaker Erik, Den Haag',
+        message: 'Terwijl ik onderweg ben naar een klant, plant het systeem de volgende klussen alvast in. De "Gemiste Oproep SMS" zorgt ervoor dat ik geen enkele lead meer mis.',
         avatar: '/images/testimonials/testimonial-6.png',
         stars: 5
     },
     {
-        name: 'Tom van Dijk',
-        role: 'Van Dijk Dakbedekking, Groningen',
-        message: 'Mijn planner was ziek, maar de zaak draaide gewoon door. Klanten werden netjes te woord gestaan en ingepland. Redde mijn week.',
+        name: 'Bas Huizinga',
+        role: 'Huizinga Fietsverhuur, Groningen',
+        message: 'Voor de verhuur hadden we vroeger veel administratie. Nu doet FietsenAI het meeste werk. Offertes en bevestigingen gaan er binnen minuten uit op de automatische piloot.',
         avatar: '/images/testimonials/testimonial-7.png',
-        stars: 4
+        stars: 5
     },
     {
-        name: 'Arjan Meijer',
-        role: 'Meijer Dakonderhoud, Zwolle',
-        message: 'De "Gemiste Oproep SMS" levert me direct geld op. Mensen bellen verder als je niet opneemt, maar nu blijven ze hangen door dat berichtje.',
+        name: 'Wouter Smit',
+        role: 'Smit Stadfietsen, Amsterdam',
+        message: 'De investering is een no-brainer. Eén extra e-bike reparatie per maand en je hebt de kosten er al uit. Maar de rust die het geeft in de werkplaats is onbetaalbaar.',
         avatar: '/images/testimonials/testimonial-8.jpg',
-        stars: 5
-    },
-    {
-        name: 'Daan de Jong',
-        role: 'Dakservice De Jong, Tilburg',
-        message: 'Ik ben handig met branders, niet met computers. Maar dit systeem is simpel. Duidelijk overzicht en geen gedoe.',
-        avatar: '/images/testimonials/testimonial-9.jpg',
-        stars: 5
-    },
-    {
-        name: 'Robert Veenstra',
-        role: 'Veenstra Daktechniek, Maastricht',
-        message: 'De investering waard? Eén grote klus die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
-        avatar: '/images/testimonials/testimonial-10.png',
         stars: 5
     },
 ];

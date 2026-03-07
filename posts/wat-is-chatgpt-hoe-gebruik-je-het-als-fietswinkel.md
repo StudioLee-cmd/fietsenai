@@ -81,4 +81,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 
 ChatGPT is handig voor losse teksten en basisafbeeldingen. Maar een gespecialiseerd managed systeem als FietsenAI levert structureel betere output â€” consistent, in jouw stijl, en volledig geautomatiseerd. Je fietswinkel groeit terwijl jij focust op wat je het beste kunt: fietsen.
 
-Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.

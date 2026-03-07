@@ -36,4 +36,4 @@ Na elk onderhoudsbezoek stuurt AI een reviewverzoek. Tevreden klanten schrijven 
 
 ## Conclusie
 
-Fietswinkels die AI inzetten, runnen een efficiëntere werkplaats en bouwen aan een loyale klantenbasis. Meer weten? Ga naar [fietsenai.nl](https://fietsenai.nl).
+Fietswinkels die AI inzetten, runnen een efficiëntere werkplaats en bouwen aan een loyale klantenbasis. Meer weten? Ga naar [fietsenai.nl](https://www.fietsenai.nl).

@@ -79,4 +79,4 @@ Als fietsenmaker of eigenaar van een fietswinkel heb je een systeem nodig dat me
 - **Simpele boekhouding?** Moneybird regelt facturen en BTW.
 - **Groeien met AI?** [FietsenAI](/) combineert planning, reviews, chatbot en vindbaarheid in één — zonder commissie.
 
-Benieuwd wat FietsenAI voor jouw fietswinkel kan betekenen? [Neem contact op](/contact).
+Benieuwd wat FietsenAI voor jouw fietswinkel kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).

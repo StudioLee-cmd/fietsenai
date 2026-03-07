@@ -97,7 +97,7 @@ Jij verkoopt en repareert fietsen. Wij zorgen dat klanten jou vinden:
 - **SEO-pagina's** per product en dienst
 - **Maandrapportage** over aanvragen en groei
 
-**Plan een gratis kennismaking via fietsenai.nl.**
+**Plan een gratis kennismaking via [fietsenai.nl](https://www.fietsenai.nl).**
 
 ---
 

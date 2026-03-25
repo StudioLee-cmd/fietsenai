@@ -9,7 +9,7 @@ tags: ["leadgeneratie", "fietswinkel", "klanten werven"]
 
 # Leadgeneratie als fietswinkel: meer klanten via slimme kanalen
 
-Een fietswinkel leeft van drie dingen: verkoop, reparatie en onderhoud. De meeste klanten komen binnen via loopverkeer of [Google](/blog/hoe-fietswinkel-meer-klanten-via-google). Maar in een markt met online concurrentie en grote ketens, heb je meer nodig om te groeien.
+Een fietswinkel leeft van drie dingen: verkoop, reparatie en onderhoud. De meeste klanten komen binnen via loopverkeer of [Google](/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google). Maar in een markt met online concurrentie en grote ketens, heb je meer nodig om te groeien.
 
 ## Waarom diversificatie nodig is
 
@@ -48,7 +48,7 @@ In toeristische gebieden is fietsverhuur een lucratieve aanvulling:
 - Seizoensverhuur voor expats
 - Samenwerking met hotels en B&B's
 
-### 4. [E-bike onderhoud](/blog/e-bike-onderhoud-fietswinkel-kans-groei) als klantenmagneet
+### 4. [E-bike onderhoud](/blog/e-bike-onderhoud-fietswinkel-kansen) als klantenmagneet
 
 E-bikes vereisen gespecialiseerd onderhoud. Positioneer je als de e-bike specialist:
 
@@ -56,7 +56,7 @@ E-bikes vereisen gespecialiseerd onderhoud. Positioneer je als de e-bike special
 - Software-updates
 - Jaarlijkse servicebeurt
 
-[Klantbehoud](/blog/vaste-klanten-fietswinkel-koper-ambassadeur) via onderhoud is goedkoper dan nieuwe klanten werven.
+[Klantbehoud](/blog/vaste-klanten-fietswinkel-ambassadeur) via onderhoud is goedkoper dan nieuwe klanten werven.
 
 ### 5. Lokale evenementen en wielerclubs
 
@@ -70,10 +70,10 @@ De fiets-community is actief en hecht. Wees zichtbaar:
 
 | Kanaal | Strategie |
 |--------|-----------|
-| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel-meer-klanten) | Volledig profiel, foto's, openingstijden |
-| [Social media](/blog/social-media-fietswinkels-meer-klanten) | Nieuwe modellen, reparatietips, fietstochten |
-| [Email marketing](/blog/email-marketing-fietswinkels-onderhoudstips) | Onderhoudstips, seizoensaanbiedingen |
-| [Website](/blog/fietswinkel-website-klantenmagneet) | Assortiment, reviews, boekingssysteem |
+| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel) | Volledig profiel, foto's, openingstijden |
+| [Social media](/blog/social-media-fietswinkels-online) | Nieuwe modellen, reparatietips, fietstochten |
+| [Email marketing](/blog/email-marketing-fietswinkel-onderhoud) | Onderhoudstips, seizoensaanbiedingen |
+| [Website](/blog/fietswinkel-website-meer-klanten) | Assortiment, reviews, boekingssysteem |
 
 ## Het rustige seizoen vullen
 
@@ -81,8 +81,8 @@ De wintermaanden zijn traditioneel rustiger, maar dat hoeft niet:
 
 - Winteronderhoud-actie ("Maak je fiets lentefit")
 - Indoor trainer-verkoop en -advies
-- [Seizoensmarketing](/blog/seizoensmarketing-fietswinkel-heel-jaar-door) met gerichte campagnes
-- [Branding](/blog/personal-branding-fietswinkel-favoriete-fietszaak) versterken via content
+- [Seizoensmarketing](/blog/seizoensmarketing-fietswinkel) met gerichte campagnes
+- [Branding](/blog/personal-branding-fietswinkel-regio) versterken via content
 
 ## Laat de leadgeneratie aan specialisten over
 

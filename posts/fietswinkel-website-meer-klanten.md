@@ -11,7 +11,7 @@ tags: ["website", "fietswinkel", "conversie"]
 
 ## Waarom je fietswinkel-website meer kan doen
 
-De meeste fietswinkels zien hun website als een digitale etalage: adres, openingstijden en een paar foto's van de winkel. Functioneel, maar niet effectief. Een goede website kan veel meer: afspraken voor [onderhoud](/blog/fietsonderhoud-verdienmodel-service) genereren, [e-bike](/blog/e-bike-onderhoud-fietswinkel) informatie aanbieden en klanten naar je winkel trekken.
+De meeste fietswinkels zien hun website als een digitale etalage: adres, openingstijden en een paar foto's van de winkel. Functioneel, maar niet effectief. Een goede website kan veel meer: afspraken voor [onderhoud](/blog/fietsonderhoud-verdienmodel-service) genereren, [e-bike](/blog/e-bike-onderhoud-fietswinkel-kansen) informatie aanbieden en klanten naar je winkel trekken.
 
 Het begint met begrijpen hoe je klanten zoeken. Mensen googelen "fietswinkel [plaatsnaam]", "fiets reparatie bij mij in de buurt" of "e-bike kopen [regio]". Als je website niet op deze zoekopdrachten verschijnt, mis je klanten die actief naar jou zoeken.
 
@@ -62,7 +62,7 @@ Je website kan ook helpen om bestaande klanten te behouden:
 - **Geen mobiele optimalisatie**: klanten zoeken op hun telefoon terwijl ze onderweg zijn met een kapotte fiets
 - **Verouderde voorraad**: als je website fietsen toont die je niet meer hebt, verlies je vertrouwen
 - **Geen online contactmogelijkheid voor reparatie**: alleen "bel ons" is niet genoeg in 2026
-- **Geen [klantcommunicatie](/blog/fiets-klaar-automatische-meldingen)**: als de fiets klaar is, stuur een bericht. Niet wachten tot de klant belt
+- **Geen [klantcommunicatie](/blog/fiets-klaar-melding-klanten-blij)**: als de fiets klaar is, stuur een bericht. Niet wachten tot de klant belt
 
 ## Aan de slag
 

@@ -11,7 +11,7 @@ tags: ["email marketing", "fietswinkel", "onderhoud"]
 
 ## Waarom email marketing werkt voor fietswinkels
 
-Een fiets kopen is een eenmalig moment, maar onderhoud is doorlopend. Banden, remmen, ketting, verlichting — elke fiets heeft regelmatig aandacht nodig. En [e-bikes](/blog/e-bike-onderhoud-fietswinkel) al helemaal.
+Een fiets kopen is een eenmalig moment, maar onderhoud is doorlopend. Banden, remmen, ketting, verlichting — elke fiets heeft regelmatig aandacht nodig. En [e-bikes](/blog/e-bike-onderhoud-fietswinkel-kansen) al helemaal.
 
 De meeste klanten denken pas aan onderhoud als er iets kapot is. Dan googelen ze "fietsreparatie bij mij in de buurt" en belanden ze misschien bij een concurrent. Met een simpele onderhoudsherinnering per email zorg je dat ze bij jou komen — voordat er iets mis is.
 

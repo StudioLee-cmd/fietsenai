@@ -11,7 +11,7 @@ tags: ["Klantbehoud", "Loyaliteit", "Groei"]
 
 Een nieuwe klant werven kost gemiddeld vijf keer meer dan een bestaande klant behouden. Toch focussen veel fietswinkels vooral op nieuwe kopers. Dat is logisch — een nieuwe fietsverkoop levert direct omzet op. Maar de echte winst zit in wat daarna komt.
 
-Een vaste klant die elke 6 maanden langskomt voor onderhoud, elk jaar een accessoire koopt en je aanbeveelt bij vrienden, is vele malen waardevoller dan een eenmalige koper. Investeer daarom in klantbehoud naast klantwerving. Begin met goed [vindbaar worden op Google](/blog/hoe-fietswinkel-meer-klanten-trekt-via-google), en bouw dan aan de relatie.
+Een vaste klant die elke 6 maanden langskomt voor onderhoud, elk jaar een accessoire koopt en je aanbeveelt bij vrienden, is vele malen waardevoller dan een eenmalige koper. Investeer daarom in klantbehoud naast klantwerving. Begin met goed [vindbaar worden op Google](/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google), en bouw dan aan de relatie.
 
 ## Service als reden om terug te komen
 
@@ -37,7 +37,7 @@ Houd het eenvoudig — een ingewikkeld spaarsysteem schrikt af. Een simpele klan
 
 Blijf zichtbaar, ook als de klant niet in je winkel is:
 
-- **Service-herinneringen**: stuur na 6 maanden een herinnering voor een onderhoudsbeurt — lees hoe je dit automatiseert met [slimme meldingen](/blog/fiets-klaar-automatische-meldingen)
+- **Service-herinneringen**: stuur na 6 maanden een herinnering voor een onderhoudsbeurt — lees hoe je dit automatiseert met [slimme meldingen](/blog/fiets-klaar-melding-klanten-blij)
 - **Seizoenstips**: winterklaar maken, bandspanning controleren, verlichting checken
 - **Nieuwe producten**: laat vaste klanten als eerste weten over nieuwe modellen of accessoires
 

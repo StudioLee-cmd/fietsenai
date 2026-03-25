@@ -32,7 +32,7 @@ E-bikes zijn de grote groeimarkt. En e-bike eigenaren zijn bereid meer te betale
 - **Motorinspectie**: preventief de aandrijving controleren
 - **Winterklaar maken**: accu-opslag advies, vochtbescherming
 
-Een e-bike servicebeurt breng je €80-120 in rekening. Met de groeiende e-bike penetratie is dit je snelst groeiende service-categorie. Lees meer over hoe je [e-bike onderhoud](/blog/e-bike-onderhoud-fietswinkel-groei) positioneert als groeidienst.
+Een e-bike servicebeurt breng je €80-120 in rekening. Met de groeiende e-bike penetratie is dit je snelst groeiende service-categorie. Lees meer over hoe je [e-bike onderhoud](/blog/e-bike-onderhoud-fietswinkel-kansen) positioneert als groeidienst.
 
 ## Herinneringen automatiseren
 
@@ -42,7 +42,7 @@ De sleutel tot een volle werkplaats: automatische serviceherinneringen. Stuur kl
 - **Halfjaarlijks**: "Het is weer tijd voor een onderhoudsbeurt"
 - **Seizoensgebonden**: "Maak je fiets winterklaar" in oktober
 
-Gebruik je kassasysteem of een simpele spreadsheet met klantgegevens en data. Combineer het met [automatische meldingen](/blog/fiets-klaar-automatische-meldingen) voor reparaties die klaar zijn.
+Gebruik je kassasysteem of een simpele spreadsheet met klantgegevens en data. Combineer het met [automatische meldingen](/blog/fiets-klaar-melding-klanten-blij) voor reparaties die klaar zijn.
 
 ## Upselling bij onderhoud
 

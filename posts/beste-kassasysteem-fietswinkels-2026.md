@@ -53,7 +53,7 @@ Als fietsenmaker of eigenaar van een fietswinkel heb je een systeem nodig dat me
 
 [FietsenAI](/) is een compleet AI-systeem voor fietsenwinkels en fietsenmakers: planning, facturatie, automatische reviews via WhatsApp, AI-chatbot, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines — zonder commissie.
 
-**Sterkste punt:** Alles in één systeem met AI: werkplaatsplanning, facturatie, review-automatisering, AI-chatbot die klantvragen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-een-fietswinkel-meer-klanten-krijgt-via-google). Geen commissie.
+**Sterkste punt:** Alles in één systeem met AI: werkplaatsplanning, facturatie, review-automatisering, AI-chatbot die klantvragen opvangt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google). Geen commissie.
 
 **Nadeel:** Geen dedicated voorraad- of kassasysteem met barcodescanner zoals Lightspeed of CycleSoftware — voor uitgebreid voorraadbeheer combineer je het met een branchetool.
 

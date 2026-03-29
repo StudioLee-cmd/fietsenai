@@ -7,8 +7,6 @@ image: "/images/blog/beste-kassasysteem-fietswinkels-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
 ---
 
-# Beste kassasysteem voor fietswinkels 2026: tools vergeleken
-
 Als fietsenmaker of eigenaar van een fietswinkel heb je een systeem nodig dat meewerkt — niet tegenwerkt. Of het nu gaat om reparaties inplannen, fietsen verkopen of onderdelen bijhouden: de juiste software maakt het verschil. Welke tools passen in 2026 bij jouw fietsenzaak?
 
 ## Wat zoekt een fietswinkel in software?

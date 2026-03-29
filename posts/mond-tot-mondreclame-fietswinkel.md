@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-fietswinkel.png"
 tags: ["mond-tot-mond", "fietswinkel", "marketing"]
 ---
 
-# Mond-tot-mondreclame als fietswinkel: klanten die andere fietsers sturen
-
 "Waar heb jij die fiets gekocht?" Fietsers praten graag over hun fiets. En wanneer iemand tevreden is over de service, het advies en de fiets zelf, delen ze dat met andere fietsers. Mond-tot-mondreclame is voor fietswinkels de krachtigste en meest organische groeistrategie.
 
 ## Waarom mond-tot-mond werkt voor fietswinkels

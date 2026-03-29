@@ -7,8 +7,6 @@ image: "/images/blog/seizoensmarketing-fietswinkel.png"
 tags: ["Seizoen", "Marketing", "Strategie"]
 ---
 
-# Seizoensmarketing voor je fietswinkel: verdien het hele jaar door
-
 Elke fietswinkeleigenaar kent het patroon: van maart tot september loopt het storm, en van oktober tot februari is het stil. De verkoop van nieuwe fietsen piekt in het voorjaar, reparaties nemen af als het koud wordt, en de omzet daalt merkbaar. Maar seizoensgebondenheid is geen natuurwet — het is een marketingprobleem. En marketingproblemen hebben oplossingen.
 
 In dit artikel delen we strategieën waarmee je als fietswinkel het hele jaar door een gezonde omzet draait.

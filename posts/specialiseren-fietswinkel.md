@@ -7,8 +7,6 @@ image: "/images/blog/specialiseren-fietswinkel.png"
 tags: ["specialisatie", "fietswinkel", "groei"]
 ---
 
-# Specialiseren als fietswinkel: word de expert in jouw niche
-
 De fietsmarkt is competitief. Grote ketens, webshops en lokale winkels strijden om dezelfde klant. Als jij hetzelfde biedt als iedereen, concurreer je op prijs. En die wedstrijd win je niet van Decathlon.
 
 Specialisatie is je uitweg. In dit artikel leer je hoe je als fietswinkel een niche kiest en die inzet voor groei.

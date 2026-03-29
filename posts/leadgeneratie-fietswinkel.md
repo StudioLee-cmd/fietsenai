@@ -7,8 +7,6 @@ image: "/images/blog/leadgeneratie-fietswinkel.png"
 tags: ["leadgeneratie", "fietswinkel", "klanten werven"]
 ---
 
-# Leadgeneratie als fietswinkel: meer klanten via slimme kanalen
-
 Een fietswinkel leeft van drie dingen: verkoop, reparatie en onderhoud. De meeste klanten komen binnen via loopverkeer of [Google](/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google). Maar in een markt met online concurrentie en grote ketens, heb je meer nodig om te groeien.
 
 ## Waarom diversificatie nodig is

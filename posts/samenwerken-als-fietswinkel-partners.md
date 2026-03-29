@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-fietswinkel-partners.png"
 tags: ["samenwerkingen", "fietswinkel", "groei"]
 ---
 
-# Samenwerken als fietswinkel: partners die meer klanten brengen
-
 Nederland fietst, maar de concurrentie tussen fietswinkels is groot. Online aanbieders drukken de marges, ketens domineren de advertising. Hoe onderscheid je je als lokale fietswinkel? Door samenwerkingen die online giganten niet kunnen kopiëren.
 
 ## Waarom partnerschappen voor fietswinkels werken
@@ -53,7 +51,7 @@ Organiseer samen met je partners evenementen: een "Fiets-naar-je-werk-dag" met e
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/fietswinkel-website-meer-verkopen). Deel gezamenlijke content op [social media](/blog/social-media-fietswinkels-meer-klanten). Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel).
+Vermeld je samenwerkingspartners op je [website](/blog/fietswinkel-website-meer-klanten). Deel gezamenlijke content op [social media](/blog/social-media-fietswinkels-online). Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel).
 
 ## Meten en evalueren
 

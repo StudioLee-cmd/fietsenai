@@ -5,6 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-fietsenmakers.png"
 tags: ["Social Media", "Branding", "Automatisering"]
+cluster: ""
 ---
 
 Als fietsenmaker maak je elke dag prachtige dingen. Een glimmende nieuwe bakfiets die wordt afgeleverd, een antieke racefiets die je hebt gerestaureerd, of een technisch hoogstandje in een e-bike motor. Je maakt er foto's van voor jezelf, maar ze komen nooit op social media. Waarom? Omdat je 's avonds geen zin meer hebt om hashtags te bedenken en teksten te typen.

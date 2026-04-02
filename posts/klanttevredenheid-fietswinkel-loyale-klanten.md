@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-fietswinkel-loyale-klanten.jpg"
 tags: ["Klanttevredenheid", "Service", "Groei"]
+cluster: "klanttevredenheid"
 ---
 
 ## Waarom klanttevredenheid cruciaal is

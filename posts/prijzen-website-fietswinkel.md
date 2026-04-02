@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-website-fietswinkel.png"
 tags: ["prijzen communiceren", "fietswinkel", "website"]
+cluster: "prijzen-communiceren"
 ---
 
 "Wat kost een nieuwe e-bike?" Het is een van de meest gestelde vragen in elke fietswinkel. Online zoeken consumenten massaal naar prijzen voordat ze een winkel bezoeken. Als jouw website geen prijsinformatie biedt, verlies je bezoekers aan concurrenten en grote webshops die dat wel doen.

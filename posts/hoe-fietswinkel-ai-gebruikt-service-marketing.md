@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-fietswinkel-ai-gebruikt-service-marketing.png"
 tags: ["AI", "Automatisering", "Fietsen"]
+cluster: "ai-automatisering"
 ---
 
 Fietswinkels hebben het druk — zeker in het voorjaar en de zomer. Reparaties, onderhoudsbeurten, e-bike controles: de werkplaats loopt vol. Tegelijkertijd verwachten klanten snelle communicatie en heldere service. AI helpt fietswinkels beide te leveren.

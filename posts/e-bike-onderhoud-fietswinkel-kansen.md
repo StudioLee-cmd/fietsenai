@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-onderhoud-fietswinkel-kansen.png"
 tags: ["Fietswinkel", "E-bike", "Service"]
+cluster: "e-bike-service"
 ---
 
 ## De e-bike revolutie in cijfers

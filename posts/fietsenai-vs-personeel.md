@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenai-vs-personeel.png"
 tags: ["Kostenbesparing", "Management", "Groei"]
+cluster: ""
 ---
 
 Veel groeiende fietsenmakers staan voor een dilemma: "Ik kan het niet meer alleen, ik heb iemand nodig voor de telefoon en de planning." Een logische gedachte, maar in 2026 is het financieel vaak onverstandig om een mens aan te nemen voor puur administratief werk en klantcontact.

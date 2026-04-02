@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-reparaties-met-ai.png"
 tags: ["Marketing", "Reviews", "Google Maps"]
+cluster: ""
 ---
 
 Als je zelf een nieuwe e-bike zoekt of een goede reparateur, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een zaak 3,4 sterren? Dan scroll je door, want je vertrouwt ze niet met je dure e-bike. Heeft hij 4,9 sterren met 200 reviews? Dan rijd je er direct naartoe. In een branche waar vakmanschap en vertrouwen centraal staan, is jouw online reputatie je belangrijkste bezit.

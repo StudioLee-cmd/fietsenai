@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google.png"
 tags: ["Vindbaarheid", "Google", "Fietswinkel", "Klanten"]
+cluster: "vindbaarheid"
 ---
 
 ## Fietswinkels concurreren met grote ketens — online maak je het verschil

@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensmarketing-fietswinkel.png"
 tags: ["Seizoen", "Marketing", "Strategie"]
+cluster: "seizoenswerk"
 ---
 
 Elke fietswinkeleigenaar kent het patroon: van maart tot september loopt het storm, en van oktober tot februari is het stil. De verkoop van nieuwe fietsen piekt in het voorjaar, reparaties nemen af als het koud wordt, en de omzet daalt merkbaar. Maar seizoensgebondenheid is geen natuurwet — het is een marketingprobleem. En marketingproblemen hebben oplossingen.

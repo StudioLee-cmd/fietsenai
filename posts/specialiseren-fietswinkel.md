@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-fietswinkel.png"
 tags: ["specialisatie", "fietswinkel", "groei"]
+cluster: "specialisatie"
 ---
 
 De fietsmarkt is competitief. Grote ketens, webshops en lokale winkels strijden om dezelfde klant. Als jij hetzelfde biedt als iedereen, concurreer je op prijs. En die wedstrijd win je niet van Decathlon.

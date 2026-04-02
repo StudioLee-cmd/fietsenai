@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsonderhoud-verdienmodel-service.png"
 tags: ["Onderhoud", "Service", "Verdienmodel"]
+cluster: "onderhoud service"
 ---
 
 ## Waarom onderhoud je meest stabiele inkomstenbron is

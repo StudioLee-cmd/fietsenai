@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaste-klanten-fietswinkel-ambassadeur.png"
 tags: ["Klantbehoud", "Loyaliteit", "Groei"]
+cluster: "crm-klantbeheer"
 ---
 
 ## Waarom klantbehoud winstgevender is dan werving

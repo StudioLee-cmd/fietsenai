@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-fietsenmakers-helpt.png"
 tags: ["AI", "Efficiëntie", "Werkplaats"]
+cluster: ""
 ---
 
 Het runnen van een fietsenwinkel of werkplaats anno 2026 is topsport. Je bent niet alleen de vakman die e-bikes tot in de puntjes afstelt, maar je bent ook planner, telefoniste, magazijnbeheerder en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag te sleutelen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, onderdelen bestellen en klanten informeren dat hun fiets klaar is.

@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-fietswinkel-partners.png"
 tags: ["samenwerkingen", "fietswinkel", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Nederland fietst, maar de concurrentie tussen fietswinkels is groot. Online aanbieders drukken de marges, ketens domineren de advertising. Hoe onderscheid je je als lokale fietswinkel? Door samenwerkingen die online giganten niet kunnen kopiëren.

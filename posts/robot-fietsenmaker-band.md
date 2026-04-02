@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-fietsenmaker-band.jpg"
 tags: ["1 April", "Leads", "Klantcontact"]
+cluster: "lead-opvolging"
 ---
 
 ## De robot die elke band in een minuut plakt

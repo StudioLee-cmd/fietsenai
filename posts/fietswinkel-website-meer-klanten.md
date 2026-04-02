@@ -7,6 +7,7 @@ image: "/images/blog/fietswinkel-website-meer-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["website", "fietswinkel", "conversie"]
+cluster: "website-conversie"
 ---
 
 ## Waarom je fietswinkel-website meer kan doen

@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-fietswinkel.png"
 tags: ["Tools", "ChatGPT", "Fietsen"]
+cluster: "tools-uitleg"
 ---
 
 ChatGPT is de populairste AI-tool ter wereld. Miljoenen mensen gebruiken het dagelijks voor teksten, afbeeldingen en antwoorden. Maar wat kan het concreet voor jouw fietswinkel? En waar houdt het op? In dit artikel leggen we uit wat ChatGPT is, hoe je het slim inzet, en waarom een gespecialiseerd managed systeem als FietsenAI betere resultaten levert.

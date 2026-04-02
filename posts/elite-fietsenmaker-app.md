@@ -5,6 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-fietsenmaker-app.png"
 tags: ["B2B", "Klantbehoud", "Innovatie"]
+cluster: ""
 ---
 
 Werk je voor bedrijven met een vloot aan (bezorg)fietsen of doe je onderhoud voor lokale leaseplannen? Dan weet je dat communicatie het grootste struikelblok is. "Wanneer komen jullie de fietsen ophalen?", "Wat is de status van fiets #42?". Het kost je uren aan de telefoon.

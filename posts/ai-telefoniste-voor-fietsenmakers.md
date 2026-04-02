@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-fietsenmakers.png"
 tags: ["Voice AI", "Klantenservice", "Efficiëntie"]
+cluster: ""
 ---
 
 Je kent het wel: je ben net bezig met een delicate software-update van een Bosch-systeem of je staat een wiel te rechten. Concentratie is alles. En dan... gaat de telefoon. Je voelt hem trillen, je ziet het nummer. Een klant. Misschien voor die nieuwe e-bike van €4000, misschien voor een lekke band.

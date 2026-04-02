@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/webshop-fietswinkel-online-verkopen.png"
 tags: ["Fietswinkel", "Webshop", "Online Verkoop"]
+cluster: "webshop"
 ---
 
 ## Waarom een webshop voor fietswinkels logisch is

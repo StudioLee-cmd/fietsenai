@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-fietswinkel.png"
 tags: ["Google", "Lokale SEO"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 Als fietswinkel ben je afhankelijk van klanten uit je directe omgeving. En waar zoeken die klanten? Op Google. Een goed geoptimaliseerd Google Bedrijfsprofiel is de meest effectieve — en volledig gratis — manier om meer klanten naar je winkel te trekken.

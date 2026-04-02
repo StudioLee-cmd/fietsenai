@@ -7,6 +7,7 @@ image: "/images/blog/personal-branding-fietswinkel-regio.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["branding", "fietswinkel", "regio"]
+cluster: "branding"
 ---
 
 ## Waarom branding belangrijk is voor fietswinkels

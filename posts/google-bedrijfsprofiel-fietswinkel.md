@@ -1,54 +1,107 @@
 ---
-title: "Google Bedrijfsprofiel als fietswinkel: meer klanten uit je buurt"
-excerpt: "Leer hoe je als fietswinkel je Google Bedrijfsprofiel inzet voor meer lokale klanten."
-date: "2026-03-14"
+title: "Google Bedrijfsprofiel als fietswinkel: gratis klanten uit je buurt"
+excerpt: "Optimaliseer je Google Bedrijfsprofiel en trek gratis klanten aan. Praktische tips voor fietsenwinkels om lokaal beter gevonden te worden."
+date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-fietswinkel.png"
-tags: ["Google", "Vindbaarheid", "Marketing"]
+tags: ["Google", "Lokale SEO"]
 ---
 
-Nederland is een fietsland, maar dat betekent niet dat klanten vanzelf naar jouw winkel komen. Steeds meer mensen zoeken online naar "fietswinkel bij mij in de buurt" of "e-bike reparatie [plaatsnaam]" voordat ze een winkel bezoeken. Je Google Bedrijfsprofiel bepaalt of jouw winkel in die zoekresultaten verschijnt.
+Als fietswinkel ben je afhankelijk van klanten uit je directe omgeving. En waar zoeken die klanten? Op Google. Een goed geoptimaliseerd Google Bedrijfsprofiel is de meest effectieve — en volledig gratis — manier om meer klanten naar je winkel te trekken.
 
-Een goed onderhouden profiel met actuele informatie en sterke reviews trekt klanten aan die al koopintentie hebben. In dit artikel leer je hoe je dat profiel optimaal benut.
+## Wat is een Google Bedrijfsprofiel?
 
-## Waarom Google Bedrijfsprofiel voor fietswinkels
+Een Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is jouw gratis bedrijfsvermelding op Google. Het verschijnt rechts in de zoekresultaten wanneer iemand jouw bedrijfsnaam zoekt, en in Google Maps wanneer iemand zoekt op "fietswinkel bij mij in de buurt" of "fietsenmaker [plaatsnaam]".
 
-Een fietswinkel is een lokaal bedrijf bij uitstek. Klanten rijden niet een uur voor een bandenwissel — ze willen een winkel in de buurt. Google Bedrijfsprofiel is het belangrijkste instrument om die lokale klanten te bereiken.
+### Waarom is het zo belangrijk voor fietsenwinkels?
 
-Fietswinkels die [goed vindbaar zijn op Google](/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google) ontvangen meer bezoekers dan concurrenten die alleen op voorbijgangers vertrouwen. Je profiel verschijnt met kaart, reviews en openingstijden — precies de informatie die een klant nodig heeft om te beslissen.
+De cijfers spreken voor zich:
 
-## Je winkelprofiel instellen
+- **76% van de mensen** die lokaal zoeken bezoekt binnen 24 uur een bedrijf
+- **28% van de lokale zoekopdrachten** leidt tot een aankoop
+- Bedrijven met een volledig profiel zijn **70% aantrekkelijker** voor potentiële klanten
+- **Gratis** — je betaalt er geen cent voor
 
-Claim je profiel en vul alle velden in. Kies "Fietswinkel" als primaire categorie en voeg relevante subcategorieen toe: "Fietsenmaker", "E-bike winkel" of "Fietsonderdelen winkel." Hoe specifieker, hoe beter Google je matcht met relevante zoekopdrachten.
+Voor een fietswinkel betekent dit: mensen die zoeken op "band plakken", "e-bike reparatie" of "fiets kopen" in jouw buurt kunnen direct bij jou terechtkomen.
 
-Schrijf een beschrijving die je onderscheidt. Benoem je specialisaties (e-bikes, racefietsen, bakfietsen), je servicemogelijkheden (reparatie, onderhoud, fitting) en wat klanten bij jou wel vinden en bij een webshop niet: persoonlijk advies en proefritten.
+## Stap-voor-stap: je profiel optimaliseren
 
-Voeg je openingstijden nauwkeurig toe, inclusief avondopenstelling of zaterdagmiddag. Klanten die op zondagavond zoeken naar een fietswinkel en zien dat jij op maandag om 8:30 opengaat, plannen hun bezoek.
+### 1. Claim en verifieer je profiel
 
-## Reviews van tevreden fietsers
+Als je nog geen Google Bedrijfsprofiel hebt, ga naar [business.google.com](https://business.google.com) en maak er een aan. Google stuurt een verificatiekaart naar je bedrijfsadres of verifieert via telefoon.
 
-Reviews zijn cruciaal voor lokale bedrijven. Vraag klanten na een aankoop of reparatie om een review. Het werkt het best als je dit persoonlijk doet bij het afrekenen: "Als u tevreden bent, zou een Google review ons enorm helpen." Meer strategieen lees je in ons artikel over [Google reviews voor fietswinkels](/blog/meer-google-reviews-fietswinkel).
+### 2. Vul alle basisgegevens correct in
 
-Reviews die specifieke diensten benoemen ("Uitstekende e-bike service, binnen een dag klaar") helpen ook je ranking voor die zoektermen. Google leest mee in reviewteksten.
+- **Bedrijfsnaam** — precies zoals op je gevel staat
+- **Adres** — volledig en correct, inclusief postcode
+- **Telefoonnummer** — bij voorkeur een vast nummer
+- **Openingstijden** — ook feestdagen en seizoenswijzigingen
+- **Website** — link naar je homepage
+- **Categorie** — kies "Fietswinkel" als primaire categorie. Voeg subcategorieën toe zoals "Fietsenmaker", "E-bike dealer"
 
-## Producten en diensten tonen
+### 3. Voeg foto's toe (dit is waar de meeste winkels falen)
 
-Google Bedrijfsprofiel heeft een Producten-sectie. Gebruik deze om je populairste fietsen en diensten te tonen met foto, prijs en beschrijving. Dit is gratis en geeft klanten direct een indruk van je aanbod en prijsniveau.
+Google zegt het zelf: bedrijven met foto's krijgen **35% meer klikken** naar hun website en **42% meer routebeschrijvingen**. Voeg toe:
 
-Voeg ook je diensten toe: bandenwissels, kettingvervanging, e-bike diagnose, fietsfit. Klanten die zoeken naar een specifieke dienst vinden je sneller als je die dienst expliciet vermeldt.
+- **Buitenkant** van je winkel (herkenbaar vanaf de straat)
+- **Binnenkant** van de werkplaats en showroom
+- **Producten** — fietsen, accessoires, e-bikes
+- **Team** — laat zien wie er werkt
+- **Reparaties** — voor-en-na foto's van onderhoud
 
-Met de groeiende [e-bike markt](/blog/e-bike-onderhoud-fietswinkel-kansen) is het slim om "E-bike onderhoud" en "Accu diagnose" prominent in je profiel te vermelden.
+Upload minimaal 10 foto's en voeg elke maand nieuwe toe.
 
-## Lokaal vindbaar worden
+### 4. Schrijf een sterke bedrijfsomschrijving
 
-Plaats wekelijks een bericht op je profiel. Dat kan een seizoenstip zijn ("Tijd voor een lentebeurt — boek nu je onderhoudsbeurt"), een nieuw merk dat je voert, of een aanbieding op accessoires.
+Je hebt 750 tekens. Gebruik ze slim:
 
-Voeg regelmatig nieuwe foto's toe: je etalage, een net afgeleverde fiets, je werkplaats. Vermijd stockfoto's — authenticiteit wint. Foto's van herkenbare lokale omgeving (je winkel aan de gracht, de lesauto met stadsachtergrond) versterken je lokale identiteit.
+> "Al [X] jaar dé fietswinkel in [stad]. Van e-bikes tot kinderfietsen, van bandenreparatie tot een grote beurt — onze vakkundige monteurs staan voor je klaar. Kom langs of bel voor een afspraak."
 
-Moedig klanten aan om foto's bij hun review te plaatsen. Een klant die een foto post met zijn nieuwe fiets voor je winkel is de sterkste lokale marketing die er bestaat.
+Verwerk hierin je belangrijkste diensten en je locatie.
+
+### 5. Verzamel en reageer op reviews
+
+Reviews zijn de belangrijkste ranking factor voor lokale zoekresultaten. Vraag tevreden klanten actief om een review:
+
+- Stuur na een reparatie of aankoop een WhatsApp met een directe link
+- Plaats een QR-code bij de kassa
+- Reageer altijd op reviews — ook (en vooral) op negatieve
+
+**Tip:** Bedrijven met meer dan 10 reviews en een gemiddelde van 4+ sterren verschijnen bovenaan in het Local Pack (de top 3 resultaten op de kaart).
+
+### 6. Plaats regelmatig berichten
+
+Google Bedrijfsprofiel heeft een berichtenfunctie vergelijkbaar met social media. Post wekelijks over:
+
+- Nieuwe fietsen in de showroom
+- Seizoenstips (bandenspanning in de winter, kettingonderhoud)
+- Aanbiedingen en acties
+- Evenementen (proefritdag e-bikes, kinderfietsmarkt)
+
+## Veelgestelde vragen
+
+### Kost een Google Bedrijfsprofiel geld?
+
+Nee, het is volledig gratis. Google verdient geld aan advertenties, niet aan bedrijfsprofielen. Je kunt optioneel adverteren, maar dat is niet nodig om goed gevonden te worden.
+
+### Hoe lang duurt het voordat ik resultaat zie?
+
+Na het optimaliseren van je profiel zie je meestal binnen 2-4 weken meer vertoningen in Google Maps. Reviews verzamelen duurt langer, maar elk review helpt je ranking.
+
+### Kan ik meerdere vestigingen toevoegen?
+
+Ja, je kunt voor elke vestiging een apart profiel aanmaken. Zorg dat elk profiel unieke foto's en een eigen beschrijving heeft.
+
+### Hoe hoog moet mijn reviewscore zijn?
+
+Streef naar minimaal 4.2 sterren. Bedrijven onder de 4.0 worden minder vaak gekozen. Een perfecte 5.0 kan juist ongeloofwaardig overkomen — een mix van 4- en 5-sterren reviews is ideaal.
+
+### Wat doe ik met een negatieve review?
+
+Reageer altijd professioneel en empathisch. Bied aan om het probleem op te lossen. Andere klanten lezen jouw reactie en vormen zich daarmee een beeld van je klantenservice.
 
 ## Conclusie
 
-Je Google Bedrijfsprofiel is je online etalage. Een profiel dat volledig is ingevuld, regelmatig wordt bijgewerkt en versterkt met sterke reviews trekt de lokale fietsers aan die jouw winkel nodig hebben. Begin met het bijwerken van je foto's en het vragen van reviews — het resultaat merk je binnen weken.
+Een geoptimaliseerd Google Bedrijfsprofiel is de makkelijkste manier om meer klanten naar je fietswinkel te trekken. Het kost je niets behalve een uurtje per week aan onderhoud. Begin vandaag met het updaten van je profiel en je foto's — de eerste resultaten zie je binnen een maand.
 
-Benieuwd hoe jouw profiel scoort? Vraag een [gratis scan aan](/gratis-scan) en ontdek direct verbeterpunten.
+Wil je weten hoe jouw online zichtbaarheid er nu voor staat? [Vraag een gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen voor jouw fietswinkel.

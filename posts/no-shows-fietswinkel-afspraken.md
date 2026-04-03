@@ -68,6 +68,6 @@ Houd 20 tot 30 procent van je dagcapaciteit vrij voor walk-ins en verschoven afs
 
 ## Conclusie
 
-No-shows in je fietswinkel voorkom je met automatische herinneringen, een eenvoudig omboeksysteem en aanbetalingen bij grotere reparaties. De investering is minimaal, het resultaat direct merkbaar.
+No-shows in je fietswinkel voorkom je met [automatische herinneringen](/chatbot), een eenvoudig omboeksysteem en aanbetalingen bij grotere reparaties. De investering is minimaal, het resultaat direct merkbaar.
 
 Wil je weten hoe FietsenAI je werkplaatsplanning en klantcommunicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt de volledige setup — jij repareert fietsen.

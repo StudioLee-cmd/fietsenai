@@ -25,7 +25,7 @@ Bij reparaties is het moment van afhalen ideaal — de klant is blij en je hebt 
 
 ## Automatiseer met je kassasysteem
 
-Koppel reviewverzoeken aan je kassasysteem of werkplaatsplanning:
+Koppel [reviewverzoeken](/reviews) aan je kassasysteem of werkplaatsplanning:
 
 1. Reparatie/verkoop afgerond → markeer in systeem
 2. Automatische WhatsApp na afhaling of levering

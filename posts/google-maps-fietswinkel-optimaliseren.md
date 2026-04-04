@@ -74,7 +74,7 @@ Consistente vermeldingen versterken je lokale SEO-signaal naar Google.
 
 De meeste fietswinkels doen weinig aan online marketing. Dat is goed nieuws voor jou: met een geoptimaliseerd Google Bedrijfsprofiel, regelmatige posts en een stroom reviews ben je snel de best zichtbare fietswinkel in je regio.
 
-Een managed service als [StudioLee](/tarieven) kan dit volledig voor je regelen — van [SEO-optimalisatie](/seo) tot [social media](/social-media) en [review-management](/reviews). Jij houdt je bezig met fietsen, wij zorgen dat klanten je vinden.
+Een managed service als [StudioLee](/tarieven) kan dit volledig voor je regelen — van [SEO-optimalisatie](/seo) tot [social media](/social-media) en [review-management](/reviews). Jij houdt je bezig met fietsen, wij zorgen dat klanten je vinden. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld. Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
 
 ## Veelgestelde vragen
 

@@ -49,6 +49,16 @@ Bied pakketten aan in plaats van losse reparaties:
 - **Grote beurt** (€45) — alles uit de basisbeurt + ketting, versnellingen, wielen
 - **Seizoensklaar** (€55) — alles + schoonmaken en smeren
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als fietsenmaker.
+
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [tarieven](/tarieven) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Prijzen communiceren is geen zwakte — het is professionaliteit. Klanten waarderen transparantie en belonen het met hun keuze. Zet je meest gevraagde prijzen op je website en zie je aanvragen stijgen.

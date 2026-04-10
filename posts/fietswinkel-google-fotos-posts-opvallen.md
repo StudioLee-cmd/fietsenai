@@ -59,4 +59,4 @@ Deze Q&A's zijn doorzoekbaar door Google en helpen je vindbaar te worden op lang
 
 Een goed onderhouden Google Bedrijfsprofiel kost je een halfuur per week: een paar foto's uploaden, een post schrijven, een vraag beantwoorden. Het rendement is meetbaar in meer profielweergaven, meer websitebezoeken en meer klanten die je [winkel](/gratis-scan) weten te vinden.
 
-Wil je een analyse van hoe jouw Google-profiel er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan en ontvang concrete verbeterpunten.
+Combineer je Google-profiel met een sterke [SEO-strategie](/seo) voor maximale vindbaarheid. Wil je een analyse van hoe jouw Google-profiel er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan en ontvang concrete verbeterpunten.

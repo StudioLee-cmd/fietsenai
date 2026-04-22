@@ -2,11 +2,11 @@
 title: "Reviews als fietsenwinkel: meer sterren na elke reparatie"
 excerpt: "Tevreden klanten na een fietsreparatie? Dat is het perfecte moment voor een Google review. Ontdek hoe je als fietsenwinkel moeiteloos reviews verzamelt."
 date: "2026-04-11"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenwinkel-na-reparatie.jpg"
 tags: ["Reviews", "Klanttevredenheid", "Groei"]
 ---
-
 ## Waarom reparatieklanten je beste reviewschrijvers zijn
 
 Een klant die een nieuwe fiets koopt is blij, maar niet verrast. Die verwacht een goede fiets voor het geld. Een klant die met een lekke band binnenloopt en tien minuten later weer fietst? Die is opgelucht en dankbaar. Dat verschil in emotie is precies waar sterke reviews uit ontstaan.

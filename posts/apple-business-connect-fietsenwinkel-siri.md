@@ -2,11 +2,11 @@
 title: "Apple Business Connect fietsenwinkel: Apple Kaarten en Siri"
 excerpt: "Staat je fietsenwinkel al in Apple Kaarten? Zo claim je je profiel in Apple Business Connect, verschijn je in Siri en trek je klanten met een iPhone."
 date: "2026-04-16"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/apple-business-connect-fietsenwinkel-siri.jpg"
 tags: ["Vindbaarheid", "Apple", "Fietsenwinkel"]
 ---
-
 ## Waarom Apple Business Connect wél belangrijk is voor jouw fietsenwinkel
 
 Bijna 60 procent van de Nederlandse smartphone-gebruikers heeft een iPhone. Voor jongere stedelijke doelgroepen, en juist die kopen een fiets, ligt dat nog hoger. Iemand die op zijn iPhone "fietsenwinkel in de buurt" zegt tegen Siri, zoekt in Apple Kaarten, of plant zijn route via CarPlay, ziet jouw winkel niet verschijnen als je niet bent vermeld in Apple Business Connect. Voor honderdduizenden Nederlandse iPhone-gebruikers besta je in dat moment letterlijk niet.

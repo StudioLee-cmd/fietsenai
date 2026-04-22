@@ -2,11 +2,11 @@
 title: "No-shows bij fietsreparaties voorkomen: praktische gids voor fietswinkels"
 excerpt: "Een no-show kost je een hele reparatieslot. Lees hoe je met simpele bevestigingen no-shows in je fietswinkel met 80 procent reduceert."
 date: "2026-04-08"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-reparatie-no-shows-voorkomen.jpg"
 tags: ["No-shows", "Fietsenwinkel", "Werkplaats"]
 ---
-
 ## Wat een no-show kost in je werkplaats
 
 Het is dinsdagochtend. Je hebt drie reparaties ingepland: 9:00, 10:30, 13:00. De eerste klant komt niet opdagen. Geen bericht, geen telefoon. Een uur staat je werkplaats stil. Een uur waarin je een andere klant had kunnen helpen, een onderdeel had kunnen bestellen, of een fiets had kunnen voorbereiden voor verkoop.

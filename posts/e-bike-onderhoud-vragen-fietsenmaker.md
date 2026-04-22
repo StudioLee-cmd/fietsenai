@@ -2,11 +2,11 @@
 title: "E-bike onderhoud: 6 vragen die elke fietsenmaker moet kennen"
 excerpt: "E-bike eigenaren hebben andere vragen dan gewone fietsers. Ontdek welke 6 onderhoudsvragen het vaakst komen en hoe je er als fietsenmaker op inspeelt."
 date: "2026-04-14"
+cluster: "e-bike-service"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-onderhoud-vragen-fietsenmaker.jpg"
 tags: ["E-bike", "Onderhoud", "Fietsenmaker Tips"]
 ---
-
 ## E-bikes vragen om andere kennis
 
 De Nederlandse fietsenmarkt verandert snel. Meer dan de helft van alle nieuw verkochte fietsen is een e-bike. Dat betekent dat steeds meer klanten met vragen komen die je bij een gewone fiets niet krijgt: hoe lang gaat de accu mee? Kan ik de motor laten updaten? Waarom haalt mijn fiets geen 25 kilometer per uur meer?

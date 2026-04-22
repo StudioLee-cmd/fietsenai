@@ -2,11 +2,11 @@
 title: "Je fietswinkel laten opvallen in Google: foto's en posts die klanten trekken"
 excerpt: "Google Bedrijfsprofiel foto's en posts maken het verschil voor je fietswinkel. Zo val je op in de zoekresultaten en trek je meer klanten."
 date: "2026-04-09"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietswinkel-google-fotos-posts-opvallen.jpg"
 tags: ["Vindbaarheid", "Fietswinkel", "Google"]
 ---
-
 ## Waarom foto's en posts het verschil maken
 
 Twee fietsenwinkels in dezelfde straat. Allebei op Google Maps. De ene heeft 3 foto's (een wazig uithangbord, een foto van de gevel en een stockfoto van een fiets). De andere heeft 25 foto's (werkplaats, reparaties in uitvoering, net afgeleverde e-bikes, het team aan het werk, de winkelruimte).

@@ -2,11 +2,11 @@
 title: "Google reviews voor je fietsenwinkel: automatisch verzamelen"
 excerpt: "Ontdek hoe je als fietsenwinkel automatisch Google reviews verzamelt na elke reparatie of verkoop. Complete gids met praktische stappen."
 date: "2026-04-07"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenwinkel-google-automatisch.jpg"
 tags: ["Reviews", "Fietsenwinkel", "Google"]
 ---
-
 ## Waarom reviews voor fietswinkels een gamechanger zijn
 
 Stel je voor: twee fietswinkels in dezelfde straat. De ene heeft 140 Google reviews met een gemiddelde van 4,7 sterren. De andere heeft 12 reviews met 4,2 sterren. Een klant zoekt op Google naar "fietsenmaker in de buurt". Welke winkel verschijnt bovenaan? En welke kiest de klant?

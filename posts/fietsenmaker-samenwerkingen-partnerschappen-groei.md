@@ -2,11 +2,11 @@
 title: "Fietsenmaker samenwerkingen: 4 partners die omzet verdubbelen"
 excerpt: "Welke vier typen lokale partnerschappen een fietsenmaker voor voorspelbare reparatie-stromen en retail-verwijzingen zorgen, zonder dat je één euro advertentiebudget hoeft uit te geven."
 date: "2026-04-22"
+cluster: "samenwerkingen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenmaker-samenwerkingen-partnerschappen-groei.jpg"
 tags: ["Fietsenmaker", "Samenwerkingen", "Lokaal Netwerk", "Groei"]
 ---
-
 Een fietsenmaker met een goede straat-zichtbaarheid haalt omzet uit passanten. Een fietsenmaker met slimme lokale samenwerkingen haalt omzet uit een heel netwerk van bedrijven die jou structureel aanbevelen, elke dag opnieuw, zonder dat je reclame maakt. Het verschil tussen die twee is vaak niet vakkennis of locatie, maar bereidheid om partnerschappen op te zetten die wederzijds profijt hebben.
 
 In deze gids staan vier concrete typen lokale partners die voor een fietsenmaker structurele aanvoer garanderen: werkgevers met een fiets-van-de-zaak regeling, hotels en B&B's, scholen en sportverenigingen, en verzekeraars. Plus hoe je elk type partnership binnen een maand opzet zodat het al zichtbaar begint op te leveren.

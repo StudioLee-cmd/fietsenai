@@ -2,11 +2,11 @@
 title: "Hoe je als fietsenmaker meer reparatieklanten binnenhaalt via opvolging"
 excerpt: "De meeste fietsenmakers verliezen klanten niet aan de concurrent, maar aan trage opvolging. Zo pak je dat aan."
 date: "2026-04-15"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-fietsenwinkel-reparatie.jpg"
 tags: ["Leads", "Opvolging", "Fietsenmaker"]
 ---
-
 Een klant belt op donderdagmiddag: "Mijn versnelling schakelt niet meer soepel, kan ik langskomen?" Je bent bezig met een reparatie en neemt niet op. De klant laat geen voicemail achter en belt de fietsenmaker twee straten verderop.
 
 Voor veel fietsenmakers is dit dagelijkse realiteit. Niet omdat het werk slecht is, maar omdat de opvolging ontbreekt. Klanten verwachten snel antwoord en als dat niet komt, kiezen ze het pad van de minste weerstand: de concurrent die wel opneemt.

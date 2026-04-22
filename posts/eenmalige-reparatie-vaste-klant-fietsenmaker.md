@@ -2,11 +2,11 @@
 title: "Van eenmalige reparatie naar vaste klant: zo bouw je loyaliteit op als fietsenmaker"
 excerpt: "De meeste fietsklanten komen voor een reparatie en verdwijnen. Ontdek hoe je van die ene bandenwissel een vaste klantrelatie maakt."
 date: "2026-04-17"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/eenmalige-reparatie-vaste-klant-fietsenmaker.jpg"
 tags: ["Klantbehoud", "Leads", "Groei"]
 ---
-
 ## De meeste klanten komen maar één keer
 
 Een fietser stapt je werkplaats in met een lekke band, een piepende rem of een versleten ketting. Je repareert het, ze betalen en ze vertrekken. De kans dat diezelfde klant over zes maanden terugkomt voor een onderhoudsbeurt is klein, tenzij je er iets aan doet.

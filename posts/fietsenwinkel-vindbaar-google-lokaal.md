@@ -2,11 +2,11 @@
 title: "Fietsenwinkel vindbaar op Google: lokale vindbaarheid die werkt"
 excerpt: "Klanten zoeken online naar een fietsenmaker in de buurt. Zo zorg je dat jouw winkel bovenaan staat in Google."
 date: "2026-04-12"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-vindbaar-google-lokaal.jpg"
 tags: ["Vindbaarheid", "Google", "Groei"]
 ---
-
 ## Klanten zoeken lokaal naar een fietsenmaker
 
 "Fietsenmaker [stad]" of "fiets reparatie bij mij in de buurt" zijn de zoekopdrachten die klanten naar jouw winkel leiden. Google toont drie bedrijven in het lokale drieluik. Als jij daar niet tussen staat, gaan die klanten naar de concurrent om de hoek.

@@ -2,11 +2,11 @@
 title: "Review strategie voor fietswinkels"
 excerpt: "Tevreden klanten zijn je beste reclame. Ontdek hoe je als fietswinkel automatisch meer Google Reviews verzamelt na reparaties en verkoop."
 date: "2026-04-03"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-strategie-fietswinkel.jpg"
 tags: ["Reviews", "Review strategie", "Fietswinkel", "Google Reviews"]
 ---
-
 ## Waarom reviews een fietswinkel laten groeien
 
 De gemiddelde fietser kiest een fietswinkel op basis van twee dingen: locatie en reputatie. Locatie kun je niet veranderen, maar reputatie wel. Google Reviews zijn de snelste manier om een sterke reputatie op te bouwen in je buurt.

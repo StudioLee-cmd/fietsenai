@@ -2,11 +2,11 @@
 title: "Fietsreparatie aanvragen via je website: leads die direct in je werkplaats terechtkomen"
 excerpt: "Een slim reparatieformulier op je website zet websitebezoekers om in werkplaatsafspraken. Zo richt je het in."
 date: "2026-04-10"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsreparatie-aanvragen-website-leads.jpg"
 tags: ["Lead opvolging", "Fietswinkel", "Website"]
 ---
-
 ## Je website als intake-balie
 
 De meeste fietsenwinkels hebben een website met een adres, openingstijden en een contactformulier. Dat contactformulier is een gemiste kans. Het vraagt "naam, email, bericht" en de klant typt: "Mijn fiets maakt een raar geluid." Jij moet terugbellen om te vragen welke fiets, wat voor geluid, en wanneer ze willen langskomen.

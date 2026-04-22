@@ -2,11 +2,11 @@
 title: "E-bike onderhoud als extra omzetbron voor je fietsenwinkel"
 excerpt: "De e-bike markt groeit explosief. Ontdek hoe je als fietsenmaker extra omzet haalt uit onderhoud en service voor e-bikes."
 date: "2026-04-18"
+cluster: "e-bike-onderhoud"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-onderhoud-extra-omzet-fietsenmaker.jpg"
 tags: ["E-bikes", "Onderhoud", "Omzet"]
 ---
-
 ## De e-bike is de toekomst van je werkplaats
 
 Meer dan de helft van alle nieuw verkochte fietsen in Nederland is elektrisch. E-bike eigenaren investeren 2.000 tot 5.000 euro in hun fiets en willen die goed onderhouden. Dat is een markt die groeit en die hogere marges oplevert dan regulier fietsonderhoud.

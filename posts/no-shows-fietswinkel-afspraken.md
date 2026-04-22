@@ -2,11 +2,11 @@
 title: "No-shows in je fietswinkel voorkomen"
 excerpt: "Klanten die een reparatie-afspraak niet nakomen kosten je fietswinkel omzet en werkplaatscapaciteit. Ontdek hoe je no-shows vermindert met slimme herinneringen."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-fietswinkel-afspraken.jpg"
 tags: ["No-shows", "Fietswinkel", "Planning", "Werkplaats"]
 ---
-
 ## Waarom no-shows in je fietswinkel een groeiend probleem zijn
 
 Steeds meer fietswinkels werken op afspraak — zeker voor werkplaatswerk. E-bike onderhoud, versnellingsproblemen, wielcentreren: klanten boeken online een tijdslot en komen langs. Althans, dat is de bedoeling. In de praktijk komt 10 tot 15 procent niet opdagen.

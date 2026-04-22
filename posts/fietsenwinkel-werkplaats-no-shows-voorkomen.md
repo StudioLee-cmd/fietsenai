@@ -2,11 +2,11 @@
 title: "Werkplaats no-shows voorkomen als fietsenmaker"
 excerpt: "Klanten die hun fiets niet ophalen of niet komen voor een reparatie kosten je tijd en werkplaatsruimte. Zo voorkom je no-shows als fietsenmaker."
 date: "2026-04-19"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-werkplaats-no-shows-voorkomen.jpg"
 tags: ["Planning", "Werkplaats", "Tips"]
 ---
-
 ## Het probleem met fietsen die blijven staan
 
 Je werkplaats zit vol met fietsen die gerepareerd zijn maar niet opgehaald worden. Of erger: een klant heeft een afspraak voor een grote beurt maar komt niet opdagen. De werkplaatsplek is bezet, het onderdeel is besteld en je had een andere klant kunnen helpen.

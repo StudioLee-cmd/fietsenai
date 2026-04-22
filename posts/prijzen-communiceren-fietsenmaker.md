@@ -2,11 +2,11 @@
 title: "Prijzen communiceren als fietsenmaker: transparant zonder je marge weg te geven"
 excerpt: "Klanten googelen 'fiets reparatie kosten' voordat ze bellen. Als jouw website niks vermeldt, gaan ze naar de concurrent."
 date: "2026-04-05"
+cluster: "prijzen-communiceren"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-communiceren-fietsenmaker.jpg"
 tags: ["Prijzen", "Fietsenmaker", "Website"]
 ---
-
 ## "Wat kost een bandenwissel?"
 
 De klant staat in je werkplaats. Of belt. Of appt. Altijd dezelfde eerste vraag: wat kost het?

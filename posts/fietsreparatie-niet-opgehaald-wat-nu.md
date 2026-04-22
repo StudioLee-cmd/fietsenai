@@ -2,11 +2,11 @@
 title: "Fiets niet opgehaald na reparatie: wat doe je ermee?"
 excerpt: "De reparatie is klaar maar de klant komt niet ophalen. Hoe lang bewaar je het? Mag je kosten rekenen? Praktische antwoorden voor fietsenmakers."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsreparatie-niet-opgehaald-wat-nu.jpg"
 tags: ["No-shows", "Werkplaats", "Groei"]
 ---
-
 ## Het probleem van de vergeten fiets
 
 De reparatie is af, je hebt de klant gebeld, en dan... niks. De fiets staat al twee weken in je werkplaats. Je hebt geen ruimte meer, maar je kunt het niet zomaar weggooien. En ondertussen betaalt niemand de factuur.

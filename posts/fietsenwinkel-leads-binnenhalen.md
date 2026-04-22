@@ -2,11 +2,11 @@
 title: "Meer klanten voor je fietsenwinkel: online leads binnenhalen"
 excerpt: "Fietsenwinkeliers vertrouwen te veel op voorbijgangers. Ontdek hoe je online structureel nieuwe klanten aantrekt."
 date: "2026-04-06"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-leads-binnenhalen.jpg"
 tags: ["Marketing", "Fietsenwinkel", "Leads"]
 ---
-
 ## Niet iedereen loopt langs je etalage
 
 De meeste fietsenwinkeliers vertrouwen op hun locatie: mensen lopen langs, zien de fietsen in de etalage en komen binnen. Maar het koopgedrag verandert. Steeds meer fietsers oriënteren zich online, vergelijken prijzen, lezen reviews en boeken reparaties via een website, vaak voordat ze ooit een voet in je winkel zetten.

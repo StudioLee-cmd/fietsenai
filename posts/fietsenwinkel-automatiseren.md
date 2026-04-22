@@ -2,11 +2,11 @@
 title: "Fietsenwinkel automatiseren: minder achter de balie, meer in de werkplaats"
 excerpt: "Fietsenmakers besteden te veel tijd aan baliewerk en voorraadbeheer. Ontdek hoe automatisering je winkel efficiënter maakt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-automatiseren.jpg"
 tags: ["Automatisering", "Fietsenwinkel", "Werkplaats"]
 ---
-
 ## De werkplaats staat stil terwijl jij aan de balie staat
 
 Een klant komt binnen voor een lekke band. Terwijl je die repareert, belt iemand voor een e-bike afspraak. Een ander vraagt of dat fietslampje op voorraad is. Ondertussen wacht er een online bestelling die verwerkt moet worden.

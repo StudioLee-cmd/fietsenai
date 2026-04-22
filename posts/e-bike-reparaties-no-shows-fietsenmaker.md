@@ -2,11 +2,11 @@
 title: "E-bike reparaties en no-shows: waarom het bij duurdere fietsen vaker misgaat"
 excerpt: "No-shows bij e-bike reparaties komen vaker voor en kosten meer dan bij gewone fietsen. Ontdek waarom en wat je eraan doet."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-reparaties-no-shows-fietsenmaker.jpg"
 tags: ["No-shows", "E-bikes", "Werkplaats"]
 ---
-
 ## E-bike reparaties: hogere bedragen, hogere no-show kosten
 
 Een standaard bandenwissel kost 15 tot 25 euro. Een e-bike display dat niet werkt, een accu die getest moet worden of een naafmotor met een storing: dat loopt snel op naar 80 tot 300 euro. Wanneer een klant niet komt opdagen voor zo'n reparatie, voel je dat direct in je dagomzet.

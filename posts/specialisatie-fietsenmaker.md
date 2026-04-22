@@ -2,11 +2,11 @@
 title: "Specialiseren als fietsenmaker: hoe een niche je meer klanten oplevert"
 excerpt: "De fietsenmaker die alles doet, concurreert met iedereen. De specialist wint. Ontdek welke niche bij jouw werkplaats past."
 date: "2026-04-05"
+cluster: "specialisatie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialisatie-fietsenmaker.jpg"
 tags: ["Specialisatie", "Fietsenmaker", "Strategie"]
 ---
-
 ## De werkplaats die alles doet
 
 Stadsfietsen, racefietsen, e-bikes, bakfietsen, kinderfietsen, ligfietsen. Je repareert alles, verkoopt alles en bent voor iedereen beschikbaar. Klinkt goed, maar je valt nergens op.

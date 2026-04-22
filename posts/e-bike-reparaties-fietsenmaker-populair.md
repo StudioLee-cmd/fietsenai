@@ -2,11 +2,11 @@
 title: "E-bike reparaties: de 5 klussen die klanten het vaakst vragen"
 excerpt: "E-bikes domineren de fietsenmarkt. Ontdek welke reparaties klanten het vaakst nodig hebben en hoe je er als fietsenmaker op inspeelt."
 date: "2026-04-14"
+cluster: "e-bike-service"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-reparaties-fietsenmaker-populair.jpg"
 tags: ["E-bike", "Reparatie", "Fietsenmaker Tips"]
 ---
-
 ## E-bikes zijn de norm geworden
 
 Meer dan de helft van alle nieuw verkochte fietsen in Nederland is een e-bike. Dat betekent dat het gros van je klanten vroeg of laat met een elektrische fiets voor je deur staat. Niet voor een bandenwissel, maar voor problemen die een gewone fietsenmaker tien jaar geleden niet kende.

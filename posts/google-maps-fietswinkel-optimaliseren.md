@@ -2,11 +2,11 @@
 title: "Google Maps optimaliseren voor je fietswinkel"
 excerpt: "Wil je meer klanten uit je buurt? Ontdek hoe je als fietswinkel je Google Maps-profiel optimaliseert en bovenaan verschijnt bij lokale zoekopdrachten."
 date: "2026-04-04"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-maps-fietswinkel-optimaliseren.jpg"
 tags: ["SEO", "Google Maps", "Fietswinkel"]
 ---
-
 ## Waarom Google Maps onmisbaar is voor fietswinkels
 
 Fietsers kopen lokaal. Een lekke band, een nieuwe ketting of een e-bike uitzoeken — dat doe je bij een winkel in de buurt. Wanneer iemand op de telefoon zoekt naar 'fietswinkel in de buurt' of 'fiets reparatie [stad]', toont Google als eerste de kaartresultaten. Wie daar bovenaan staat, krijgt de klant.

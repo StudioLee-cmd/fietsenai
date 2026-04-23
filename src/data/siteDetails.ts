@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Fietsenmakers',
     siteUrl: 'https://www.fietsenai.nl/',
     metadata: {
-        title: 'FietsenAI - AI Telefoniste & Automatisering voor Fietsenmakers',
+        title: 'FietsenAI - AI voor fietsenmakers',
         description: 'FietsenAI helpt fietsenmakers groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & herinneringen.',
     },
     language: 'nl-NL',

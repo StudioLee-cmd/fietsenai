@@ -1,6 +1,6 @@
 ---
 title: "Reviews na fiets-onderhoud vragen"
-excerpt: "Een fietsenmaker die op het juiste moment om een review vraagt verzamelt 5 keer meer Google reviews. Welke timing werkt en welke scripts geven echte 5 sterren."
+excerpt: "Een fietsenmaker die op het juiste moment om een review vraagt verzamelt 5x meer reviews. Welke timing werkt en welke scripts geven 5 sterren."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenmaker-onderhoud-juiste-moment.jpg"

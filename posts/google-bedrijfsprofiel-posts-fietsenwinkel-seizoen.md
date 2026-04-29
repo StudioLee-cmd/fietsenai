@@ -4,6 +4,9 @@ slug: google-bedrijfsprofiel-posts-fietsenwinkel-seizoen
 date: 2026-04-29
 cluster: google-bedrijfsprofiel
 excerpt: "Een 12-maands seizoenskalender voor je Google Bedrijfsprofiel posts als fietsenwinkel. Welke onderwerpen, welke frequentie, plus 24 kant-en-klare templates."
+image: "/images/blog/google-bedrijfsprofiel-posts-fietsenwinkel-seizoen.jpg"
+authorSlug: "tim-van-der-lee"
+tags: ["Google Bedrijfsprofiel", "Posts", "Seizoenswerk", "Fietsenwinkel"]
 ---
 
 # Google Bedrijfsprofiel posts kalender voor fietsenwinkels: 12 maanden seizoenscontent

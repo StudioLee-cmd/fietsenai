@@ -1,7 +1,7 @@
 ---
 title: "Online vindbaarheid voor je fietswinkel: het 90-dagen actieplan"
 slug: fietswinkel-online-vindbaarheid-90-dagen-plan
-date: 2026-05-01
+date: "2026-05-01"
 excerpt: "In 90 dagen meetbaar hoger in Google als fietswinkel? Concreet weekplan voor Google Maps, website, reviews en seizoensacties die echt werken."
 image: "/images/blog/fietswinkel-online-vindbaarheid-90-dagen-plan.jpg"
 authorSlug: "tim-van-der-lee"

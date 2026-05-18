@@ -2,7 +2,7 @@
 title: "Fietsreparatie aanvragen via je website: leads die direct in je werkplaats terechtkomen"
 excerpt: "Een slim reparatieformulier op je website zet websitebezoekers om in werkplaatsafspraken. Zo richt je het in."
 date: "2026-04-10"
-cluster: "lead-opvolging"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsreparatie-aanvragen-website-leads.jpg"
 tags: ["Lead opvolging", "Fietswinkel", "Website"]

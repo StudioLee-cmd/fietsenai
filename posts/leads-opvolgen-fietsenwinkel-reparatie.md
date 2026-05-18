@@ -2,7 +2,7 @@
 title: "Hoe je als fietsenmaker meer reparatieklanten binnenhaalt via opvolging"
 excerpt: "De meeste fietsenmakers verliezen klanten niet aan de concurrent, maar aan trage opvolging. Zo pak je dat aan."
 date: "2026-04-15"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-fietsenwinkel-reparatie.jpg"
 tags: ["Leads", "Opvolging", "Fietsenmaker"]

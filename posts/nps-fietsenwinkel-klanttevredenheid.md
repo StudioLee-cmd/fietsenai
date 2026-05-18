@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nps-fietsenwinkel-klanttevredenheid.jpg"
 tags: ["Klanttevredenheid", "NPS", "Fietsenwinkel"]
-cluster: "klanttevredenheid"
+cluster: "automatisering"
 ---
 
 ## In het kort

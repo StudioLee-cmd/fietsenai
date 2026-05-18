@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-werkplaats-doorlooptijd-verkorten.jpg"
 tags: ["Werkplaats", "Doorlooptijd", "E-bike"]
-cluster: "tools-uitleg"
+cluster: "automatisering"
 ---
 
 Als fietsenwinkeleigenaar ken je het patroon. Het is half april, de zon breekt door, en de agenda van je werkplaats staat in drie dagen volgeboekt voor twee weken vooruit. Een vaste klant belt met een e-bike die rare geluiden maakt. Je moet antwoorden: "eerste beschikbare datum is over zeventien werkdagen". De klant antwoordt beleefd, maar binnen een week staat die e-bike bij een concurrent in de werkplaats. Verloren retentie, verloren reparatieomzet, verloren vervolgwerk. De doorlooptijd van je werkplaats is in het hoogseizoen niet alleen een operationele uitdaging — het is een directe bedreiging voor je klantenbinding.

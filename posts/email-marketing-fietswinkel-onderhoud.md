@@ -7,7 +7,7 @@ image: "/images/blog/email-marketing-fietswinkel-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "fietswinkel", "onderhoud"]
-cluster: "email-marketing"
+cluster: "automatisering"
 ---
 
 ## Waarom email marketing werkt voor fietswinkels

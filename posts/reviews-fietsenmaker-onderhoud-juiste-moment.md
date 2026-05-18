@@ -4,7 +4,7 @@ excerpt: "Een fietsenmaker die op het juiste moment om een review vraagt verzame
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenmaker-onderhoud-juiste-moment.jpg"
-cluster: "review-automatisering"
+cluster: "reviews"
 tags: ["Reviews", "Google Reviews", "Fietsenmaker Operaties"]
 ---
 

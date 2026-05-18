@@ -6,7 +6,7 @@ excerpt: "Hoe je Lease-a-Bike en andere fietsplan-providers inzet als referrer-n
 image: "/images/blog/lease-a-bike-referrer-netwerk-fietsenmaker.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Samenwerkingen", "Lease-a-Bike", "B2B", "Referrers"]
-cluster: "samenwerkingen"
+cluster: "branding"
 ---
 
 **In het kort:**

@@ -6,7 +6,7 @@ excerpt: "Een concurrentieanalyse helpt fietsenwinkels hun tarief en aanbod onde
 image: "/images/blog/concurrentieanalyse-fietsenwinkels-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
-cluster: "concurrentieanalyse"
+cluster: "branding"
 ---
 
 Een fietsenwinkel in Utrecht hanteerde 49 euro per uur voor reparaties terwijl de drie grootste lokale fietsenwinkels tussen 65 en 78 euro per uur zaten. De eigenaar dacht dat hij de "betaalbare keuze" was; in werkelijkheid was hij de "te goedkoop om serieus genomen te worden"-keuze. Aanpassen van zijn tarief in stappen van 5 euro per kwartaal leverde 18.000 euro extra omzet per jaar op, met dezelfde klantenkring.

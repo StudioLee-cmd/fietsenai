@@ -2,7 +2,7 @@
 title: "Google reviews voor je fietsenwinkel: automatisch verzamelen"
 excerpt: "Ontdek hoe je als fietsenwinkel automatisch Google reviews verzamelt na elke reparatie of verkoop. Complete gids met praktische stappen."
 date: "2026-04-07"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenwinkel-google-automatisch.jpg"
 tags: ["Reviews", "Fietsenwinkel", "Google"]

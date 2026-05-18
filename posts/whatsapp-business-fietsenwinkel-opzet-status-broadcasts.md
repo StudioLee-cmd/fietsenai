@@ -6,7 +6,7 @@ excerpt: "WhatsApp Business voor fietsenwinkels in 2026: complete opzet, status-
 image: "/images/blog/whatsapp-business-fietsenwinkel-opzet-status-broadcasts.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "WhatsApp", "Communicatie", "Fietsenmaker", "Fietsen"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

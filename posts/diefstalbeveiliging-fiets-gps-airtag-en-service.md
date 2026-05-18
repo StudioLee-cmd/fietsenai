@@ -6,7 +6,7 @@ excerpt: "GPS-trackers, Apple AirTag-mounts en abonnement-monitoring als hoog-ma
 image: "/images/blog/diefstalbeveiliging-fiets-gps-airtag-en-service.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Specialisatie", "Diefstalbeveiliging", "GPS", "AirTag", "Fietsen"]
-cluster: "specialisatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

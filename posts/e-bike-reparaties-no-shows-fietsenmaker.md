@@ -2,7 +2,7 @@
 title: "E-bike reparaties en no-shows: waarom het bij duurdere fietsen vaker misgaat"
 excerpt: "No-shows bij e-bike reparaties komen vaker voor en kosten meer dan bij gewone fietsen. Ontdek waarom en wat je eraan doet."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-reparaties-no-shows-fietsenmaker.jpg"
 tags: ["No-shows", "E-bikes", "Werkplaats"]

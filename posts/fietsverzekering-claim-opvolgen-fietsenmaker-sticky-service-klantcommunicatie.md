@@ -6,7 +6,7 @@ excerpt: "Fiets-verzekering claim opvolgen voor klanten als fietsenmaker: ENRA/U
 image: "/images/blog/fietsverzekering-claim-opvolgen-fietsenmaker-sticky-service-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "Verzekering", "ENRA", "Sticky-service", "Fietsenmaker"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

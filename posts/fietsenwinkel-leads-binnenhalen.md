@@ -2,7 +2,7 @@
 title: "Meer klanten voor je fietsenwinkel: online leads binnenhalen"
 excerpt: "Fietsenwinkeliers vertrouwen te veel op voorbijgangers. Ontdek hoe je online structureel nieuwe klanten aantrekt."
 date: "2026-04-06"
-cluster: "lead-opvolging"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-leads-binnenhalen.jpg"
 tags: ["Marketing", "Fietsenwinkel", "Leads"]

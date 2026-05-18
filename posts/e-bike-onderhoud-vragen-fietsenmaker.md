@@ -2,7 +2,7 @@
 title: "E-bike onderhoud: 6 vragen die elke fietsenmaker moet kennen"
 excerpt: "E-bike eigenaren hebben andere vragen dan gewone fietsers. Ontdek welke 6 onderhoudsvragen het vaakst komen en hoe je er als fietsenmaker op inspeelt."
 date: "2026-04-14"
-cluster: "e-bike-service"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-onderhoud-vragen-fietsenmaker.jpg"
 tags: ["E-bike", "Onderhoud", "Fietsenmaker Tips"]

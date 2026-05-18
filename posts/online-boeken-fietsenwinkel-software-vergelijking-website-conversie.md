@@ -6,7 +6,7 @@ excerpt: "Online boeken voor fietsenwinkels: Calendly vs SuperSaaS vs Vendit voo
 image: "/images/blog/online-boeken-fietsenwinkel-software-vergelijking-website-conversie.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Website-conversie", "Online-boeken", "Calendly", "SuperSaaS", "Vendit", "Fietsenmaker"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 **In het kort:**

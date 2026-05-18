@@ -2,7 +2,7 @@
 title: "No-shows bij fietsreparaties voorkomen: praktische gids voor fietswinkels"
 excerpt: "Een no-show kost je een hele reparatieslot. Lees hoe je met simpele bevestigingen no-shows in je fietswinkel met 80 procent reduceert."
 date: "2026-04-08"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-reparatie-no-shows-voorkomen.jpg"
 tags: ["No-shows", "Fietsenwinkel", "Werkplaats"]

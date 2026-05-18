@@ -2,7 +2,7 @@
 title: "Offerte e-bike reparatie: transparant werken loont"
 excerpt: "Offertes voor e-bike reparaties: waarom transparantie vooraf je conversie verdubbelt en hoe je dat praktisch inricht zonder extra administratie."
 date: "2026-04-21"
-cluster: "offerte-proces"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-e-bike-reparatie-transparant-prijsgevoelige-klant.jpg"
 tags: ["Fietsenzaak", "E-bike", "Offerte-proces", "Klantcommunicatie"]

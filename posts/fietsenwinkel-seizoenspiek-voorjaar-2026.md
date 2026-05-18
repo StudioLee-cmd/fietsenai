@@ -5,7 +5,7 @@ date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-seizoenspiek-voorjaar-2026.jpg"
 tags: ["Seizoenswerk", "Voorjaar", "Fietsenwinkel"]
-cluster: "seizoenswerk"
+cluster: "automatisering"
 ---
 
 Een fietsenwinkel verdient ruwweg de helft van zijn jaaromzet in 4 maanden: maart, april, mei en juni. In die piek-tijd staan klanten in de rij, wachten reparaties weken, en moet je nieuwe fietsen verkopen terwijl de servicebalie overloopt. Wie dit niet vooraf plant, mist 20-30 procent omzet en verliest klanten aan de concurrent die wél structuur heeft.

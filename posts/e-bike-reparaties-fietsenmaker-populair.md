@@ -2,7 +2,7 @@
 title: "E-bike reparaties: de 5 klussen die klanten het vaakst vragen"
 excerpt: "E-bikes domineren de fietsenmarkt. Ontdek welke reparaties klanten het vaakst nodig hebben en hoe je er als fietsenmaker op inspeelt."
 date: "2026-04-14"
-cluster: "e-bike-service"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-reparaties-fietsenmaker-populair.jpg"
 tags: ["E-bike", "Reparatie", "Fietsenmaker Tips"]

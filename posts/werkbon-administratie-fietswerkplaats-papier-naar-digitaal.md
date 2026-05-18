@@ -2,7 +2,7 @@
 title: "Werkbon-administratie in een fietswerkplaats: van papier naar digitale klantkaart in 30 dagen"
 excerpt: "Een gemiddelde fietswerkplaats verspilt 6-9 uur per week aan papieren werkbonnen, kwijtgeraakte tickets en bel-overhead. Zo migreer je in 30 dagen naar een digitale werkbon-flow zonder klanten of personeel te verliezen."
 date: "2026-04-25"
-cluster: "administratie"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkbon-administratie-fietswerkplaats-papier-naar-digitaal.jpg"
 tags: ["Fietsenwinkel", "Administratie", "Werkbon", "Digitalisering"]

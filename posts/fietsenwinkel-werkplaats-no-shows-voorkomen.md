@@ -2,7 +2,7 @@
 title: "Werkplaats no-shows voorkomen als fietsenmaker"
 excerpt: "Klanten die hun fiets niet ophalen of niet komen voor een reparatie kosten je tijd en werkplaatsruimte. Zo voorkom je no-shows als fietsenmaker."
 date: "2026-04-19"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-werkplaats-no-shows-voorkomen.jpg"
 tags: ["Planning", "Werkplaats", "Tips"]

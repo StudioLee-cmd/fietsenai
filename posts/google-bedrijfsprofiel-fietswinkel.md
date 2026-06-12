@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als fietswinkel: gratis klanten uit je buurt"
+seoTitle: "Google Bedrijfsprofiel als fietswinkel"
 excerpt: "Optimaliseer je Google Bedrijfsprofiel en trek gratis klanten aan. Praktische tips voor fietsenwinkels om lokaal beter gevonden te worden."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"

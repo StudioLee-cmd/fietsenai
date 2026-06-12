@@ -1,6 +1,7 @@
 ---
 title: "Hoe AI Fietsenmakers Helpt Bij Het Besparen Van Tijd (En Waarom Je Werkplaats Straks Ook Zonder Jou Draait)"
-excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van fietsenmakers kan automatiseren. Van werkplaatsplanning tot herinneringen: dit is je nieuwe digitale hulp."
+seoTitle: "Hoe AI Fietsenmakers Helpt Bij Het Besparen Van Tijd"
+excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van fietsenmakers automatiseert. Van werkplaatsplanning tot herinneringen: je digitale hulp."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-fietsenmakers-helpt.png"

@@ -1,5 +1,6 @@
 ---
 title: "Fietsenwinkel seizoens-piek: zo plan je het voorjaar 2026 vooraf in"
+seoTitle: "Fietsenwinkel seizoens-piek"
 excerpt: "De helft van je jaaromzet komt in maart-juni binnen. Een goed plan voor de piek-maanden voorkomt 30% afgeschrokken klanten en lange wachttijden."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

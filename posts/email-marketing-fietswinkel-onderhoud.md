@@ -1,5 +1,6 @@
 ---
 title: "Email marketing voor fietswinkels: onderhoudstips die klanten binden"
+seoTitle: "Email marketing voor fietswinkels"
 slug: "email-marketing-fietswinkel-onderhoud"
 date: "2026-03-22"
 excerpt: "Elke fiets heeft onderhoud nodig. Met slimme email marketing herinner je klanten op het juiste moment en bouw je aan een vaste klantenkring."

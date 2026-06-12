@@ -1,5 +1,6 @@
 ---
 title: "No-shows bij fietsreparaties voorkomen: praktische gids voor fietswinkels"
+seoTitle: "No-shows bij fietsreparaties voorkomen"
 excerpt: "Een no-show kost je een hele reparatieslot. Lees hoe je met simpele bevestigingen no-shows in je fietswinkel met 80 procent reduceert."
 date: "2026-04-08"
 cluster: "automatisering"

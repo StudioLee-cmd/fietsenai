@@ -1,6 +1,7 @@
 ---
 title: "E-bike werkplaats doorlooptijd verkorten: 4 concrete ingrepen"
-excerpt: "In het hoogseizoen loopt de wachttijd voor e-bike reparaties op tot drie weken. Klanten gaan naar een concurrent. Dit artikel legt vier ingrepen uit die de doorlooptijd direct halveren."
+seoTitle: "E-bike werkplaats doorlooptijd verkorten"
+excerpt: "In het hoogseizoen loopt de wachttijd voor e-bike reparaties op tot drie weken. Vier ingrepen die de doorlooptijd direct halveren."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-werkplaats-doorlooptijd-verkorten.jpg"

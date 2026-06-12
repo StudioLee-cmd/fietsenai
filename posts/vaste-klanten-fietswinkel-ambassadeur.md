@@ -1,6 +1,7 @@
 ---
 title: "Vaste klanten als fietswinkel: van eenmalige koper tot ambassadeur"
-excerpt: "Leer hoe je als fietswinkel eenmalige kopers omzet in vaste klanten die steeds terugkomen."
+seoTitle: "Vaste klanten als fietswinkel"
+excerpt: "Leer hoe je als fietswinkel eenmalige kopers omzet in vaste klanten die steeds terugkomen. Met onderhoudsherinneringen, service-abonnementen en nazorg."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaste-klanten-fietswinkel-ambassadeur.png"

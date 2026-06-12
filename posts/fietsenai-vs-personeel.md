@@ -1,6 +1,7 @@
 ---
 title: "FietsenAI vs. Extra Personeel: Waarom een AI-assistent slimmer is dan een binnendienst"
-excerpt: "De harde vergelijking tussen de kosten van een medewerker en de kracht van AI. Bespaar duizenden euro's per maand."
+seoTitle: "FietsenAI vs. Extra Personeel"
+excerpt: "De harde vergelijking tussen de kosten van een medewerker en de kracht van AI. Bespaar duizenden euro's per maand. Met rekenvoorbeeld."
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenai-vs-personeel.png"

@@ -1,5 +1,6 @@
 ---
 title: "Geen Telefoontjes Meer Tijdens het Sleutelen: De AI Telefoniste voor Fietsenmakers"
+seoTitle: "Geen Telefoontjes Meer Tijdens het Sleutelen"
 excerpt: "Mis nooit meer een reparatie-aanvraag of e-bike verkoop omdat je met je handen in een motor zit. Onze Voice AI neemt op als een mens and plant je agenda vol."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

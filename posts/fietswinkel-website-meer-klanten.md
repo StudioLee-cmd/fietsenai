@@ -1,5 +1,6 @@
 ---
 title: "Je fietswinkel-website als verkoopkanaal: meer klanten online bereiken"
+seoTitle: "Je fietswinkel-website als verkoopkanaal"
 slug: "fietswinkel-website-meer-klanten"
 date: "2026-03-21"
 excerpt: "Een fietswinkel leeft van lokale klanten, maar je website kan veel meer doen dan er alleen maar zijn. Leer hoe je online meer klanten bereikt."

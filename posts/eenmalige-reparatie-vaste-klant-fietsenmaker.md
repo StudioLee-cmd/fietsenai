@@ -1,5 +1,6 @@
 ---
 title: "Van eenmalige reparatie naar vaste klant: zo bouw je loyaliteit op als fietsenmaker"
+seoTitle: "Van eenmalige reparatie naar vaste klant"
 excerpt: "De meeste fietsklanten komen voor een reparatie en verdwijnen. Ontdek hoe je van die ene bandenwissel een vaste klantrelatie maakt."
 date: "2026-04-17"
 cluster: "automatisering"

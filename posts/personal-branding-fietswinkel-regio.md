@@ -1,5 +1,6 @@
 ---
 title: "Personal branding als fietswinkel: zo word je de favoriete fietszaak in je regio"
+seoTitle: "Personal branding als fietswinkel"
 slug: "personal-branding-fietswinkel-regio"
 date: "2026-03-23"
 excerpt: "Er zijn tientallen fietswinkels in je regio. Personal branding maakt jouw winkel herkenbaar en de eerste keuze voor klanten in de buurt."

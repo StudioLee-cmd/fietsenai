@@ -1,6 +1,7 @@
 ---
 title: "Klanttevredenheid in je fietswinkel: van tevreden naar loyaal"
-excerpt: "Ontdek hoe je als fietswinkel klanttevredenheid verhoogt en van tevreden klanten loyale ambassadeurs maakt."
+seoTitle: "Klanttevredenheid in je fietswinkel"
+excerpt: "Ontdek hoe je als fietswinkel klanttevredenheid verhoogt en van tevreden klanten loyale ambassadeurs maakt. Met concrete meetpunten."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-fietswinkel-loyale-klanten.jpg"

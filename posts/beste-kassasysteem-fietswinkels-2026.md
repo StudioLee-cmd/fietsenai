@@ -1,6 +1,6 @@
 ---
 title: "Beste kassasysteem voor fietswinkels 2026: tools vergeleken"
-excerpt: "Welk kassasysteem past bij jouw fietswinkel? Een eerlijke vergelijking van de beste tools voor fietsenzaken in 2026."
+excerpt: "Welk kassasysteem past bij jouw fietswinkel? Een eerlijke vergelijking van de beste tools voor fietsenzaken in 2026. Met prijzen."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-kassasysteem-fietswinkels-2026.png"

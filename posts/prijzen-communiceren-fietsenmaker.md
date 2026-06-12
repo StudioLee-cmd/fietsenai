@@ -1,5 +1,6 @@
 ---
 title: "Prijzen communiceren als fietsenmaker: transparant zonder je marge weg te geven"
+seoTitle: "Prijzen communiceren als fietsenmaker"
 excerpt: "Klanten googelen 'fiets reparatie kosten' voordat ze bellen. Als jouw website niks vermeldt, gaan ze naar de concurrent."
 date: "2026-04-05"
 cluster: "website"

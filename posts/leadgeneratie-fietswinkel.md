@@ -1,6 +1,7 @@
 ---
 title: "Leadgeneratie als fietswinkel: meer klanten via slimme kanalen"
-excerpt: "Google en voorbijgangers zijn niet genoeg. Ontdek welke leadkanalen fietswinkels missen voor structurele groei."
+seoTitle: "Leadgeneratie als fietswinkel"
+excerpt: "Google en voorbijgangers zijn niet genoeg. Ontdek welke leadkanalen fietswinkels missen voor structurele groei. Met praktijkvoorbeelden."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-fietswinkel.png"

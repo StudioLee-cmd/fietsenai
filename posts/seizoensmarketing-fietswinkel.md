@@ -1,5 +1,6 @@
 ---
 title: "Seizoensmarketing voor je fietswinkel: verdien het hele jaar door"
+seoTitle: "Seizoensmarketing voor je fietswinkel"
 excerpt: "Fietswinkels draaien seizoensgebonden, maar dat hoeft niet. Ontdek hoe je met slimme marketing het hele jaar omzet draait."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"

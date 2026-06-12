@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als fietswinkel: klanten die andere fietsers sturen"
-excerpt: "De krachtigste marketing voor fietswinkels is mond-tot-mond. Leer hoe je klanten activeert als ambassadeurs."
+seoTitle: "Mond-tot-mondreclame als fietswinkel"
+excerpt: "De krachtigste marketing voor fietswinkels is mond-tot-mond. Leer hoe je klanten activeert als ambassadeurs. Met concrete acties."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-fietswinkel.png"

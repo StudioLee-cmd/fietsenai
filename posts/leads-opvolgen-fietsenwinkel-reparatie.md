@@ -1,6 +1,7 @@
 ---
 title: "Hoe je als fietsenmaker meer reparatieklanten binnenhaalt via opvolging"
-excerpt: "De meeste fietsenmakers verliezen klanten niet aan de concurrent, maar aan trage opvolging. Zo pak je dat aan."
+seoTitle: "Meer reparatieklanten als fietsenmaker via opvolging"
+excerpt: "De meeste fietsenmakers verliezen klanten niet aan de concurrent, maar aan trage opvolging. Zo pak je dat aan. Met automatische opvolging."
 date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

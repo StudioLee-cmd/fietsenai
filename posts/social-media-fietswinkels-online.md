@@ -1,5 +1,6 @@
 ---
 title: "Social media voor fietswinkels: meer klanten bereiken via online marketing"
+seoTitle: "Social media voor fietswinkels"
 excerpt: "Ontdek hoe fietswinkels social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor fietswinkels in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

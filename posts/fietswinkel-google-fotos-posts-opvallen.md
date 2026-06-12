@@ -1,5 +1,6 @@
 ---
 title: "Je fietswinkel laten opvallen in Google: foto's en posts die klanten trekken"
+seoTitle: "Je fietswinkel laten opvallen in Google"
 excerpt: "Google Bedrijfsprofiel foto's en posts maken het verschil voor je fietswinkel. Zo val je op in de zoekresultaten en trek je meer klanten."
 date: "2026-04-09"
 cluster: "vindbaarheid"

@@ -1,5 +1,6 @@
 ---
 title: "Een webshop als fietswinkel: online verkopen naast je fysieke winkel"
+seoTitle: "Een webshop als fietswinkel"
 excerpt: "Online verkopen is geen bedreiging voor je fietswinkel — het is een verlengstuk. Zo zet je een webshop op die je fysieke winkel versterkt."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

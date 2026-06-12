@@ -1,6 +1,7 @@
 ---
 title: "Fietsreparatie aanvragen via je website: leads die direct in je werkplaats terechtkomen"
-excerpt: "Een slim reparatieformulier op je website zet websitebezoekers om in werkplaatsafspraken. Zo richt je het in."
+seoTitle: "Fietsreparatie aanvragen via je website"
+excerpt: "Een slim reparatieformulier op je website zet websitebezoekers om in werkplaatsafspraken. Zo richt je het in. Stap voor stap."
 date: "2026-04-10"
 cluster: "website"
 authorSlug: "tim-van-der-lee"

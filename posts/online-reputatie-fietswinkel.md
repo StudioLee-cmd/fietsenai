@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als fietswinkel: reviews die klanten overtuigen"
+seoTitle: "Online reputatie als fietswinkel"
 excerpt: "Klanten checken je reviews voordat ze langskomen. Ontdek hoe je als fietswinkel een sterke online reputatie opbouwt die nieuwe klanten aantrekt."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

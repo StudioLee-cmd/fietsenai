@@ -1,5 +1,6 @@
 ---
 title: "Fiets klaar? Automatische meldingen die je klanten blij maken"
+seoTitle: "Fiets klaar? Automatische meldingen voor klanten"
 excerpt: "Klanten die bellen met 'Is mijn fiets al klaar?' kosten je uren per week. Automatische meldingen lossen dat op — en maken je klanten blij."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

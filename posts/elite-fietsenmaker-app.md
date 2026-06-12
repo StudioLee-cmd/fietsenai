@@ -1,5 +1,6 @@
 ---
 title: "De Elite Fietsen App: Bied je zakelijke klanten hun eigen reparatie-portal"
+seoTitle: "De Elite Fietsen App"
 excerpt: "Onderscheid je van de massa. Geef je zakelijke klanten (leasemaatschappijen, fleets) hun eigen app om reparaties aan te melden."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"

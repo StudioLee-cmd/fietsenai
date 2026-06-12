@@ -1,6 +1,7 @@
 ---
 title: "Fietsenmaker samenwerkingen: 4 partners die omzet verdubbelen"
-excerpt: "Welke vier typen lokale partnerschappen een fietsenmaker voor voorspelbare reparatie-stromen en retail-verwijzingen zorgen, zonder dat je één euro advertentiebudget hoeft uit te geven."
+seoTitle: "Fietsenmaker samenwerkingen"
+excerpt: "Welke vier typen lokale partnerschappen een fietsenmaker voor voorspelbare reparatie-stromen en retail-verwijzingen zorgen."
 date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"

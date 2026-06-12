@@ -1,6 +1,6 @@
 ---
 title: "Hoe een fietswinkel meer klanten trekt via Google"
-excerpt: "Fietswinkels concurreren steeds meer met webshops en grote ketens. De zelfstandige fietswinkel wint op service, expertise en lokale aanwezigheid. Zo maak je dat zichtbaar online."
+excerpt: "Fietswinkels concurreren steeds meer met webshops en grote ketens. De zelfstandige fietswinkel wint op service, expertise en lokale aanwezigheid."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google.png"

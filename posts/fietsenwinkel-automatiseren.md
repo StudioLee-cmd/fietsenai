@@ -1,5 +1,6 @@
 ---
 title: "Fietsenwinkel automatiseren: minder achter de balie, meer in de werkplaats"
+seoTitle: "Fietsenwinkel automatiseren"
 excerpt: "Fietsenmakers besteden te veel tijd aan baliewerk en voorraadbeheer. Ontdek hoe automatisering je winkel efficiënter maakt."
 date: "2026-04-06"
 cluster: "automatisering"

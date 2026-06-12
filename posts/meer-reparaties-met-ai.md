@@ -1,5 +1,6 @@
 ---
 title: "Krijg Automatisch Meer Google Reviews (En domineer de fietsenmarkt in jouw regio)"
+seoTitle: "Krijg Automatisch Meer Google Reviews"
 excerpt: "Reviews zijn goud waard for een fietsenmaker. Maar erom vragen wordt vaak vergeten. Laat onze AI dit volledig overnemen en zie je werkplaats volstromen."
 date: "2025-12-20"
 authorSlug: "tim-van-der-lee"

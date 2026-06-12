@@ -1,6 +1,7 @@
 ---
 title: "Fietsenwinkel vindbaar op Google: lokale vindbaarheid die werkt"
-excerpt: "Klanten zoeken online naar een fietsenmaker in de buurt. Zo zorg je dat jouw winkel bovenaan staat in Google."
+seoTitle: "Fietsenwinkel vindbaar op Google"
+excerpt: "Klanten zoeken online naar een fietsenmaker in de buurt. Zo zorg je dat jouw winkel bovenaan staat in Google. Met lokale SEO-tips."
 date: "2026-04-12"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

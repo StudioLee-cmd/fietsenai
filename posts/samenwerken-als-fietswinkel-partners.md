@@ -1,6 +1,7 @@
 ---
 title: "Samenwerken als fietswinkel: partners die meer klanten brengen"
-excerpt: "Strategische samenwerkingen met sportverenigingen, werkgevers en touroperators helpen fietswinkels aan meer omzet."
+seoTitle: "Samenwerken als fietswinkel"
+excerpt: "Strategische samenwerkingen met sportverenigingen, werkgevers en touroperators helpen fietswinkels aan meer omzet. Zo pak je het aan."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-fietswinkel-partners.png"

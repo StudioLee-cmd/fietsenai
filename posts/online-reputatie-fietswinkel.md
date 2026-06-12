@@ -82,7 +82,7 @@ Door duidelijk te communiceren over levertijden, prijzen en verwachtingen, voork
 
 Naast reviews kun je je reputatie op andere manieren versterken:
 
-- **[E-bike service expertise](/blog/e-bike-onderhoud-fietswinkel-kansen)** — positioneer je als specialist in het snelst groeiende segment
+- **E-bike service expertise** — positioneer je als specialist in het snelst groeiende segment
 - **Lokale sponsoring** — sponsor een fietsevenement, wielerclub of schoolfietsencheck
 - **Community bouwen** — organiseer een fietstocht, een onderhoudsworkshop, of een e-bike proefritdag
 - **Duurzaamheid** — klanten waarderen fietswinkels die tweedehands fietsen opknappen of fietsrecycling aanbieden
@@ -99,4 +99,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. H
 
 In de fietsenbranche is je online reputatie het verschil tussen klanten die binnenlopen en klanten die doorlopen. Door systematisch reviews te verzamelen, professioneel te reageren op feedback, en je expertise actief te tonen, bouw je een reputatie die klanten overtuigt om bij jou te kopen — ook als de online concurrent goedkoper is.
 
-Lees ook hoe je [vaste klanten bouwt voor je fietswinkel](/blog/vaste-klanten-fietswinkel-ambassadeur) en hoe [fietsonderhoud als verdienmodel werkt](/blog/fietsonderhoud-verdienmodel-service).
+Lees ook hoe je [vaste klanten bouwt voor je fietswinkel](/blog/vaste-klanten-fietswinkel-ambassadeur) en hoe fietsonderhoud als verdienmodel werkt.

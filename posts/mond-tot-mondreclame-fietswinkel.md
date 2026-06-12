@@ -32,7 +32,7 @@ De rode draad: het gaat om de ervaring, niet alleen het product.
 
 ### 1. Excellente service na aankoop
 
-De fiets verkopen is het begin, niet het einde. Bied een gratis [eerste servicebeurt](/blog/fietsonderhoud-verdienmodel-service) aan na 6 weken. Klanten die terugkomen voor service, worden ambassadeurs.
+De fiets verkopen is het begin, niet het einde. Bied een gratis eerste servicebeurt aan na 6 weken. Klanten die terugkomen voor service, worden ambassadeurs.
 
 ### 2. Creeer community
 

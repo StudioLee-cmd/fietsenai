@@ -32,7 +32,7 @@ De beste keuze hangt af van je markt, expertise en passie.
 
 - **Website** — maak je niche direct duidelijk op je [homepage](/blog/fietswinkel-website-meer-klanten)
 - **Google** — optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel) met de juiste categorieen
-- **Content** — schrijf specifiek over je niche (e-bike [onderhoud](/blog/fietsonderhoud-verdienmodel-service), racefietstips)
+- **Content** — schrijf specifiek over je niche (e-bike onderhoud, racefietstips)
 - **Reviews** — vraag klanten specifiek over hun ervaring met jouw specialisatie via [Google reviews](/blog/meer-google-reviews-fietswinkel)
 
 ## Specialisatie en service

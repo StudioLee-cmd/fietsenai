@@ -47,7 +47,7 @@ In toeristische gebieden is fietsverhuur een lucratieve aanvulling:
 - Seizoensverhuur voor expats
 - Samenwerking met hotels en B&B's
 
-### 4. [E-bike onderhoud](/blog/e-bike-onderhoud-fietswinkel-kansen) als klantenmagneet
+### 4. E-bike onderhoud als klantenmagneet
 
 E-bikes vereisen gespecialiseerd onderhoud. Positioneer je als de e-bike specialist:
 

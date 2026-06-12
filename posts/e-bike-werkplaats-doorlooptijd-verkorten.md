@@ -52,7 +52,7 @@ Bij pre-intake kun je al vaak inschatten welk onderdeel nodig is. Dus:
 - **Klanten proactief informeren** over potentiële levertijd, zodat ze niet verrast worden
 - **Waar mogelijk alternatieve onderdelen suggereren** ("we hebben een compatibel alternatief op voorraad, is dat ok?") — klanten kiezen vaak voor snelheid boven merk-specifiek onderdeel
 
-Lees onze aanpak voor [beste software voor fietsenwinkels in 2026](/blog/beste-software-voor-fietsenmakers-2026) voor welke praktijksoftware deze voorraad-koppeling het best doet.
+Lees onze aanpak voor beste software voor fietsenwinkels in 2026 voor welke praktijksoftware deze voorraad-koppeling het best doet.
 
 ## Ingreep 4: status-updates automatisch
 

@@ -20,7 +20,7 @@ Branding geeft het antwoord. Het maakt jouw winkel herkenbaar en geeft klanten e
 
 Elke fietswinkel heeft iets unieks:
 
-- **Specialisatie**: ben je de [e-bike expert](/blog/e-bike-onderhoud-fietswinkel-kansen) van de regio? De racefiets-specialist? De gezinsfietsenzaak?
+- **Specialisatie**: ben je de e-bike expert van de regio? De racefiets-specialist? De gezinsfietsenzaak?
 - **Service**: ben je bekend om je snelle reparaties? Je persoonlijk advies? Je eerlijke onderhoudstips?
 - **Beleving**: is je winkel een plek waar je een kop koffie drinkt terwijl je fiets wordt nagekeken?
 
@@ -32,7 +32,7 @@ Kies een positie die past bij je sterkte en die je onderscheidt. Niet alles voor
 
 **[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel)**. Houd het actueel met foto's, openingstijden en wekelijkse updates. "Nieuwe Gazelle collectie binnen!" of "Werkplaats vandaag vrij — breng je fiets langs."
 
-**[Social media](/blog/social-media-voor-fietsenmakers)**. Deel reparatie-tips, nieuwe fietsen, klantenverhalen en [seizoenstips](/blog/seizoensmarketing-fietswinkel). Wees consistent — minstens twee posts per week.
+**Social media**. Deel reparatie-tips, nieuwe fietsen, klantenverhalen en [seizoenstips](/blog/seizoensmarketing-fietswinkel). Wees consistent — minstens twee posts per week.
 
 ## Lokaal herkenbaar worden
 

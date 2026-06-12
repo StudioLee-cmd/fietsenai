@@ -12,7 +12,7 @@ cluster: "website"
 
 ## Waarom je fietswinkel-website meer kan doen
 
-De meeste fietswinkels zien hun website als een digitale etalage: adres, openingstijden en een paar foto's van de winkel. Functioneel, maar niet effectief. Een goede website kan veel meer: afspraken voor [onderhoud](/blog/fietsonderhoud-verdienmodel-service) genereren, [e-bike](/blog/e-bike-onderhoud-fietswinkel-kansen) informatie aanbieden en klanten naar je winkel trekken.
+De meeste fietswinkels zien hun website als een digitale etalage: adres, openingstijden en een paar foto's van de winkel. Functioneel, maar niet effectief. Een goede website kan veel meer: afspraken voor onderhoud genereren, e-bike informatie aanbieden en klanten naar je winkel trekken.
 
 Het begint met begrijpen hoe je klanten zoeken. Mensen googelen "fietswinkel [plaatsnaam]", "fiets reparatie bij mij in de buurt" of "e-bike kopen [regio]". Als je website niet op deze zoekopdrachten verschijnt, mis je klanten die actief naar jou zoeken.
 

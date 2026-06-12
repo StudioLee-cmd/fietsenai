@@ -45,7 +45,7 @@ E-bikes zijn het hele jaar relevant — mensen gebruiken ze voor woon-werkverkee
 - **Herfst:** "Donkere dagen, slimme verlichting. Upgrade je e-bike voor de winter."
 - **Winter:** "Accuzorg in de winter: gratis check voor alle e-bike eigenaren."
 
-Elke campagne heeft een ander haakje, maar het doel is hetzelfde: klanten naar je winkel brengen. Lees meer over de kansen van e-bike onderhoud in ons artikel over [e-bike onderhoud als groeimarkt](/blog/e-bike-onderhoud-fietswinkel-kansen).
+Elke campagne heeft een ander haakje, maar het doel is hetzelfde: klanten naar je winkel brengen. Lees meer over de kansen van e-bike onderhoud in ons artikel over e-bike onderhoud als groeimarkt.
 
 ## Strategie 3: Evenementen en workshops
 

@@ -96,4 +96,4 @@ Twee momenten om slim te benutten:
 
 Seizoensgebondenheid is geen onvermijdelijk lot — het is een marketingprobleem met concrete oplossingen. Door je aanbod aan te passen aan het seizoen, actief te promoten, en klanten het hele jaar redenen te geven om langs te komen, bouw je een fietswinkel die 12 maanden per jaar draait.
 
-Wil je hulp bij het opzetten van een slimme marketingstrategie voor je fietswinkel? Bekijk wat [FietsenAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het opzetten van een slimme marketingstrategie voor je fietswinkel? Bekijk wat [FietsenAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

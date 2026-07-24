@@ -129,6 +129,6 @@ Bij FietsenAI helpen we fietsenmakers hun Instagram professioneel inrichten met 
 - Een [reviews-flow voor fietsenmakers](/reviews) die klant-quotes oplevert voor hergebruik in Stories
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/social-media-fietswinkels-online" class="text-dark fw-semibold">Social media voor fietswinkels: meer klanten bereiken via online marketing</a> →</p></div></div></div>

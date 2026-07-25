@@ -8,10 +8,9 @@ image: "/images/blog/meer-reparaties-met-ai.png"
 tags: ["Marketing", "Reviews", "Google Maps"]
 cluster: "reviews"
 ---
-
 Als je zelf een nieuwe e-bike zoekt of een goede reparateur, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een zaak 3,4 sterren? Dan scroll je door, want je vertrouwt ze niet met je dure e-bike. Heeft hij 4,9 sterren met 200 reviews? Dan rijd je er direct naartoe. In een branche waar vakmanschap en vertrouwen centraal staan, is jouw online reputatie je belangrijkste bezit.
 
-Voor jouw werkplaats zijn Google Reviews de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant (die vaak van ver komt voor een goede e-bike specialist) eigenlijk niet. Zeker bij reparaties van €500+ willen klanten zekerheid. Maar hoe kom je aan die reviews zonder dat het ongemakkelijk voelt?
+Voor jouw werkplaats zijn [Google Reviews](/reviews) de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant (die vaak van ver komt voor een goede e-bike specialist) eigenlijk niet. Zeker bij reparaties van €500+ willen klanten zekerheid. Maar hoe kom je aan die reviews zonder dat het ongemakkelijk voelt?
 
 ## Het Probleem: De "Fiets-is-Klaar-Chaos"
 

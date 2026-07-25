@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-fietsenmakers-helpt.png"
 tags: ["AI", "Efficiëntie", "Werkplaats"]
 cluster: "automatisering"
 ---
-
 Het runnen van een fietsenwinkel of werkplaats anno 2026 is topsport. Je bent niet alleen de vakman die e-bikes tot in de puntjes afstelt, maar je bent ook planner, telefoniste, magazijnbeheerder en klantenservice in één. Veel ondernemers die wij spreken, staan de hele dag te sleutelen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, onderdelen bestellen en klanten informeren dat hun fiets klaar is.
 
 De realiteit is dat de markt verandert. Klanten verwachten directe reacties, strakke communicatie en 24/7 bereikbaarheid. Als zelfstandige fietsenmaker of eigenaar van een shop is dat bijna onmogelijk te bolwerken zonder dat je privéleven eronder lijdt. Gelukkig is er een oplossing die geen extra personeel vereist: Kunstmatige Intelligentie (AI).
@@ -36,9 +35,11 @@ Met FietsenAI is dit verleden tijd. Het systeem kan oneindig veel gesprekken teg
 ## Wat vervangt dit systeem precies?
 
 Veel ondernemers denken dat AI hun vakmanschap wil vervangen. Dat is onzin. Een robot kan (voorlopig) geen gebroken spaak vervangen of een e-bike storing uitlezen. Het gaat om het vervangen van het trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
-- **De Telefoniste/Planner:** Een kracht op kantoor of iemand die alleen de telefoon doet kost veel geld en tijd. Onze Voice AI neemt 24/7 op, plant beurten in, en beantwoordt vragen over openingstijden en tarieven.
+- **De Telefoniste/Planner:** Een kracht op kantoor of iemand die alleen de telefoon doet kost veel geld en tijd. Onze [Voice AI](/voice-ai) neemt 24/7 op, plant beurten in, en beantwoordt vragen over openingstijden en tarieven.
 - **De SMS-Dienst:** Nooit meer handmatig appen dat een fiets klaar is. Zodra jij de status wijzigt, krijgt de klant automatisch een berichtje met de factuurlink.
 - **Het Marketingbureau:** Wil je meer e-bike verkopen of onderhoudscontracten? Onze Social Media AI regelt je zichtbaarheid op Instagram met foto's uit je eigen werkplaats.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/crm-meerdere-monteurs-notities-delen-fietsenwinkel" class="text-dark fw-semibold">CRM met meerdere monteurs: notities delen zonder Excel</a> →</p></div></div></div>
 
 ## Waarom het een No-Brainer is voor elke fietsenmaker
 

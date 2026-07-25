@@ -8,7 +8,6 @@ image: "/images/blog/webshop-fietswinkel-online-verkopen.png"
 tags: ["Fietswinkel", "Webshop", "Online Verkoop"]
 cluster: "website"
 ---
-
 ## Waarom een webshop voor fietswinkels logisch is
 
 De Nederlandse fietsmarkt is €2+ miljard per jaar. Een groeiend deel daarvan gaat online. Grote spelers zoals Mantel, Fietsenwinkel.nl en Decathlon domineren de online markt. Maar lokale fietswinkels hebben een voordeel: persoonlijke service, lokale binding en het feit dat fietsen een product is dat je wilt passen en voelen.
@@ -82,7 +81,7 @@ Laat je producten verschijnen in Google Shopping. Klanten die zoeken op "fietssl
 
 ### Lokale SEO
 
-Combineer je webshop met lokale vindbaarheid:
+Combineer je webshop met lokale [vindbaarheid](/seo):
 - "Fietswinkel [plaatsnaam]" + online bestellen
 - Google Bedrijfsprofiel met link naar webshop
 - Lokale bezorging als extra service
@@ -103,6 +102,8 @@ Bouw een klantenbestand en stuur:
 | Accessoire-omzet/maand | €3.000 | €5.000-8.000 |
 | Klantenbestand | Lokaal | Groeiend landelijk |
 | Investering | — | €200-500/maand |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/prijzen-communiceren-fietsenmaker" class="text-dark fw-semibold">Prijzen communiceren als fietsenmaker: transparant zonder je marge weg te geven</a> →</p></div></div></div>
 
 ## Conclusie
 

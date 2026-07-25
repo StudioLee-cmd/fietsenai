@@ -39,6 +39,8 @@ Vraag na elke reparatie om een review. Het moment bij het ophalen is ideaal: de 
 
 Zorg dat je naam, adres en telefoonnummer overal hetzelfde zijn: Google, je website, Yelp, Telefoongids. Inconsistente gegevens verwarren Google en kosten je posities.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/fietsenmaker-vindbaar-chatgpt-ai-search" class="text-dark fw-semibold">Vindbaar in ChatGPT als fietsenmaker: AI-search gids</a> →</p></div></div></div>
+
 ## Begin met je profiel
 
 Open je Google Bedrijfsprofiel, vul alles in en upload foto's. Vijftien minuten werk met direct effect.

@@ -108,6 +108,8 @@ Voor fietsenmakers die dit traject volledig laten begeleiden: in onze managed se
 
 Daarnaast helpt een [sterke website](/gratis-website) die je partnership-propositie prominent toont enorm: werkgevers en verzekeraars checken je site voordat ze met je in zee gaan, en een professionele uitstraling maakt de aanname "dit is een betrouwbare partner" veel sneller.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/concurrentieanalyse-fietsenwinkels-6-datapunten" class="text-dark fw-semibold">Concurrentieanalyse fietsenwinkel: 6 datapunten in 30 min</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je partnerships na zes maanden niet meetbaar voor extra voorspelbare omzet zorgen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige partnership-potentieel te laten analyseren of bekijk hoe [automatische review-flows](/reviews) via WhatsApp je partnership-reputatie versterken. Jij repareert fietsen, wij regelen de rest.

@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Google Maps", "SEO", "Stappenplan", "Lokale Marketing"]
 cluster: "vindbaarheid"
 ---
-
 Een fietsenwinkel die niet bovenaan in Google Maps verschijnt voor "fietsenmaker bij mij in de buurt", mist gemiddeld 60 procent van de potentiële walk-ins. Niet omdat de winkel slecht is — vaak juist het tegendeel — maar omdat online vindbaarheid in 2026 een vak op zich is geworden waar fietsenwinkels weinig tijd voor nemen tussen reparaties en verkoop door.
 
 Dit artikel is voor jou als fietsenwinkel-eigenaar die wil weten wat je in de komende 90 dagen concreet kunt doen om hoger te ranken in Google, meer reviews te verzamelen, en seizoensgebonden klantstromen beter op te vangen. Geen abstracte SEO-theorie — een week-voor-week stappenplan dat je op een rustige donderdagochtend kunt uitvoeren.
@@ -115,6 +114,8 @@ Belangrijk: deze cijfers gelden bij consistente uitvoering. Twee van de zes acti
 - **Website-optimalisatie:** €0 (DIY) tot €1.500 eenmalig (bureau) tot €69-149 per maand (AI-platform met onderhoud inbegrepen)
 
 Een gemiddelde fietsenwinkel met €450.000 omzet ziet door dit traject 25 tot 40 procent groei in nieuwe klanten in jaar twee — €112.000 tot €180.000 extra omzet. Tegenover €1.000 tot €3.000 totale investering.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/vindbaarheid-fietswinkel-online-klanten-trekken" class="text-dark fw-semibold">Vindbaarheid van je fietswinkel: online klanten trekken</a> →</p></div></div></div>
 
 ## Begin vandaag, niet over een seizoen
 

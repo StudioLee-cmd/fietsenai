@@ -7,7 +7,6 @@ image: "/images/blog/nps-fietsenwinkel-klanttevredenheid.jpg"
 tags: ["Klanttevredenheid", "NPS", "Fietsenwinkel"]
 cluster: "automatisering"
 ---
-
 ## In het kort
 
 - **NPS (Net Promoter Score) meet je in 30 seconden** met één hoofdvraag plus twee opvolgvragen.
@@ -137,6 +136,8 @@ Voor de score: nee. Anonieme NPS verliest follow-up mogelijkheden. Voor open fee
 ### Werkt het ook voor zakelijke klanten?
 
 Ja, soms zelfs beter. B2B klanten geven meer detail in de open vraag en hebben een sterker netwerk-effect bij doorverwijzingen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/diefstalbeveiliging-fiets-gps-airtag-en-service" class="text-dark fw-semibold">Diefstalbeveiliging fiets: GPS, AirTag en service</a> →</p></div></div></div>
 
 ## Klaar om je service te verbeteren?
 

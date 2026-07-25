@@ -64,6 +64,8 @@ Na het live zetten van het formulier houd je bij hoeveel aanvragen er per week b
 
 De meeste fietsenwinkels zien een verdubbeling van online aanvragen na het implementeren van een gericht reparatieformulier. De reden is simpel: de drempel is lager. De klant hoeft niet na te denken over wat ze moet schrijven, ze selecteert opties en klikt op verzenden.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/fietsenwinkel-leads-binnenhalen" class="text-dark fw-semibold">Meer klanten voor je fietsenwinkel: online leads binnenhalen</a> →</p></div></div></div>
+
 ## Conclusie: van vaag bericht naar werkplaatsafspraak
 
 Een slim reparatieformulier verandert je website van een digitaal visitekaartje in een intake-balie. Klanten doen een gerichte aanvraag, jij krijgt gestructureerde informatie, en de afspraak is met een klik bevestigd.

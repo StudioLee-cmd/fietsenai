@@ -82,7 +82,7 @@ Elke Custom Action Link halveert de wrijving tussen "klant ziet jouw winkel" en 
 
 ## Google Bedrijfsprofiel én Apple Business Connect tegelijk beheren
 
-De grootste valkuil bij Apple Business Connect: je vergeet dat je nog steeds je Google Bedrijfsprofiel hebt en deze uit elkaar gaan lopen. Drie regels om dit te voorkomen:
+De grootste valkuil bij Apple Business Connect: je vergeet dat je nog steeds je [Google Bedrijfsprofiel](/blog/google-qa-fietsenmaker-vragen-vooraf-beantwoorden) hebt en deze uit elkaar gaan lopen. Drie regels om dit te voorkomen:
 
 - Je naam, adres en telefoonnummer (NAP) zijn op beide platforms exact identiek. Eén verschil in spelling van je straatnaam en beide algoritmes verzwakken.
 - Openingstijden, ook voor feestdagen, update je gelijktijdig op beide. Een feestdag-update op één platform en niet op de andere geeft klanten foutieve info.

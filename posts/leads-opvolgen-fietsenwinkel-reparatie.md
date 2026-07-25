@@ -44,6 +44,8 @@ Een gemiddelde fietsenmaker mist drie tot vijf serieuze aanvragen per week door 
 
 Automatische opvolging vangt 60 tot 70 procent van die gemiste leads op. De kosten: vanaf €79 per maand. De terugverdientijd: minder dan een week.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-fietswinkel-aanvragen" class="text-dark fw-semibold">Lead opvolging als fietswinkel: elke aanvraag benutten</a> →</p></div></div></div>
+
 ## Direct starten
 
 Elke gemiste oproep is een klant die naar de concurrent fietst. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel leads je kunt opvangen. Groei-of-Geld-Terug Garantie.

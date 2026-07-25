@@ -7,7 +7,6 @@ image: "/images/blog/reviews-fietsenmaker-onderhoud-juiste-moment.jpg"
 cluster: "reviews"
 tags: ["Reviews", "Google Reviews", "Fietsenmaker Operaties"]
 ---
-
 Een klant haalt zijn fiets op na een grote onderhoudsbeurt. De ketting is gepoetst, de remmen zijn nieuw, de banden hard. Hij stapt op, voelt het verschil, en denkt: "Wat fijn." Op dat moment zou hij blind een 5-sterren review schrijven. Maar de fietsenmaker zegt niets, vraagt niets, en de klant fietst weg met een glimlach. Drie weken later belt hij terug omdat de derailleur niet schakelt zoals het moet, en is hij niet meer in de stemming voor een review. De gemiste kans is structureel: 80 procent van de fietsenmakers vraagt nooit om een review, terwijl klanten op het juiste moment maar wat graag willen geven.
 
 Voor een fietsenmaker zijn Google reviews een van de hoogste-leverende marketingacties. Een 4.8-stars-rating met 80 reviews trekt 3 keer meer nieuwe klanten dan een 4.5-rating met 12 reviews. Dit artikel laat zien wanneer en hoe je vraagt zodat je structureel meer reviews krijgt zonder opdringerig te voelen, plus welke scripts in de praktijk werken bij Nederlandse fietsenmakers.
@@ -109,7 +108,7 @@ Bij drie Nederlandse fietsenmakers die we het afgelopen jaar hebben begeleid bij
 - **Nieuwe klanten via Google:** +30 tot +50 procent (rating + aantal reviews trekken).
 - **Tijd-investering:** 30 sec extra per fiets-overdracht plus 2 min per dag voor opvolg-berichten.
 
-Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 nieuwe Google reviews per maand zonder structurele tijdsinvestering.
+Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 nieuwe [Google reviews](/blog/meer-reparaties-met-ai) per maand zonder structurele tijdsinvestering.
 
 ## Drie veelgemaakte fouten
 

@@ -8,14 +8,13 @@ image: "/images/blog/ai-telefoniste-voor-fietsenmakers.png"
 tags: ["Voice AI", "Klantenservice", "Efficiëntie"]
 cluster: "voice-ai"
 ---
-
 Je kent het wel: je ben net bezig met een delicate software-update van een Bosch-systeem of je staat een wiel te rechten. Concentratie is alles. En dan... gaat de telefoon. Je voelt hem trillen, je ziet het nummer. Een klant. Misschien voor die nieuwe e-bike van €4000, misschien voor een lekke band.
 
 Je kunt niet opnemen. Je handen zijn vies, of je zit midden in een proces dat je niet kunt onderbreken. Dus je laat hem gaan. Je denkt: "Ik bel straks wel terug." Maar tegen de tijd dat jij je handen hebt gewassen, heeft de klant de volgende fietsenmaker in de buurt al gebeld. Weg kans. Weg omzet.
 
 ## 24/7 Bereikbaarheid, Zelfs als de Werkplaats Dicht is
 
-Klanten zoeken vaak 's avonds naar een fietsenmaker als ze uit hun werk komen and merken dat hun licht kapot is of hun accu niet laadt. Ze bellen dan graag direct voor een afspraak. Als jij dan niet opneemt, wachten ze niet tot de volgende ochtend. Met de Voice AI van FietsenAI is je zaak altijd bereikbaar.
+Klanten zoeken vaak 's avonds naar een fietsenmaker als ze uit hun werk komen and merken dat hun licht kapot is of hun accu niet laadt. Ze bellen dan graag direct voor een afspraak. Als jij dan niet opneemt, wachten ze niet tot de volgende ochtend. Met de [Voice AI](/voice-ai) van FietsenAI is je zaak altijd bereikbaar.
 
 Onze AI (laten we haar Sanne noemen) klinkt verbazingwekkend menselijk. Ze kan:
 - **Direct plannen:** "Ik zie dat we morgen om 09:00 een plekje hebben voor een diagnose. Zal ik dat voor u vastleggen?"

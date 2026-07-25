@@ -115,6 +115,8 @@ Tijdens piekperiodes kun je tijdelijk strenger zijn:
 
 Buiten de piek kun je weer ontspannen en alleen werken met de bevestigingsketen.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/fietsenwinkel-seizoenspiek-voorjaar-2026" class="text-dark fw-semibold">Fietsenwinkel seizoens-piek: zo plan je het voorjaar 2026 vooraf in</a> →</p></div></div></div>
+
 ## Begin deze week
 
 1. Schrijf je drie berichtsjablonen (bevestiging, 48u, 24u)

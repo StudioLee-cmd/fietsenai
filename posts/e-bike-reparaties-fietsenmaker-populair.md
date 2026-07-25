@@ -48,6 +48,8 @@ Veel klanten weten niet dat hun e-bike software-updates nodig heeft. Fabrikanten
 
 Klanten die merken dat hun fiets na een update beter presteert, worden loyale klanten die goede [reviews](/reviews) achterlaten.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leadgeneratie-fietswinkel" class="text-dark fw-semibold">Leadgeneratie als fietswinkel: meer klanten via slimme kanalen</a> →</p></div></div></div>
+
 ## E-bike service is de toekomst van je werkplaats
 
 De markt verschuift. Over vijf jaar is de gewone trapfiets de uitzondering, niet de norm. Fietsenmakers die nu investeren in e-bike kennis, gereedschap en certificeringen, zijn de winnaars van morgen.

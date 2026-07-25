@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-fietswinkel-aanvragen.jpg"
 tags: ["Lead opvolging", "Verkoop", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom fietswinkels online aanvragen mislopen
 
 De fietsmarkt verandert. Klanten oriënteren zich online — ze vergelijken modellen, lezen reviews en sturen aanvragen naar meerdere winkels tegelijk. De winkel die het snelst reageert, krijgt de verkoop.
@@ -53,7 +52,7 @@ Klanten voelen zich persoonlijk geholpen via WhatsApp. De drempel om te kopen da
 
 ## Van websitebezoeker naar winkelbezoeker
 
-Het doel van online lead opvolging is niet per se online verkopen — het is de klant naar je winkel krijgen. De meeste fietsen worden nog steeds in de winkel verkocht na een proefrit.
+Het doel van online [lead opvolging](/blog/fietsreparatie-aanvragen-website-leads) is niet per se online verkopen — het is de klant naar je winkel krijgen. De meeste fietsen worden nog steeds in de winkel verkocht na een proefrit.
 
 De funnel:
 
@@ -65,6 +64,8 @@ De funnel:
 6. **Winkelbezoek en verkoop**
 
 Elke stap moet frictieloos zijn. Hoe makkelijker je het maakt, hoe meer websitebezoekers klanten worden.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-fietsenwinkel-reparatie" class="text-dark fw-semibold">Hoe je als fietsenmaker meer reparatieklanten binnenhaalt via opvolging</a> →</p></div></div></div>
 
 ## Meer omzet zonder extra marketing
 

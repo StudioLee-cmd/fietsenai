@@ -41,6 +41,8 @@ Klanten die online boeken zijn minder geneigd om niet te komen dan klanten die t
 
 Zorg dat je [website](/gratis-website) een boekingssysteem heeft voor werkplaatsafspraken. Dat spaart jou telefoontijd en verlaagt no-shows.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/fietsenwinkel-reparatie-no-shows-voorkomen" class="text-dark fw-semibold">No-shows bij fietsreparaties voorkomen: praktische gids voor fietswinkels</a> →</p></div></div></div>
+
 ## Zet het systeem op en vergeet het
 
 Een systeem dat automatisch herinnert, bevestigt en ophaalmeldingen stuurt draait op de achtergrond. Je hoeft er niets voor te doen behalve afspraken inplannen zoals je altijd doet.

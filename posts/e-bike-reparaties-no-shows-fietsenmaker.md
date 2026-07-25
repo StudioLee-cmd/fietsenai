@@ -52,6 +52,8 @@ De meeste klanten halen hun fiets dan binnen een week op. De enkele keer dat iem
 
 Een [chatbot](/chatbot) op je website kan klanten helpen een ophaaltijdstip te kiezen, zodat het voor jou en de klant makkelijk en overzichtelijk blijft.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/fietsreparatie-niet-opgehaald-wat-nu" class="text-dark fw-semibold">Fiets niet opgehaald na reparatie: wat doe je ermee?</a> →</p></div></div></div>
+
 ## Maak e-bike service winstgevend
 
 E-bikes zijn de toekomst van je werkplaats. De marges zijn hoger, de klanten zijn loyaler en de onderhoudsbehoefte is groter dan bij gewone fietsen. Maar alleen als je de no-shows onder controle houdt. Met duidelijke communicatie, aanbetalingen en automatische herinneringen houd je je werkplaats vol en je omzet op peil. Wil je weten hoe je dit slim aanpakt? Vraag een [gratis scan](/gratis-scan) aan.

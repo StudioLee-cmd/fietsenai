@@ -29,7 +29,7 @@ Een fietsenwinkel-website hoeft geen webshop te zijn om klanten te genereren. Ma
 
 ### Online werkplaatsboekingen
 
-Klanten willen hun reparatie online boeken. Een formulier waar ze het type reparatie kiezen, een tijdslot selecteren en automatisch een bevestiging krijgen. Dit verlaagt de drempel en levert je gekwalificeerde afspraken op.
+Klanten willen hun reparatie [online boeken](/blog/online-boeken-fietsenwinkel-software-vergelijking-website-conversie). Een formulier waar ze het type reparatie kiezen, een tijdslot selecteren en automatisch een bevestiging krijgen. Dit verlaagt de drempel en levert je gekwalificeerde afspraken op.
 
 ![Online leads voor fietsenwinkel](/images/blog/fietsenwinkel-leads-binnenhalen-2.jpg)
 
@@ -66,6 +66,8 @@ Fietsen zijn visueel: mooie modellen, glanzende e-bikes, spectaculaire werkplaat
 - **Werkgevers:** bied bedrijfsfietsprogramma's aan, fietsplan/leasefiets
 - **Sportverenigingen:** sponsor een lokale wielerclub
 - **Scholen:** kortingsactie voor scholieren bij het nieuwe schooljaar
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-fietsenmaker-app" class="text-dark fw-semibold">De Elite Fietsen App: Bied je zakelijke klanten hun eigen reparatie-portal</a> →</p></div></div></div>
 
 ## Resultaat
 

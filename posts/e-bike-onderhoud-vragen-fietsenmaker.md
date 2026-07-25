@@ -55,6 +55,8 @@ Banden oppompen, ketting smeren en lampen checken kan de klant zelf. Maar alles 
 
 Communiceer dit duidelijk. Klanten die weten waar de grens ligt tussen zelf doen en vakman inschakelen, komen sneller naar je toe in plaats van eerst zelf te klussen en het probleem erger te maken.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantsegmentatie-fietsenwinkel-whatsapp-flows" class="text-dark fw-semibold">Klantsegmentatie in je fietsenwinkel: 3 WhatsApp-flows</a> →</p></div></div></div>
+
 ## E-bike service is de toekomst van je werkplaats
 
 De fietsenmaker die alleen banden plakt en kettingen vervangt, mist de groeimarkt. E-bike eigenaren zijn de meest waardevolle klanten die je kunt hebben: ze komen vaker terug, betalen meer en zijn loyaler aan een specialist die hun fiets begrijpt.

@@ -7,7 +7,6 @@ image: "/images/blog/hoe-fietswinkel-ai-gebruikt-service-marketing.png"
 tags: ["AI", "Automatisering", "Fietsen"]
 cluster: "automatisering"
 ---
-
 Fietswinkels hebben het druk — zeker in het voorjaar en de zomer. Reparaties, onderhoudsbeurten, e-bike controles: de werkplaats loopt vol. Tegelijkertijd verwachten klanten snelle communicatie en heldere service. AI helpt fietswinkels beide te leveren.
 
 ## Wat AI doet voor fietswinkels
@@ -34,6 +33,8 @@ Na elk onderhoudsbezoek stuurt AI een reviewverzoek. Tevreden klanten schrijven 
 **Stap 1**: Activeer online werkplaatsplanning.
 **Stap 2**: Stel automatische statusupdates in.
 **Stap 3**: Activeer seizoensmatige onderhoudsherinneringen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-fietswinkel-loyale-klanten" class="text-dark fw-semibold">Klanttevredenheid in je fietswinkel: van tevreden naar loyaal</a> →</p></div></div></div>
 
 ## Conclusie
 

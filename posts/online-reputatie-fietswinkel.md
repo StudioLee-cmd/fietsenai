@@ -8,7 +8,6 @@ image: "/images/blog/online-reputatie-fietswinkel.png"
 tags: ["Reputatie", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 De tijd dat klanten simpelweg de dichtstbijzijnde fietswinkel binnenliepen, is voorbij. In 2026 checken consumenten eerst je Google-reviews, vergelijken ze je met concurrenten, en lezen ze ervaringen van andere klanten. Pas dán besluiten ze of ze bij jou langskomen of bij de concurrent verderop.
 
 Je online reputatie is je digitale etalage. In dit artikel lees je hoe je als fietswinkel een reputatie opbouwt die klanten overtuigt — en hoe je omgaat met de onvermijdelijke negatieve review.
@@ -21,7 +20,7 @@ Fietswinkels concurreren op drie fronten:
 2. **Andere lokale fietswinkels** — directe concurrenten in jouw regio
 3. **Tweedehands platforms** — Marktplaats, Facebook Marketplace
 
-Tegen online retailers kun je niet op prijs concurreren. Je wint op service, expertise en vertrouwen. En dat vertrouwen wordt in 2026 opgebouwd via reviews.
+Tegen online retailers kun je niet op prijs concurreren. Je wint op service, expertise en [vertrouwen](/reviews). En dat vertrouwen wordt in 2026 opgebouwd via reviews.
 
 Een klant die twijfelt tussen jouw winkel en een online bestelling, leest je reviews en denkt: "Ze hebben 4,8 sterren, de service is persoonlijk, en ze helpen ook met reparaties. Dat is het extra geld waard."
 

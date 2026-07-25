@@ -53,6 +53,8 @@ Bewaar altijd de communicatiegeschiedenis (WhatsApp-berichten, e-mails) als bewi
 
 Bij duurdere reparaties (boven de 50 euro) is een aanbetaling van 50 procent een slimme zet. De klant heeft al betaald en zal eerder ophalen. En als diegene toch niet komt, dek je minstens de helft van je kosten.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-fietswinkel" class="text-dark fw-semibold">Wat is ChatGPT en hoe gebruik je het als fietswinkel?</a> →</p></div></div></div>
+
 ## Werkplaatsruimte is geld waard
 
 Elke fiets die onnodig in je werkplaats staat neemt ruimte in die je kunt gebruiken voor reparaties die wel betalen. Vijf vergeten fietsen is een hele rij die je werkruimte verkleint.

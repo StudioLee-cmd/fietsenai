@@ -83,4 +83,4 @@ Wie deze cijfers elke maand bewaakt, ziet vroegtijdig of er een dip aankomt. Onz
 
 ## Groei-of-Geld-Terug Garantie
 
-Als na drie maanden je offerte-conversie op e-bike reparaties niet meetbaar is gestegen, krijg je je investering terug. Jij repareert de fietsen, wij zorgen dat klanten ja zeggen op de offerte.
+Als na drie maanden je offerte-conversie op [e-bike reparaties](/blog/e-bike-reparaties-fietsenmaker-populair) niet meetbaar is gestegen, krijg je je investering terug. Jij repareert de fietsen, wij zorgen dat klanten ja zeggen op de offerte.

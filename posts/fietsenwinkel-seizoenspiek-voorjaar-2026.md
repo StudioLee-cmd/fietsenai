@@ -8,7 +8,6 @@ image: "/images/blog/fietsenwinkel-seizoenspiek-voorjaar-2026.jpg"
 tags: ["Seizoenswerk", "Voorjaar", "Fietsenwinkel"]
 cluster: "automatisering"
 ---
-
 Een fietsenwinkel verdient ruwweg de helft van zijn jaaromzet in 4 maanden: maart, april, mei en juni. In die piek-tijd staan klanten in de rij, wachten reparaties weken, en moet je nieuwe fietsen verkopen terwijl de servicebalie overloopt. Wie dit niet vooraf plant, mist 20-30 procent omzet en verliest klanten aan de concurrent die wél structuur heeft.
 
 De goede kans: het voorjaars-piek is voorspelbaar, dus je kunt 'm voorbereiden. Dit artikel geeft een concreet 90-dagen-plan voor wat je in januari, februari en maart moet regelen om klaar te zijn als de drukte losbarst.
@@ -131,6 +130,8 @@ Wat fietsenwinkels in maart fout doen:
 3. **Telefoon constant onbereikbaar**: gemiste oproepen = verloren klanten.
 4. **Nieuwe-fietsen-verkoop verwaarlozen** omdat de servicebalie alle aandacht opslokt.
 5. **Personeel uitputten** door geen aanvulling te regelen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/fietsenai-vs-personeel" class="text-dark fw-semibold">FietsenAI vs. Extra Personeel: Waarom een AI-assistent slimmer is dan een binnendienst</a> →</p></div></div></div>
 
 ## Hoe je deze week begint
 

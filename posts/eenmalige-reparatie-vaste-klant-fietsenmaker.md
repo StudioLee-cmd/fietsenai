@@ -48,6 +48,8 @@ Voor e-bikes is dit bijzonder interessant. E-bike eigenaren investeren 2.000 tot
 
 Zet het abonnement op je website met een duidelijke pagina: wat zit erin, wat kost het, hoe werkt het. Overweeg een [professionele website](/gratis-website) als die pagina er nu niet is. Klanten die online zoeken naar "fietsonderhoud abonnement" vinden dan jouw winkel.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-fietsenmakers-helpt" class="text-dark fw-semibold">Hoe AI Fietsenmakers Helpt Bij Het Besparen Van Tijd (En Waarom Je Werkplaats Straks Ook Zonder Jou Draait)</a> →</p></div></div></div>
+
 ## Maak het systeem, niet het werk
 
 Het verschil tussen een fietsenmaker die elke klant verliest en een die ze behoudt, zit niet in de techniek. Het zit in het systeem erachter: contactgegevens verzamelen, op het juiste moment herinneringen sturen, het makkelijk maken om terug te komen.

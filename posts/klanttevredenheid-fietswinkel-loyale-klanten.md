@@ -8,7 +8,6 @@ image: "/images/blog/klanttevredenheid-fietswinkel-loyale-klanten.jpg"
 tags: ["Klanttevredenheid", "Service", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom klanttevredenheid cruciaal is
 
 Nederland is een fietsland. Er zijn meer fietsen dan inwoners. Dat betekent dat er geen tekort is aan potentiële klanten voor je fietswinkel. Maar het betekent ook dat er geen tekort is aan concurrentie.
@@ -63,6 +62,8 @@ Een tevreden klant is goed. Maar een ambassadeur — iemand die actief jouw wink
 4. **Deel klantverhalen**: met toestemming, deel positieve ervaringen op social media
 
 Het verschil tussen een tevreden klant en een ambassadeur is vaak één vraag. Durf die vraag te stellen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nps-fietsenwinkel-klanttevredenheid" class="text-dark fw-semibold">NPS in fietsenwinkel: 3 vragen die je service verbeteren</a> →</p></div></div></div>
 
 ## Praktische tips voor meer tevredenheid
 

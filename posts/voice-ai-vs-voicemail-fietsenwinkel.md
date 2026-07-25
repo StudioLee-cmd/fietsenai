@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Voice AI", "Bereikbaarheid", "Reparaties"]
 cluster: "voice-ai"
 ---
-
 Het is woensdagmiddag in maart, het echte voorjaarsweer is net begonnen, en je werkbank staat al om 09:30 vol met fietsen. Een MTB met een afgesleten cassette, twee e-bikes voor jaarbeurt, en op de standaard hangt een omafiets waarvan je de wielmaten net hebt opgemeten. Je telefoon trilt voor de zevende keer vandaag. Je handen zitten onder de kettingsmeer en je weet dat het een potentiële klant is. Je weet net zo goed dat de voicemail die straks misschien wordt ingesproken, een blip van twee seconden gaat zijn van iemand die ondertussen al een collega-zaak heeft gebeld.
 
 Dit is geen anekdote, dit is wat een [ai telefonist voor fietsenmakers](/voice-ai) in 2026 oplost. En het is precies waarom voicemail, dat ooit het excuus was om handen-vrij te kunnen werken, vandaag in een seizoenspiek de duurste leak van je week is geworden.
@@ -89,6 +88,8 @@ Daarom werk je met een script dat alleen vraagt en bevestigt, nooit dichtspijker
 Precies hier verslaat Voice AI voicemail het hardst. Op een drukke zaterdag mis je makkelijk dertig à veertig oproepen tussen 10:00 en 16:00. Voicemail vangt daarvan misschien vijf. Voice AI vangt alle dertig à veertig, screent op spoed (lekke band krijgt voorrang), en je opent maandagochtend je inbox met een gestructureerde lijst leads in plaats van een handvol onleesbare berichten.
 
 <div style="background-color: rgba(173, 216, 230, 0.18); padding: 1rem 1.25rem; border-radius: 0.5rem; margin: 1.5rem 0;"><strong>Lees ook:</strong> <a href="/blog/voice-ai-fietsenmaker-telefoontjes-tijdens-reparatie"><strong>Voice AI fietsenmaker: telefoontjes tijdens reparatie</strong></a> →</div>
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/spoedtarief-vrijdagavond-ai-script-fietsenwinkel" class="text-dark fw-semibold">Spoedtarief op vrijdagavond: AI-script voor je fietsenwinkel</a> →</p></div></div></div>
 
 ## Tot slot
 

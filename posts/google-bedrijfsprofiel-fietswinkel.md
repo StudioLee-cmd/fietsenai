@@ -8,12 +8,11 @@ image: "/images/blog/google-bedrijfsprofiel-fietswinkel.jpg"
 tags: ["Google", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
-
 Als fietswinkel ben je afhankelijk van klanten uit je directe omgeving. En waar zoeken die klanten? Op Google. Een goed geoptimaliseerd Google Bedrijfsprofiel is de meest effectieve — en volledig gratis — manier om meer klanten naar je winkel te trekken.
 
 ## Wat is een Google Bedrijfsprofiel?
 
-Een Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is jouw gratis bedrijfsvermelding op Google. Het verschijnt rechts in de zoekresultaten wanneer iemand jouw bedrijfsnaam zoekt, en in Google Maps wanneer iemand zoekt op "fietswinkel bij mij in de buurt" of "fietsenmaker [plaatsnaam]".
+Een Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is jouw gratis bedrijfsvermelding op Google. Het verschijnt rechts in de [zoekresultaten](/seo) wanneer iemand jouw bedrijfsnaam zoekt, en in Google Maps wanneer iemand zoekt op "fietswinkel bij mij in de buurt" of "fietsenmaker [plaatsnaam]".
 
 ### Waarom is het zo belangrijk voor fietsenwinkels?
 

@@ -8,7 +8,6 @@ image: "/images/blog/seizoensmarketing-fietswinkel.png"
 tags: ["Seizoen", "Marketing", "Strategie"]
 cluster: "automatisering"
 ---
-
 Elke fietswinkeleigenaar kent het patroon: van maart tot september loopt het storm, en van oktober tot februari is het stil. De verkoop van nieuwe fietsen piekt in het voorjaar, reparaties nemen af als het koud wordt, en de omzet daalt merkbaar. Maar seizoensgebondenheid is geen natuurwet — het is een marketingprobleem. En marketingproblemen hebben oplossingen.
 
 In dit artikel delen we strategieën waarmee je als fietswinkel het hele jaar door een gezonde omzet draait.
@@ -46,7 +45,7 @@ E-bikes zijn het hele jaar relevant — mensen gebruiken ze voor woon-werkverkee
 - **Herfst:** "Donkere dagen, slimme verlichting. Upgrade je e-bike voor de winter."
 - **Winter:** "Accuzorg in de winter: gratis check voor alle e-bike eigenaren."
 
-Elke campagne heeft een ander haakje, maar het doel is hetzelfde: klanten naar je winkel brengen. Lees meer over de kansen van e-bike onderhoud in ons artikel over e-bike onderhoud als groeimarkt.
+Elke campagne heeft een ander haakje, maar het doel is hetzelfde: klanten naar je winkel brengen. Lees meer over de kansen van [e-bike onderhoud](/blog/e-bike-onderhoud-vragen-fietsenmaker) in ons artikel over e-bike onderhoud als groeimarkt.
 
 ## Strategie 3: Evenementen en workshops
 

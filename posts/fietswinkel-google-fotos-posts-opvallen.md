@@ -52,7 +52,7 @@ Deze posts zijn relevant voor wat klanten op dat moment zoeken. Ze tonen dat je 
 
 Je Google Bedrijfsprofiel heeft een Q&A-sectie waar klanten vragen kunnen stellen. Beantwoord elke vraag snel en volledig. Nog beter: stel zelf veelgestelde vragen en beantwoord ze.
 
-"Doen jullie ook e-bike reparaties?" Antwoord: "Ja, we repareren alle merken e-bikes. Van accuproblemen tot motorstoring. Je kunt direct een afspraak inplannen via onze website."
+"Doen jullie ook [e-bike reparaties](/blog/e-bike-reparaties-no-shows-fietsenmaker)?" Antwoord: "Ja, we repareren alle merken e-bikes. Van accuproblemen tot motorstoring. Je kunt direct een afspraak inplannen via onze website."
 
 Deze Q&A's zijn doorzoekbaar door Google en helpen je vindbaar te worden op langere zoekopdrachten.
 

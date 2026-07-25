@@ -8,10 +8,9 @@ image: "/images/blog/social-media-fietswinkels-online.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor fietswinkels
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke fietswinkel die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke fietswinkel die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -48,7 +47,7 @@ Lokale fietsroutes delen is een van de meest effectieve strategieën. Mensen tag
 
 ## Zo maak je een contentplanning die werkt
 
-Het grootste probleem voor fietswinkels op social media? Consistentie. Je begint enthousiast, post een week lang elke dag, en dan wordt het stil. Herkenbaar?
+Het grootste probleem voor fietswinkels op [social media](/blog/avg-klantfotos-fietsenwinkel-instagram)? Consistentie. Je begint enthousiast, post een week lang elke dag, en dan wordt het stil. Herkenbaar?
 
 De oplossing is een contentplanning. Bepaal vooraf wat je wanneer post en houd je eraan.
 
@@ -70,7 +69,7 @@ Gebruik 5-15 relevante hashtags per post. Mix brede hashtags met lokale variante
 
 ## Hoe AI je social media naar een hoger niveau tilt
 
-Dit is waar het in 2026 écht interessant wordt. AI-tools maken social media beheer drastisch eenvoudiger en effectiever. Je hoeft geen marketingexpert te zijn om professioneel over te komen.
+Dit is waar het in 2026 écht interessant wordt. AI-tools maken [social media](/blog/instagram-contentkalender-fietsenwinkel-30-dagen) beheer drastisch eenvoudiger en effectiever. Je hoeft geen marketingexpert te zijn om professioneel over te komen.
 
 AI helpt je om productbeschrijvingen en actieposts snel te maken. Nieuwe e-bike binnen? In twee minuten heb je een professionele post met alle specs en een pakkende tekst.
 

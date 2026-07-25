@@ -7,12 +7,11 @@ image: "/images/blog/vindbaarheid-fietswinkel-online-klanten-trekken.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
 cluster: "vindbaarheid"
 ---
-
 ## De strijd tegen webshops begint bij Google
 
 Fietswinkels concurreren steeds meer met webshops die fietsen direct thuisbezorgen. Maar jij hebt iets dat een webshop niet heeft: persoonlijk advies, proefritten, en service na aankoop. Het probleem is dat klanten je eerst moeten vinden.
 
-Lokale vindbaarheid op Google is je wapen. Wanneer iemand zoekt naar "fietswinkel in de buurt" of "e-bike kopen [stad]", moet jij verschijnen — niet de webshop.
+Lokale [vindbaarheid](/seo) op Google is je wapen. Wanneer iemand zoekt naar "fietswinkel in de buurt" of "e-bike kopen [stad]", moet jij verschijnen — niet de webshop.
 
 De cijfers liegen niet: 46 procent van alle Google-zoekopdrachten heeft een lokale intentie. Een klant die "fietsreparatie in de buurt" googelt, wil niet wachten op een webshoppakket — die wil vandaag nog langskomen. Als jij daar verschijnt, heb je al gewonnen van elke webshop.
 
@@ -74,6 +73,8 @@ Maak het makkelijk: stuur een WhatsApp-bericht met een directe link naar je Goog
 Reageer op elke review die je ontvangt. Bij een positieve review bedank je de klant en noem je specifiek wat er is gedaan: "Fijn dat je blij bent met de beurt voor je Gazelle!" Bij een negatieve review reageer je professioneel en bied je een oplossing. Potentiële klanten lezen mee — en je reactie zegt meer dan de klacht zelf.
 
 Een fietswinkel met 60 reviews en een 4,6-score wint het altijd van een concurrent met 8 reviews, ongeacht hoe goed die concurrent is. Volume en consistentie winnen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/apple-business-connect-fietsenwinkel-siri" class="text-dark fw-semibold">Apple Business Connect fietsenwinkel: Apple Kaarten en Siri</a> →</p></div></div></div>
 
 ## Gevonden worden door AI-assistenten
 

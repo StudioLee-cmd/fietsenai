@@ -10,10 +10,10 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- Voor de fietsenwinkel met 80+ klanten per maand breekt Excel-administratie. Onderhouds-historie verloren, framenummers verspreid over papieren bonnen, klant-voorkeuren in het hoofd van de eigenaar. Resultaat: 6-12 uur per week aan administratie + 15-25% gemiste onderhoud-reminders (en dus omzet).
+- Voor de fietsenwinkel met 80+ klanten per maand breekt Excel-administratie. Onderhouds-historie verloren, framenummers verspreid over papieren bonnen, klant-voorkeuren in het hoofd van de eigenaar. Resultaat: 6-12 uur per week aan administratie plus een stroom gemiste onderhoud-reminders (en dus omzet).
 - Een CRM met klantkaart-per-fiets centraliseert: fiets-merk, model, framenummer, aankoop-datum, alle onderhoudsbeurten, voorkeurs-onderdelen, WhatsApp-communicatie, betaling-historie. Per klant zie je in 30 seconden de hele relatie in plaats van 15 minuten zoeken in Excel + e-mail + WhatsApp.
 - Drie hoofdspelers in NL voor fietsenwinkels: HighLevel (€97/maand, all-in-one met WhatsApp + chatbot + email), HubSpot (€20-€90/maand, sterker in marketing-automation), Pipedrive (€15-€60/maand, simpelste interface). Werkplaats-specifieke systemen als Mobiplus en BikeStores hebben CRM ingebouwd maar zwakker in marketing.
-- Een [crm voor fietsenmakers](/crm) gekoppeld aan WhatsApp + boekhouding + onderhoud-pipeline maakt dat één fietsenwinkel-eigenaar 8 uur per week administratie bespaart EN 20-30% meer recurring-omzet uit onderhoud-reminders haalt. Cumulatieve waarde: €15.000-€28.000 per jaar voor een gemiddelde winkel.
+- Een [crm voor fietsenmakers](/crm) gekoppeld aan WhatsApp + boekhouding + onderhoud-pipeline maakt dat één fietsenwinkel-eigenaar 8 uur per week administratie bespaart EN merkbaar meer recurring-omzet uit onderhoud-reminders haalt. Cumulatieve waarde: €15.000-€28.000 per jaar voor een gemiddelde winkel.
 
 ## Waarom Excel breekt bij fietsenwinkels
 
@@ -104,7 +104,7 @@ Met dit ALLES op één plek: een klant belt met "ik wil mijn fiets in onderhoud 
 
 ## Wat NIET helpt: typische fouten
 
-**Fout 1: Te ambitieus willen importeren.** 5 jaar oude klanten-data importeren = 80% is verouderd. Begin met laatste 100-200 klanten, rest komt bij volgende bezoek.
+**Fout 1: Te ambitieus willen importeren.** 5 jaar oude klanten-data importeren betekent dat het grootste deel verouderd is. Begin met laatste 100-200 klanten, rest komt bij volgende bezoek.
 
 **Fout 2: Personeel niet trainen.** CRM gekocht, eigenaar gebruikt het, monteurs gebruiken het niet. Halve administratie. Iedereen die met klanten praat, MOET de CRM aanraken.
 

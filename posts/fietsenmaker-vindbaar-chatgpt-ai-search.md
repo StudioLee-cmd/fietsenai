@@ -11,7 +11,7 @@ cluster: "vindbaarheid"
 ## In het kort
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke fietsenwinkel ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
-- **Een gemiddelde Nederlandse fietsenwinkel wordt door ChatGPT in minder dan 5 procent van de relevante prompts genoemd**, terwijl ketens als Mantel en Fietsenwinkel.nl 60 tot 80 procent halen.
+- **Een gemiddelde Nederlandse fietsenwinkel wordt door ChatGPT zelden of nooit genoemd**, terwijl ketens als Mantel en Fietsenwinkel.nl juist stelselmatig terugkomen.
 - **Drie hefbomen werken bewezen:** vraag-antwoord content over reparaties en e-bikes, BicycleStore schema markup en externe vermeldingen op review-platformen.
 - **Verwacht resultaat:** binnen 8 tot 12 weken meetbare stijging van AI-search citaties; binnen 6 maanden tien tot twintig procent meer reparatie-aanvragen.
 - **Wie het moet overwegen:** elke solo- of kleine fietsenwinkel of werkplaats die nu slecht zichtbaar is bij zoekopdrachten als "beste fietsenmaker [stad]" of "e-bike service [postcode]".
@@ -66,7 +66,7 @@ Het derde veld is **brand** (binnen `makesOffer` of `additionalProperty`). Hier 
 
 ## Reviews en autoriteit: waarom ChatGPT Trustpilot en BOVAG leest
 
-Toen wij in maart 2026 onze eerste AI-search audit deden voor 24 Nederlandse fietsenwinkels, was de bevinding ondubbelzinnig: zaken met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Zaken met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in 60 tot 75 procent van de relevante prompts geciteerd.
+Toen wij in maart 2026 onze eerste AI-search audit deden voor 24 Nederlandse fietsenwinkels, was de bevinding ondubbelzinnig: zaken met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Zaken met 100 of meer reviews en een gemiddelde van 4.6 of hoger kwamen juist in het merendeel van de relevante prompts terug.
 
 Reviews op Google zijn de basis. Maar AI-modellen lezen ook andere bronnen. BOVAG, Trustpilot, Facebook en zelfs lokale fietsforums wegen mee. Het patroon dat we zien: hoe diverser de review-bronnen, hoe groter de kans op vermelding. Vijftig Google-reviews wegen minder zwaar dan 30 Google-reviews plus 15 BOVAG-reviews plus 10 Trustpilot-reviews. AI-modellen interpreteren spreiding als bewijs van authenticiteit.
 
@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: een e-bike accu is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een Bosch e-bike accu houdt gemiddeld 5 tot 7 jaar bij normaal gebruik" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste e-bikes" wordt nooit geciteerd. "82 procent van de e-bikes met meer dan 25.000 kilometer heeft een nieuwe accu nodig" wel. Front-load percentages, euro-bedragen en tijdsindicaties.
+**Gebruik concrete getallen.** "De meeste e-bikes" wordt nooit geciteerd. "82 procent van de e-bikes met meer dan 25.000 kilometer heeft een nieuwe accu nodig" wel — al moet zo'n getal in dit voorbeeld natuurlijk wel uit je eigen, na te lopen cijfers komen. Front-load percentages, euro-bedragen en tijdsindicaties.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze monteurs werken sinds 2018 met Bosch eBike Service Tools en hebben sindsdien meer dan 1.800 e-bike accu-vervangingen uitgevoerd" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
@@ -105,7 +105,7 @@ In de eerste maand zijn drie acties uitgevoerd: BicycleStore schema markup geïm
 
 In maand drie was het Google-review-aantal gegroeid naar 49. Een gastblog over Bosch-accu-onderhoud in de winter was geplaatst op een lokaal fietsforum. In de hertest van dezelfde 25 prompts werd de winkel in 7 prompts genoemd, inclusief drie merk-prompts ("Bosch e-bike Haarlem", "Riese & Müller Haarlem" en "bakfiets onderhoud Haarlem"). In maand zes, met 73 reviews en vijf externe vermeldingen, was dat opgelopen naar 13 prompts van de 25.
 
-De impact op echte aanvragen: 21 procent meer eerste afspraken in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij vijf nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
+De impact op echte aanvragen: merkbaar meer eerste afspraken in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij vijf nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
 
 ## Veelgestelde vragen
 
@@ -115,7 +115,7 @@ Bij goede uitvoering zie je eerste citaties na 8 tot 12 weken. AI-modellen index
 
 ### Werkt dit ook voor Perplexity en Google AI Overviews?
 
-Ja, voor 80 procent overlapt de aanpak. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
+Ja, de aanpak overlapt grotendeels. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
 
 ### Moet ik mijn klassieke Google SEO laten vallen?
 

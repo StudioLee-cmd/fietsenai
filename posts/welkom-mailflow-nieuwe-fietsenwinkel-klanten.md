@@ -49,7 +49,7 @@ Onderwerp: "Tijd voor een controle? En hoe was het bij ons?". Nu, en niet eerder
 
 ## Wat je juist NIET in een welkomstmail zet
 
-De snelste manier om een nieuwe klant af te schrikken is hem behandelen als een nieuwsbrieflijst. Geen aanbiedingen in mail 1, geen wekelijkse spam, geen "20% korting op accessoires" terwijl hij net voor een lekke band kwam. Vier mails over twee maanden is precies genoeg, daarna wordt het ruis. Hou de toon zoals je in de werkplaats zou praten: vriendelijk, duidelijk, met verstand van fietsen. En stuur nooit dezelfde generieke template die elke webshop ook stuurt. Wil je daarna structureel contact houden rond onderhoud, dan doe je dat los van deze flow met [doorlopende onderhoudsmails](/blog/email-marketing-fietswinkel-onderhoud) op de momenten dat het er echt toe doet.
+De snelste manier om een nieuwe klant af te schrikken is hem behandelen als een nieuwsbrieflijst. Geen aanbiedingen in mail 1, geen wekelijkse spam, geen "korting op accessoires" terwijl hij net voor een lekke band kwam. Vier mails over twee maanden is precies genoeg, daarna wordt het ruis. Hou de toon zoals je in de werkplaats zou praten: vriendelijk, duidelijk, met verstand van fietsen. En stuur nooit dezelfde generieke template die elke webshop ook stuurt. Wil je daarna structureel contact houden rond onderhoud, dan doe je dat los van deze flow met [doorlopende onderhoudsmails](/blog/email-marketing-fietswinkel-onderhoud) op de momenten dat het er echt toe doet.
 
 ## De flow één keer instellen, daarna automatisch
 

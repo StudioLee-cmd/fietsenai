@@ -10,7 +10,7 @@ cluster: "automatisering"
 ## In het kort
 
 - **NPS (Net Promoter Score) meet je in 30 seconden** met één hoofdvraag plus twee opvolgvragen.
-- **Fietsenwinkels met actieve NPS-meting groeien gemiddeld 8-12% sneller** dan winkels die het niet doen.
+- **Fietsenwinkels met actieve NPS-meting groeien sneller** dan winkels die het niet doen.
 - **De waarde zit niet in het cijfer maar in de feedback** die je gebruikt om concrete verbeteringen door te voeren.
 - **Drie vragen werken voor fietsenwinkels:** aanbevelingsvraag, verbeteringsvraag, follow-up vraag.
 - **De grootste fout: NPS meten en niets doen met de uitkomst.** Klanten merken dat en geven sneller geen feedback meer.
@@ -63,9 +63,9 @@ Drie momenten werken voor fietsenwinkels.
 
 **Moment 1: direct bij afhaling van de fiets na reparatie.** Klant staat naast je, je vraagt: "Voordat je gaat, mag ik 30 seconden van je tijd?" Hoogste respons, meest eerlijke antwoorden, persoonlijk contact maakt klant ontvankelijk.
 
-**Moment 2: per WhatsApp of SMS 24 uur na de reparatie.** Klant heeft de fiets gebruikt en kan een betere inschatting maken. Iets lagere respons (20-40 procent) maar nog steeds bruikbaar. Lees ook hoe een [chatbot voor fietsenmakers](/chatbot) dit automatiseert.
+**Moment 2: per WhatsApp of SMS 24 uur na de reparatie.** Klant heeft de fiets gebruikt en kan een betere inschatting maken. Iets lagere respons dan aan de balie, maar nog steeds bruikbaar. Lees ook hoe een [chatbot voor fietsenmakers](/chatbot) dit automatiseert.
 
-**Moment 3: e-mail na een week.** Lage respons (5-10 procent) maar voor sommige klanten nog wel bruikbaar. Combineer met een eventuele review-aanvraag voor klanten die 9 of 10 gaven.
+**Moment 3: e-mail na een week.** Lage respons, maar voor sommige klanten nog wel bruikbaar. Combineer met een eventuele review-aanvraag voor klanten die 9 of 10 gaven.
 
 In de praktijk werkt een combinatie. Vraag direct in de winkel voor klanten die je spreekt. Stuur via WhatsApp 24 uur later voor klanten die de fiets ergens lieten ophalen. E-mail-NPS is meestal niet de moeite waard tenzij je grote klantvolumes hebt.
 
@@ -73,11 +73,11 @@ In de praktijk werkt een combinatie. Vraag direct in de winkel voor klanten die 
 
 Hier ligt de essentie. NPS verzamelen zonder actie is verspilde tijd. Vier acties per categorie.
 
-**Promoters (9-10): activeer ze.** Vraag direct of ze een Google review willen schrijven, plus een verwijzing naar onze [reviews-pagina](/reviews). Dezelfde klanten die je een 9 of 10 geven, zijn meestal blij om dat publiek te delen. 60-70 procent volgt op als je ze gericht vraagt.
+**Promoters (9-10): activeer ze.** Vraag direct of ze een Google review willen schrijven, plus een verwijzing naar onze [reviews-pagina](/reviews). Dezelfde klanten die je een 9 of 10 geven, zijn meestal blij om dat publiek te delen. Het merendeel volgt op als je ze gericht vraagt.
 
 **Passives (7-8): vraag wat ontbrak.** "Wat had jouw ervaring een 9 of 10 kunnen maken?" Soms is het een kleine fix (te lange wachttijd, geen koffie, monteur was niet vriendelijk). Pas één concreet ding aan en deze klanten worden in volgende ronde Promoters.
 
-**Detractors (0-6): los het op binnen 24 uur.** Bel deze klanten persoonlijk. Niet om te verdedigen, om te begrijpen. Bied een gratis vervolgafspraak, een korting, of gewoon een eerlijke uitleg. 40-60 procent van de Detractors wordt na een goede follow-up Promoter of Passive in de volgende ronde.
+**Detractors (0-6): los het op binnen 24 uur.** Bel deze klanten persoonlijk. Niet om te verdedigen, om te begrijpen. Bied een gratis vervolgafspraak, een korting, of gewoon een eerlijke uitleg. Een flink deel van de Detractors wordt na een goede follow-up Promoter of Passive in de volgende ronde.
 
 **Geaggregeerd: zoek patronen.** Eens per kwartaal: zijn er thema's? Zijn de meeste Detractors over wachttijd? Over factuur-verrassingen? Over een specifieke monteur? Patronen geven richting voor structurele verbetering.
 
@@ -85,10 +85,10 @@ Hier ligt de essentie. NPS verzamelen zonder actie is verspilde tijd. Vier actie
 
 Bij twee Nederlandse fietsenwinkels die we het afgelopen jaar hebben begeleid bij invoering van NPS-meting:
 
-- **Respons-rate bij directe vraag in de winkel:** 75-85 procent
+- **Respons-rate bij directe vraag in de winkel:** veruit het hoogst
 - **NPS na 6 maanden:** van gemiddeld 38 naar 62 (geweldige reizen, bottom-up verbeteringen)
 - **Google reviews:** +50 tot +100 procent door gerichte aanvragen aan Promoters
-- **Klantbehoud (terug binnen 12 maanden):** +18 procent door follow-up op Detractors
+- **Klantbehoud (terug binnen 12 maanden):** merkbaar hoger door follow-up op Detractors
 - **Werkuren in feedback-verwerking:** 1-2 uur per week voor de eigenaar
 
 Voor een fietsenwinkel met 30 reparaties per week en een gemiddelde dealwaarde van 80 euro betekent dit conservatief 4-6 extra terugkerende klanten per maand of 250-400 euro extra omzet per maand. De grotere winst zit in de structurele verbetering: minder werkstress, hogere prijzen door betere reputatie, meer onderhouds-abonnementen. Bekijk ook onze [tarieven](/tarieven) voor een complete klantmeting-implementatie.

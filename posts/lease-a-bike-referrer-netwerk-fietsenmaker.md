@@ -22,9 +22,9 @@ Een fietsplan is in essentie een operational lease op een fiets, gerund door een
 
 Voor de werknemer voelt het als een fiets bijna gratis (door fiscale regels). Voor de werkgever is het een aantrekkelijke secundaire arbeidsvoorwaarde. Voor de fietsenwinkel is het een nieuwe leadbron met B2B-volume en een afgesloten financieringskanaal.
 
-Wat ook geldt: het marge-spel is anders dan bij contante verkoop. Marge per leasefiets ligt tussen 8 en 14%, vergelijkbaar met of iets onder een reguliere verkoop. De échte winst zit in de relatie die ontstaat na levering. Service-contract, jaarlijkse onderhoudsbeurten, accessoires die de werknemer er meteen bij wil.
+Wat ook geldt: het marge-spel is anders dan bij contante verkoop. De marge per leasefiets is vergelijkbaar met of iets lager dan bij een reguliere verkoop. De échte winst zit in de relatie die ontstaat na levering. Service-contract, jaarlijkse onderhoudsbeurten, accessoires die de werknemer er meteen bij wil.
 
-[Samenwerkingen die omzet verdubbelen](/blog/fietsenmaker-samenwerkingen-partnerschappen-groei) zijn voor 80% gebouwd op dit soort doorlopende relaties. Een fietsplan-aansluiting is een van de duidelijkste voorbeelden.
+[Samenwerkingen die omzet verdubbelen](/blog/fietsenmaker-samenwerkingen-partnerschappen-groei) zijn vrijwel altijd gebouwd op dit soort doorlopende relaties. Een fietsplan-aansluiting is een van de duidelijkste voorbeelden.
 
 ## De vier grote platforms en wat ze van je vragen
 
@@ -64,9 +64,9 @@ De marge op de leasefiets is één onderdeel. Vier vervolgomzet-bronnen waar de 
 
 **2. Jaarlijkse APK-rapportage.** De meeste fietsplannen vereisen een jaarlijkse technische check. Reken €50 tot €85 per fiets per jaar. Bij 50 leasefietsen via jouw dealerschap = €2.500 tot €4.250 voorspelbare omzet.
 
-**3. Service-onderhoud na de garantie.** Na 1 tot 2 jaar valt de fiets uit garantie en mag de klant naar elke fietsenmaker. Wie de eerste APK heeft gedaan en het contact warm gehouden, houdt 70 tot 85% van die klanten ook voor reguliere reparaties.
+**3. Service-onderhoud na de garantie.** Na 1 tot 2 jaar valt de fiets uit garantie en mag de klant naar elke fietsenmaker. Wie de eerste APK heeft gedaan en het contact warm gehouden, houdt het merendeel van die klanten ook voor reguliere reparaties.
 
-**4. Aanvullende leasefiets voor de partner.** Een werknemer die tevreden is over zijn leasefiets praat thuis. De partner kiest dezelfde fietsenwinkel als die ook in aanmerking komt. Conversie hierop: ongeveer 1 op de 6 leasefietsen levert een tweede fiets in hetzelfde gezin op.
+**4. Aanvullende leasefiets voor de partner.** Een werknemer die tevreden is over zijn leasefiets praat thuis. De partner kiest dezelfde fietsenwinkel als die ook in aanmerking komt. Conversie hierop: een niet te verwaarlozen deel van de leasefietsen levert een tweede fiets in hetzelfde gezin op.
 
 [Onze tarieven-pagina](/tarieven) laat aan de AI-kant precies dezelfde structuur zien: vaste prijs voor het basispakket, voorspelbare maandkosten, alle aanvullende diensten transparant. Klanten kopen voorspelbaarheid. Bij leasefietsen geldt hetzelfde.
 
@@ -76,7 +76,7 @@ Vijf dingen om vóór je aansluiting goed te zetten:
 
 - [ ] **Eén intake-formulier voor alle leasefiets-aanvragen.** Of de aanvraag nu via Lease-a-Bike of HelloRider binnenkomt, jouw team werkt vanuit één digitaal formulier met dezelfde checklist. Vermijdt fouten en maakt opvolging uniform.
 - [ ] **Vaste oplever-checklist (10 punten).** Banden op druk, remmen afgesteld, zadel passend, koplamp werkt, accessoires meegeleverd, sleutels overhandigd. Vink elk punt af. Foto's van de fiets bij oplevering uploaden naar het CRM.
-- [ ] **Automatische jaar-1-APK-herinnering.** 11 maanden na oplevering een WhatsApp: "Tijd voor de jaarlijkse APK van [merk + naam]. Plan zelf een slot in via deze link." Zonder die reminder verlies je 30 tot 50% van die APK-omzet.
+- [ ] **Automatische jaar-1-APK-herinnering.** 11 maanden na oplevering een WhatsApp: "Tijd voor de jaarlijkse APK van [merk + naam]. Plan zelf een slot in via deze link." Zonder die reminder verlies je een fors deel van die APK-omzet.
 - [ ] **Eigen leasefiets-pagina op je website.** Niet alleen een logo van Lease-a-Bike. Een eigen pagina die uitlegt welke platforms je ondersteunt, welke service erbij komt en hoe het proces eruit ziet. Helpt ook je SEO voor "leasefiets [stad]" zoekopdrachten.
 - [ ] **Maandelijkse rapportage.** Hoeveel aanvragen per platform, welke conversie, welke vervolgomzet. Eén tabel, eens per maand. Zo zie je welk platform voor jou het beste werkt.
 
@@ -98,7 +98,7 @@ Vier wegen om werkgevers naar jou toe te trekken voor de 0%-commissie-route:
 
 Drie dingen die ik vaak zie misgaan:
 
-**1. Aansluiten bij één platform en verder kijken.** Je mist 60 tot 70% van de markt. Sluit aan bij minimaal 2, liefst 3 platforms zodat je in elk dealer-overzicht zichtbaar bent.
+**1. Aansluiten bij één platform en verder kijken.** Je mist dan het grootste deel van de markt. Sluit aan bij minimaal 2, liefst 3 platforms zodat je in elk dealer-overzicht zichtbaar bent.
 
 **2. Geen eigen pagina maken.** Klanten googelen "leasefiets [stad]" en komen op platform-pagina's terecht zonder je naam. Met een eigen leasefiets-pagina pak je die zoekopdrachten direct.
 

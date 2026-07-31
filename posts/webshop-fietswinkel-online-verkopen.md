@@ -71,7 +71,7 @@ Bied twee opties:
 - **Verzending**: PostNL of DHL, duidelijke verzendkosten, tracking
 - **Afhalen in de winkel**: gratis, klant komt langs (en koopt vaak meer)
 
-Afhalen in de winkel is goud: 40% van de click-and-collect klanten koopt iets extra in de winkel.
+Afhalen in de winkel is goud: een flink deel van de click-and-collect klanten koopt iets extra in de winkel.
 
 ## Online marketing voor je webshop
 

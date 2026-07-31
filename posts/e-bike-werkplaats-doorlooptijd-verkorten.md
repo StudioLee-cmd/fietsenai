@@ -15,9 +15,9 @@ Dit artikel behandelt vier concrete ingrepen die doorlooptijd structureel verkor
 
 ## Waarom doorlooptijd piekt in maart-mei
 
-In Nederland krijgt een gemiddelde fietsenwinkel in de periode maart tot en met mei tussen de 35 en 55 procent méér werkplaatsaanvragen dan in de wintermaanden. Oorzaken zijn logisch: mensen halen hun fiets uit de schuur, e-bike accu-problemen komen na een koude winter aan het licht, en nieuwe fietsen worden gekocht die voor de eerste beurt moeten komen.
+In Nederland krijgt een gemiddelde fietsenwinkel in de periode maart tot en met mei fors méér werkplaatsaanvragen dan in de wintermaanden. Oorzaken zijn logisch: mensen halen hun fiets uit de schuur, e-bike accu-problemen komen na een koude winter aan het licht, en nieuwe fietsen worden gekocht die voor de eerste beurt moeten komen.
 
-Wat deze piek problematisch maakt is niet de extra werkdruk op zichzelf. Het is dat veel werkplaatsen in dezelfde periode ook zelf op achterstand raken door ziekte, vakantie, en leveranciersproblemen met onderdelen. Als de doorlooptijd dan oploopt van "deze week" naar "over twee weken", kwantificeer je het verlies: ongeveer 15 procent van je reparatie-klanten haakt af bij doorlooptijd boven de 10 werkdagen.
+Wat deze piek problematisch maakt is niet de extra werkdruk op zichzelf. Het is dat veel werkplaatsen in dezelfde periode ook zelf op achterstand raken door ziekte, vakantie, en leveranciersproblemen met onderdelen. Als de doorlooptijd dan oploopt van "deze week" naar "over twee weken", begint het te kosten: een deel van je reparatie-klanten haakt af zodra de doorlooptijd boven de 10 werkdagen komt.
 
 Voor een winkel die in piekseizoen wekelijks 40 reparaties binnenhaalt, betekent dat 6 gemiste klussen per week aan een gemiddelde waarde van 85 euro. Dat is 510 euro per week aan directe omzet, plus het verlies van die klant als vaste relatie.
 
@@ -27,7 +27,7 @@ De grootste winst in doorlooptijd ligt in de pre-intake. Als een klant zijn e-bi
 
 Met digitale pre-intake via je website — ideaal via een [AI chatbot die reparatie-aanvragen opvangt](/chatbot) — vraag je merk, type, accu-leeftijd, specifieke symptomen en eventueel foto's op. Die info komt binnen voordat de fiets fysiek komt, jouw monteur kan alvast bedenken welke onderdelen hij nodig heeft, en de daadwerkelijke reparatietijd is korter.
 
-Resultaat: 15 tot 25 procent kortere effectieve reparatietijd per fiets, en de werkplaats heeft meer doorvoercapaciteit zonder extra handen.
+Resultaat: een kortere effectieve reparatietijd per fiets, en de werkplaats heeft meer doorvoercapaciteit zonder extra handen.
 
 ## Ingreep 2: triage in opname-moment
 
@@ -45,7 +45,7 @@ Door deze categorieën apart te plannen houd je de express-categorie binnen 2 to
 
 ## Ingreep 3: directe communicatie over onderdelen
 
-Gemiddeld 20 procent van reparatie-vertraging komt door onderdelen die niet op voorraad zijn en besteld moeten worden. Klant hoort dit vaak pas op de dag dat zijn fiets op de stand komt, waardoor de totale doorlooptijd nog eens drie tot zeven dagen uitloopt.
+Een flink deel van de reparatie-vertraging komt door onderdelen die niet op voorraad zijn en besteld moeten worden. Klant hoort dit vaak pas op de dag dat zijn fiets op de stand komt, waardoor de totale doorlooptijd nog eens drie tot zeven dagen uitloopt.
 
 Bij pre-intake kun je al vaak inschatten welk onderdeel nodig is. Dus:
 
@@ -66,9 +66,9 @@ Status-updates automatiseren scheelt een gemiddelde fietsenwinkel 4 tot 7 uur pe
 Voor een fietsenwinkel met gemiddeld 40 reparaties per week in het hoogseizoen, leveren de vier ingrepen samen typisch:
 
 - **Doorlooptijd van gemiddeld 12 naar 5 werkdagen** in hoogseizoen
-- **20 tot 30 procent meer doorvoer** zonder extra personeel
-- **5 tot 8 procent minder afhakers** naar concurrenten
-- **Omzetstijging tussen de 12 en 22 procent** tijdens de drie piekmaanden
+- **Meer doorvoer** zonder extra personeel
+- **Minder afhakers** naar concurrenten
+- **Omzetstijging** tijdens de drie piekmaanden
 
 Investering: 40 tot 160 euro per maand aan chatbot + status-systeem plus 500 tot 2.000 euro eenmalige setup. Terugverdientijd in het eerste piekseizoen.
 

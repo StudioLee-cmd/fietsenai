@@ -10,10 +10,10 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- WhatsApp heeft een open-rate van 95%+ versus email 22-30%. Voor fietsenwinkels is WhatsApp in 2026 de eerste keuze voor klantcommunicatie: intake, status-updates tijdens reparatie, oplevering-bevestiging, seizoens-aanbiedingen. Goed ingerichte WhatsApp-flow neemt 60-70% van de inkomende intake over uit telefoon en email.
+- WhatsApp wordt vrijwel altijd geopend, e-mail lang niet altijd. Voor fietsenwinkels is WhatsApp in 2026 de eerste keuze voor klantcommunicatie: intake, status-updates tijdens reparatie, oplevering-bevestiging, seizoens-aanbiedingen. Een goed ingerichte WhatsApp-flow neemt het grootste deel van de inkomende intake over uit telefoon en email.
 - De 12-stappen opzet: WhatsApp Business-app installeren, bedrijfsprofiel invullen met openingstijden, catalog inrichten met service-types, quick-replies voor top-15 vragen, labels voor klant-status (intake / in onderhoud / klaar / opgehaald), broadcast-lists per klantgroep (e-bike-eigenaren / bakfiets / stadsfiets), AVG-melding bij eerste contact.
-- Status-flow voor reparatie: WhatsApp-melding bij ontvangst fiets, tussentijdse update bij delay >24u, klaar-melding met foto, opgehaald-bevestiging met onderhoud-reminder voor over 6-12 maanden. Klanten reageren 3-4x meer op deze updates dan op email.
-- Een [chatbot voor fietsenmakers](/chatbot) gekoppeld aan WhatsApp Business handelt 40-60% van de standaard-vragen 24/7 af zonder personeel-tijd. Een [crm voor fietsenmakers](/crm) met WhatsApp-historie-koppeling maakt dat elke klantkaart de complete communicatie toont.
+- Status-flow voor reparatie: WhatsApp-melding bij ontvangst fiets, tussentijdse update bij delay >24u, klaar-melding met foto, opgehaald-bevestiging met onderhoud-reminder voor over 6-12 maanden. Klanten reageren veel vaker op deze updates dan op email.
+- Een [chatbot voor fietsenmakers](/chatbot) gekoppeld aan WhatsApp Business handelt een groot deel van de standaard-vragen 24/7 af zonder personeel-tijd. Een [crm voor fietsenmakers](/crm) met WhatsApp-historie-koppeling maakt dat elke klantkaart de complete communicatie toont.
 
 ## Waarom WhatsApp voor fietsenwinkels
 
@@ -71,7 +71,7 @@ Vier momenten waarop je automatisch update stuurt:
 **Moment 4: Na ophalen + retentie**
 "Hi [Naam], bedankt voor je vertrouwen. We zien je over 6 maanden weer voor de jaarcheck. Heb je nu vragen? Stuur een berichtje."
 
-Met deze 4-momenten flow ligt klant-tevredenheid 25-40% hoger dan bij praktijken zonder structurele updates.
+Met deze 4-momenten flow ligt klant-tevredenheid merkbaar hoger dan bij praktijken zonder structurele updates.
 
 ## Seizoens-broadcasts
 
@@ -80,13 +80,13 @@ Zes momenten per jaar waarop broadcasts werken:
 | Moment | Doelgroep | Bericht-inhoud |
 |---|---|---|
 | Eind februari | Alle klanten | "Voorjaars-check: tijd om je fiets klaar te maken voor lente" |
-| Eind april | E-bike eigenaars | "E-bike onderhoud-actie: -15% in mei" |
+| Eind april | E-bike eigenaars | "E-bike onderhoud-actie: -[X] procent in mei" |
 | Begin juni | Bakfiets-klanten | "Bakfiets zomer-check: banden en remmen klaar voor vakantie" |
 | Eind september | Wielrenners | "Winter-onderhoud: stalling + remblokken vervangen" |
 | Begin november | Alle klanten | "Winter-stalling: vraag tijdig een plek in onze opslag" |
 | Half december | Bakfiets/stadsfiets | "Lichten-controle: in december-controle voor donkere maanden" |
 
-Open-rate van deze broadcasts: 75-85% (vs 22-30% email). Conversie naar boeking: 8-15% (vs 1-3% email).
+Open-rate van deze broadcasts ligt fors boven die van e-mail, en de conversie naar boeking ook.
 
 ## Wat NIET helpt: typische fouten
 

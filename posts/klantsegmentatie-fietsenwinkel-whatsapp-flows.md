@@ -15,7 +15,7 @@ Dit artikel laat zien hoe dat werkt met de drie segmenten die vrijwel elke fiets
 
 ## Waarom één bericht naar iedereen niet werkt
 
-Het probleem met een blast naar je hele lijst is niet dat hij niet aankomt. Het probleem is dat hij voor 80% van de ontvangers niet klopt, en dat ze dat merken. Een bericht dat voor de meeste mensen niet relevant is, leert je klanten om je berichten weg te swipen. Doe dat een paar keer en je hele kanaal is dood: de volgende keer dat je écht iets relevants stuurt, leest niemand het meer.
+Het probleem met een blast naar je hele lijst is niet dat hij niet aankomt. Het probleem is dat hij voor het merendeel van de ontvangers niet klopt, en dat ze dat merken. Een bericht dat voor de meeste mensen niet relevant is, leert je klanten om je berichten weg te swipen. Doe dat een paar keer en je hele kanaal is dood: de volgende keer dat je écht iets relevants stuurt, leest niemand het meer.
 
 Segmentatie draait dat om. Door je klanten in te delen op wat ze bij je kochten en hoe vaak ze terugkomen, stuur je minder berichten die beter raken. Een kleinere groep die wél reageert is meer waard dan een grote lijst die je negeert. En het mooie: een fietsenwinkel heeft geen ingewikkeld marketingmodel nodig met tien persona's. Drie segmenten dekken de lading, en je kent ze alle drie al uit je werkplaats.
 
@@ -27,7 +27,7 @@ Vergeet de demografische theorie over leeftijd en postcode. Voor een fietsenwink
 
 ## Segment 1: de VIP-stamklant
 
-Dit is de klant die elk seizoen terugkomt, je naam noemt tegen de buren en zonder morren betaalt. Hij is misschien 15% van je klantenbestand maar goed voor een veel groter deel van je omzet. De grootste fout hier is hem behandelen als een vreemde: een generieke kortingsmail voelt voor een trouwe klant bijna beledigend.
+Dit is de klant die elk seizoen terugkomt, je naam noemt tegen de buren en zonder morren betaalt. Hij is misschien een kleine minderheid van je klantenbestand maar goed voor een veel groter deel van je omzet. De grootste fout hier is hem behandelen als een vreemde: een generieke kortingsmail voelt voor een trouwe klant bijna beledigend.
 
 **De flow:** geen aanbiedingen, maar voorrang en erkenning. Een persoonlijk bericht aan het begin van het seizoen ("Hé Jan, voordat het druk wordt, zal ik jouw fiets vast inplannen voor de voorjaarsbeurt?"), een verjaardag- of jubileumberichtje, en als eerste horen over een nieuw model of een drukke periode. Dit segment is ook je beste bron voor [automatisch reviews verzamelen](/reviews): tevreden stamklanten geven de sterren die nieuwe klanten over de streep trekken, je hoeft het alleen op het juiste moment te vragen.
 
@@ -39,7 +39,7 @@ Dit is de gelegenheidsklant: de lekke band in de zomer, de afstelbeurt voor de v
 
 **De flow:** dit segment moet je van eenmalig naar bekend tillen. Een vriendelijk bedankje na het eerste bezoek met een korte uitleg van wat je nog meer doet, en een seizoensgebonden nudge op het juiste moment ("De zomer komt eraan, tijd voor een check voor je op pad gaat"). Niet te vaak, want de band is nog dun. Het doel is herkenning, zodat je naam bovenaan staat als er weer iets aan de fiets is.
 
-**Wat het oplevert:** een hoger percentage eenmalige klanten dat terugkomt. Zelfs als maar 1 op de 5 toeristen een tweede keer langskomt, vult dat je rustige weken en bouwt het langzaam je stamklantenbestand op.
+**Wat het oplevert:** een hoger percentage eenmalige klanten dat terugkomt. Zelfs als maar een handjevol toeristen een tweede keer langskomt, vult dat je rustige weken en bouwt het langzaam je stamklantenbestand op.
 
 ## Segment 3: de e-bike-eigenaar
 

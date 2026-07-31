@@ -13,7 +13,7 @@ De fietsmarkt verandert. Klanten oriënteren zich online — ze vergelijken mode
 
 Maar veel fietswinkels zijn overdag bezig met reparaties, proefritten en klanten in de winkel. Online aanvragen via het contactformulier of e-mail liggen uren of zelfs dagen onbeantwoord. In die tijd heeft de klant al bij de concurrent gekocht.
 
-Onderzoek toont aan dat 78 procent van de consumenten koopt bij het bedrijf dat als eerste reageert. Voor fietswinkels die online willen groeien, is lead opvolging daarom cruciaal.
+De consument koopt in de regel bij het bedrijf dat als eerste reageert. Voor fietswinkels die online willen groeien, is lead opvolging daarom cruciaal.
 
 ## De eerste reactie bepaalt de verkoop
 
@@ -69,7 +69,7 @@ Elke stap moet frictieloos zijn. Hoe makkelijker je het maakt, hoe meer websiteb
 
 ## Meer omzet zonder extra marketing
 
-Snellere lead opvolging is de goedkoopste manier om je omzet te verhogen. Je hebt de leads al — je zet ze alleen niet om. Door 20 procent meer aanvragen succesvol op te volgen, groeit je omzet met duizenden euro's per maand.
+Snellere lead opvolging is de goedkoopste manier om je omzet te verhogen. Je hebt de leads al — je zet ze alleen niet om. Door structureel meer aanvragen succesvol op te volgen, groeit je omzet met duizenden euro's per maand.
 
 De investering is minimaal: een automatisch bevestigingsbericht, een WhatsApp-business account en de discipline om binnen het uur persoonlijk op te volgen. Geen advertenties, geen extra marketing — gewoon beter gebruik maken van de klanten die al bij je aankloppen.
 

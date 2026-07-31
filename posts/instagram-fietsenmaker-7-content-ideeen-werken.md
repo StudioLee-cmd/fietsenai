@@ -10,8 +10,8 @@ cluster: "social-media"
 ---
 
 **In het kort:**
-- Een fietsenmaker met 800-1.500 Instagram-volgers in een lokale stad genereert in 2026 gemiddeld 6-12 nieuwe boekingen per maand puur via Instagram, mits er minimaal 3 keer per week relevante content wordt gepost. Onder de 3 posts per week dropt de algoritme-zichtbaarheid met 65-80%.
-- Fietsen is een visueel product: Instagram en TikTok werken sterker dan tekstuele kanalen (Facebook, LinkedIn) omdat klanten primair op kleur, design en before-after-staat reageren. Reels (15-30 sec video's) krijgen 4-7 keer meer bereik dan statische posts.
+- Een fietsenmaker met 800-1.500 Instagram-volgers in een lokale stad genereert in 2026 gemiddeld 6-12 nieuwe boekingen per maand puur via Instagram, mits er minimaal 3 keer per week relevante content wordt gepost. Onder de 3 posts per week zakt de algoritme-zichtbaarheid hard in.
+- Fietsen is een visueel product: Instagram en TikTok werken sterker dan tekstuele kanalen (Facebook, LinkedIn) omdat klanten primair op kleur, design en before-after-staat reageren. Reels (15-30 sec video's) krijgen een veelvoud aan bereik ten opzichte van statische posts.
 - De 7 content-ideeën in dit artikel zijn allemaal max 20 minuten werk per stuk en draaien om concrete dagelijkse momenten in je werkplaats. Geen scripts, geen acteurs, geen dure apparatuur. Gewoon je telefoon en 15-30 minuten per dag.
 - Een geautomatiseerde [social media flow voor fietsenwinkels](/social-media) plant 7 dagen aan content vooruit, post automatisch op de optimale tijden en stuurt nieuwe DM's direct naar een [chatbot voor fietsenmakers](/chatbot) die offerte-aanvragen converteert. Resultaat: 5-8 uur per week tijdsbesparing plus 3-5 extra leads per week.
 
@@ -42,7 +42,7 @@ Een fietsketting voor en na vervanging. Een vies binnenwerk versus glanzend bijg
 
 Bij een klaar-gemelde fiets: een foto met de eigenaar erbij (met toestemming) plus een korte beschrijving van wat er gedaan is. Personaliseert je werk en levert mond-tot-mondreclame via de klant zelf, die de post deelt.
 
-**Hoe te maken:** wanneer een klant zijn opgehaalde fiets komt afhalen, kort vragen of je een foto mag maken plus een story-post mag plaatsen. 85% zegt ja. Tag de klant indien gewenst.
+**Hoe te maken:** wanneer een klant zijn opgehaalde fiets komt afhalen, kort vragen of je een foto mag maken plus een story-post mag plaatsen. De meesten zeggen ja. Tag de klant indien gewenst.
 
 Voor het opvolgen van deze klanten (verjaardag-bericht, periodiek service-reminder), een [crm voor fietsenmakers](/crm) met klantkaart per fiets maakt automatiseren makkelijk.
 
@@ -52,7 +52,7 @@ Een time-lapse van 30 seconden: een fiets binnenrijden, op de werkstand zetten, 
 
 **Hoe te maken:** je telefoon op een tripod of magneet-bevestiging in je werkplaats. Filmen tijdens normaal werk. Achteraf 30-60 seconden monteren in de Instagram-app zelf (basic-editing voldoende).
 
-**Waarom dit werkt:** mensen vinden vaardigheid kijken-waardig. Een time-lapse van 30 sec krijgt 4-7x meer bereik dan een statische post.
+**Waarom dit werkt:** mensen vinden vaardigheid kijken-waardig. Een time-lapse van 30 sec krijgt een veelvoud aan bereik ten opzichte van een statische post.
 
 ### 4. Seizoens-content Carrousels (1x per week)
 
@@ -84,7 +84,7 @@ Een [reviews-flow voor fietsenmakers](/reviews) die automatisch 24 uur na klant-
 
 Een lokale fietstocht waar je sponsor van bent. Een straat in je stad die je vaak repareert (met de straatnaam in de geotag). Een lokale fietsenmarkt waar je staat. Bedrijven in je buurt waar je samenwerkt.
 
-**Waarom dit werkt:** Instagram's algoritme weegt geotag-relevantie zwaar mee. Posts met je stad-naam in de geotag krijgen 25-40% meer bereik bij gebruikers in je stad. Lokale-community content versterkt je positionering als "de" fietsenmaker van je buurt.
+**Waarom dit werkt:** Instagram's algoritme weegt geotag-relevantie zwaar mee. Posts met je stad-naam in de geotag krijgen merkbaar meer bereik bij gebruikers in je stad. Lokale-community content versterkt je positionering als "de" fietsenmaker van je buurt.
 
 ## Het posting-schema dat werkt
 
@@ -107,11 +107,11 @@ Tijden gebaseerd op gemiddelde fietsenwinkel-Insta-engagement-data uit Meta Busi
 - **Meta Business Suite** (gratis): planning, scheduling, analytics. Gebruik voor automatisch posten zonder dat je dagelijks hoeft in te loggen.
 - **Canva** (gratis voor basis): templates voor carrousels, story-overlays en quote-cards.
 - **CapCut** (gratis): mobile video-editing voor Reels die meer doen dan basic Instagram-effects.
-- **Een [chatbot voor fietsenmakers](/chatbot) gekoppeld aan je Instagram DM:** wanneer een potentiële klant na een Reel een DM stuurt, beantwoordt de chatbot 24/7 met openingstijden, prijzen-indicatie en boekings-link. Conversie van DM naar afspraak: 18-28% (versus 4-8% met handmatige DM-opvolging).
+- **Een [chatbot voor fietsenmakers](/chatbot) gekoppeld aan je Instagram DM:** wanneer een potentiële klant na een Reel een DM stuurt, beantwoordt de chatbot 24/7 met openingstijden, prijzen-indicatie en boekings-link. De conversie van DM naar afspraak ligt daarmee fors hoger dan bij handmatige DM-opvolging.
 
 ## Wat NIET helpt: 3 valkuilen
 
-**Valkuil 1: Te veel productfoto's, te weinig persoonlijkheid.** Klanten kunnen op de website van leveranciers ook fiets-modellen zien. Wat ze NIET kunnen zien is JOUW werkplaats, JOU als persoon, je klanten. Persoonlijke content presteert 3-5x beter dan productfoto's.
+**Valkuil 1: Te veel productfoto's, te weinig persoonlijkheid.** Klanten kunnen op de website van leveranciers ook fiets-modellen zien. Wat ze NIET kunnen zien is JOUW werkplaats, JOU als persoon, je klanten. Persoonlijke content presteert stelselmatig beter dan productfoto's.
 
 **Valkuil 2: Inconsistent posten.** 5 posts in een week, dan 3 weken niets. Algoritme straft inconsistentie. Beter: 3 posts per week consistent dan 10 posts in een sprint en daarna 0.
 

@@ -42,7 +42,7 @@ Het resultaat: elke aanvraag wordt binnen seconden beantwoord, ook als je tot je
 
 Een gemiddelde fietsenmaker mist drie tot vijf serieuze aanvragen per week door trage opvolging. Bij een gemiddelde reparatiewaarde van €50 tot €150 is dat €150 tot €750 per week. Op jaarbasis: **€7.500 tot €37.500** aan gemiste omzet.
 
-Automatische opvolging vangt 60 tot 70 procent van die gemiste leads op. De kosten: vanaf €79 per maand. De terugverdientijd: minder dan een week.
+Automatische opvolging vangt het merendeel van die gemiste leads op. De kosten: vanaf €79 per maand. De terugverdientijd: minder dan een week.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-fietswinkel-aanvragen" class="text-dark fw-semibold">Lead opvolging als fietswinkel: elke aanvraag benutten</a> →</p></div></div></div>
 

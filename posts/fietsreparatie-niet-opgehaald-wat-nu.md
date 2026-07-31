@@ -23,7 +23,7 @@ Dit is juridisch toegestaan mits je de klant vooraf hebt geïnformeerd. Zet het 
 
 ## Stap 2: stuur automatische herinneringen
 
-De meeste klanten vergeten het simpelweg. Een herinnering lost 80 procent van de gevallen op:
+De meeste klanten vergeten het simpelweg. Een herinnering lost de meeste gevallen op:
 
 - **Dag dat de reparatie klaar is:** "Je fiets is klaar! Je kunt hem ophalen tijdens openingstijden."
 - **Na 3 dagen:** "Je gerepareerde fiets staat klaar in de werkplaats. Kom je hem ophalen?"
@@ -51,7 +51,7 @@ Bewaar altijd de communicatiegeschiedenis (WhatsApp-berichten, e-mails) als bewi
 
 ## Voorkom het met een aanbetaling
 
-Bij duurdere reparaties (boven de 50 euro) is een aanbetaling van 50 procent een slimme zet. De klant heeft al betaald en zal eerder ophalen. En als diegene toch niet komt, dek je minstens de helft van je kosten.
+Bij duurdere reparaties (boven de 50 euro) is een aanbetaling van de helft een slimme zet. De klant heeft al betaald en zal eerder ophalen. En als diegene toch niet komt, dek je minstens de helft van je kosten.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-fietswinkel" class="text-dark fw-semibold">Wat is ChatGPT en hoe gebruik je het als fietswinkel?</a> →</p></div></div></div>
 

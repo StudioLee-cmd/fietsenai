@@ -15,7 +15,7 @@ De stad heeft tien andere fietsenwinkels en eentje ervan staat op vijfhonderd me
 - Buurtwerk is niet hetzelfde als online lokale SEO. Het zit op de overlap tussen fysieke aanwezigheid, lokale relaties en digitale zichtbaarheid.
 - Vier zetten samen dragen de meeste boekingen: een buurt-partnerschap dat reviews oplevert, fysieke aanwezigheid bij buurt-events, infiltratie van lokale Facebook- en WhatsApp-groepen, en een fysiek punt-van-aanwezigheid op straat (zoals een gratis pomp-station).
 - De vier zetten zijn op te zetten in een weekend en draaien daarna met minder dan een uur per week onderhoud, mits ze in een goed systeem hangen.
-- Resultaat na 90 dagen: gemiddeld 15 tot 30 procent meer boekingen uit de eigen postcode, hogere review-volumes en een stuk minder afhankelijkheid van Marktplaats en concurrent-vergelijking-sites.
+- Resultaat na 90 dagen: merkbaar meer boekingen uit de eigen postcode, hogere review-volumes en een stuk minder afhankelijkheid van Marktplaats en concurrent-vergelijking-sites.
 
 ## Waarom buurtwerk anders is dan lokale SEO
 
@@ -65,7 +65,7 @@ Wat WERKT:
 - Maandelijks een buurt-statistiek delen ("dit kwartaal hebben we 142 lekke banden geplakt, dank buurt!"), concrete, niet sales, bouwt geloofwaardigheid.
 
 Wat NIET werkt:
-- Standaard sales-posts ("deze week 10% korting!"), leiden tot uitnodiging om te vertrekken uit de groep.
+- Standaard sales-posts ("deze week korting!"), leiden tot uitnodiging om te vertrekken uit de groep.
 - Geautomatiseerde berichten, buurtgroepen ruiken bot-tekst van een kilometer afstand.
 
 [Social media voor fietsenmakers](/social-media) helpt je een herkenbaar gezicht te krijgen IN die groepen, niet als advertentie, maar omdat mensen je naam koppelen aan herkenbare Instagram-foto's.

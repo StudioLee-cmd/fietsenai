@@ -18,9 +18,9 @@ Een Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is jouw gratis bedrijf
 
 De cijfers spreken voor zich:
 
-- **76% van de mensen** die lokaal zoeken bezoekt binnen 24 uur een bedrijf
-- **28% van de lokale zoekopdrachten** leidt tot een aankoop
-- Bedrijven met een volledig profiel zijn **70% aantrekkelijker** voor potentiële klanten
+- **De meeste mensen** die lokaal zoeken bezoeken binnen 24 uur een bedrijf
+- **Een aanzienlijk deel van de lokale zoekopdrachten** leidt tot een aankoop
+- Bedrijven met een volledig profiel zijn **merkbaar aantrekkelijker** voor potentiële klanten
 - **Gratis** — je betaalt er geen cent voor
 
 Voor een fietswinkel betekent dit: mensen die zoeken op "band plakken", "e-bike reparatie" of "fiets kopen" in jouw buurt kunnen direct bij jou terechtkomen.
@@ -42,7 +42,7 @@ Als je nog geen Google Bedrijfsprofiel hebt, ga naar [business.google.com](https
 
 ### 3. Voeg foto's toe (dit is waar de meeste winkels falen)
 
-Google zegt het zelf: bedrijven met foto's krijgen **35% meer klikken** naar hun website en **42% meer routebeschrijvingen**. Voeg toe:
+Volgens Google krijgen bedrijven met foto's **35% meer klikken** naar hun website en **42% meer routebeschrijvingen**. Voeg toe:
 
 - **Buitenkant** van je winkel (herkenbaar vanaf de straat)
 - **Binnenkant** van de werkplaats en showroom

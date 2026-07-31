@@ -107,7 +107,7 @@ Jij verkoopt en repareert fietsen. Wij zorgen dat klanten jou vinden:
 | Actie | Effect | Tijdsinvestering |
 |-------|--------|-----------------|
 | Google-profiel compleet met werkfoto's | Direct meer zichtbaarheid | 2 uur |
-| Review-opvolging automatiseren | 3-5x meer reviews | Eenmalige setup |
+| Review-opvolging automatiseren | fors meer reviews | Eenmalige setup |
 | Aparte pagina per product/dienst | Meer organisch verkeer | 1-2 dagen |
 | Chatbot voor buiten openingstijden | Nul gemiste aanvragen | Eenmalige setup |
 | Koopgids per fietstype schrijven | Langetermijn organisch verkeer | 1 uur per artikel |

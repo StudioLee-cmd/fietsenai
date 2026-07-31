@@ -14,8 +14,8 @@ Dit is geen anekdote. Een gemiddelde Nederlandse fietswerkplaats met 2-4 monteur
 
 **In het kort:**
 
-- Papieren werkbonnen kosten een gemiddelde fietswerkplaats 6-9 uur per week aan zoek-, bel- en bijhoudwerk — equivalent van bijna 30% van een fulltime baan op jaarbasis.
-- Vijf verborgen kosten: zoektijd (1.500-2.500 min/jaar), uitgaande bel-overhead (800-1.200 min), kwijtgeraakte tickets (3-5% van reparaties heeft geen factuur), niet-traceerbare onderdelen (€800-€2.000/jaar in voorraad-fouten), en omzet uit niet-opgevolgde "fiets-klaar"-meldingen.
+- Papieren werkbonnen kosten een gemiddelde fietswerkplaats 6-9 uur per week aan zoek-, bel- en bijhoudwerk — bijna een volle werkdag per week.
+- Vijf verborgen kosten: zoektijd (1.500-2.500 min/jaar), uitgaande bel-overhead (800-1.200 min), kwijtgeraakte tickets (een klein deel van de reparaties krijgt nooit een factuur), niet-traceerbare onderdelen (€800-€2.000/jaar in voorraad-fouten), en omzet uit niet-opgevolgde "fiets-klaar"-meldingen.
 - Een digitale werkbon-flow heeft 5 onderdelen: intake-formulier op tablet, klant-account met SMS/WhatsApp updates, monteur-app voor status, automatische "klaar"-melding, en factuur-integratie.
 - Migratie in 30 dagen werkt het best in 3 fases: week 1 software kiezen + tablet aanschaffen, week 2 personeel trainen op gemengd systeem, week 3-4 volledig over op digitaal.
 - ROI: voor een werkplaats met 30 reparaties/week en €70 gemiddelde reparatie-waarde verdient een digitale werkbon-flow van €40-€80/maand zich terug in 1-2 weken aan bespaarde tijd alleen.
@@ -24,7 +24,7 @@ Dit is geen anekdote. Een gemiddelde Nederlandse fietswerkplaats met 2-4 monteur
 
 Papieren werkbonnen zijn taai. Ze zijn er overal omdat ze "altijd zo zijn geweest", omdat de hoofd-monteur niet wil leren werken met een tablet, omdat de fietshandelaar niet wil betalen voor software, of omdat een eerdere migratie-poging mislukte en het traumatische gevoel daarvan nog hangt. Vaak is het een mix van alle vier.
 
-De reden dat het toch tijd is om over te stappen is niet dat papier "ouderwets" is — het is dat de fietsenwerkplaats van 2026 te druk wordt voor papier-niveau-administratie. Dezelfde werkplaats die in 2018 met 35 reparaties per week prima draaide op papier, doet in 2026 65 reparaties per week dankzij e-bike-volume — en dan kraakt het systeem. De zoek-tijd verdubbelt, de bel-tijd vermenigvuldigt, en de kans op een kwijtgeraakte werkbon stijgt naar 5-8%. Dat betekent: één tot drie reparaties per week die nooit gefactureerd worden, omdat niemand meer weet bij welke klant de bandwissel hoorde.
+De reden dat het toch tijd is om over te stappen is niet dat papier "ouderwets" is — het is dat de fietsenwerkplaats van 2026 te druk wordt voor papier-niveau-administratie. Dezelfde werkplaats die in 2018 met 35 reparaties per week prima draaide op papier, doet in 2026 65 reparaties per week dankzij e-bike-volume — en dan kraakt het systeem. De zoek-tijd verdubbelt, de bel-tijd vermenigvuldigt, en de kans op een kwijtgeraakte werkbon loopt hard op. Dat betekent: één tot drie reparaties per week die nooit gefactureerd worden, omdat niemand meer weet bij welke klant de bandwissel hoorde.
 
 ## De 5 verborgen kosten van papieren werkbonnen
 
@@ -38,7 +38,7 @@ Elke keer dat een klant of monteur "even die werkbon" zoekt: 2-5 minuten. Bij 30
 
 "Mevrouw De Vries, uw fiets is klaar." 30-50 belletjes per week × 1-2 minuten per gesprek (vaak voicemail, terugbellen, etc.) × 50 weken = 750-1.500 minuten. Vooral pijnlijk omdat het juist piek-tijd-momenten van de werkplaats verstoort.
 
-### 3. Kwijtgeraakte tickets (3-5% van reparaties)
+### 3. Kwijtgeraakte tickets
 
 Werkbonnen die in de prullenbak vielen, in een verkeerde stapel terechtkwamen, of door een nieuwe medewerker zijn opgevouwen. Bij 30 reparaties per week × 4% = 1,2 kwijtgeraakte werkbonnen per week × €70 gemiddelde reparatiewaarde × 50 weken = **€4.200 per jaar verloren omzet**. Dit is de duurste enkele kostenpost.
 
@@ -78,7 +78,7 @@ Bij ophalen scant de medewerker de QR-code, factuur is met één klik klaar (BTW
 
 ## Hoe migreer je in 30 dagen?
 
-Vier weken, drie fases. Geen big-bang-migratie waarbij je op één dag overstapt — dat heeft 80% slagings-kans en demoraliseert het team bij elke hapering. In plaats daarvan:
+Vier weken, drie fases. Geen big-bang-migratie waarbij je op één dag overstapt — dat mislukt vaker dan het lukt en demoraliseert het team bij elke hapering. In plaats daarvan:
 
 **Week 1 — Software kiezen en eerste setup.** Vergelijk 2-3 fietswerkplaats-software-paketten (FietsenManager, RepairAngel, of een specifieke kassa-werkplaats-koppeling van CCV/Mollie). Bestel tablets en QR-stickers. Nodig de hoofd-monteur uit voor de eindkeuze — zijn buy-in is essentieel.
 
@@ -104,9 +104,9 @@ Bekijk de [tarieven van FietsenAI](https://www.fietsenai.nl/tarieven) voor concr
 
 Drie meetbare effecten zien we consistent bij fietswerkplaatsen die migreren.
 
-**1. 6-9 uur per week tijdwinst.** Direct na migratie. Geen zoek-tijd, geen handmatig bellen, geen kwijtgeraakte tickets. Voor een werkplaats met 2-3 monteurs is dat 312-468 uur per jaar — bijna 30% van een fulltime baan terug die je inzet voor reparaties.
+**1. 6-9 uur per week tijdwinst.** Direct na migratie. Geen zoek-tijd, geen handmatig bellen, geen kwijtgeraakte tickets. Voor een werkplaats met 2-3 monteurs is dat 312-468 uur per jaar — acht tot twaalf werkweken terug die je inzet voor reparaties.
 
-**2. 3-5% extra omzet uit niet-meer-kwijtgeraakte tickets.** Bij 30 reparaties per week × €70 gemiddeld × 50 weken × 4% kwijt: terugwinst van **€4.200 per jaar**.
+**2. Extra omzet uit niet-meer-kwijtgeraakte tickets.** Reken met 30 reparaties per week × €70 gemiddeld × 50 weken × 4% kwijt: terugwinst van **€4.200 per jaar**.
 
 **3. Hogere klanttevredenheid en review-scores.** Klanten die proactief worden geïnformeerd ("je fiets staat in de wacht voor onderdelen, geleverd dinsdag") en automatisch een "klaar"-bericht krijgen, geven gemiddeld 0,3-0,5 sterren hogere [Reviews](https://www.fietsenai.nl/reviews) dan klanten van werkplaatsen met traditionele communicatie.
 
@@ -116,11 +116,11 @@ Bij een fietswerkplaats met 30 reparaties/week à €70 reparatie-waarde beteken
 
 ### Wat als de hoofd-monteur 50+ is en nooit met een tablet werkt?
 
-Veelvoorkomend en oplosbaar. Een tablet met grote knoppen en een eenvoudige interface (FietsenManager doet dit goed) is voor 95% van 50+ monteurs binnen 1-2 weken comfortabel. Wat niet werkt: een complexe interface met menu-niveaus en kleine icoontjes. Test de software vooraf met de hoofd-monteur — zijn comfort is meer waard dan een net iets goedkopere optie.
+Veelvoorkomend en oplosbaar. Een tablet met grote knoppen en een eenvoudige interface (FietsenManager doet dit goed) is voor vrijwel elke 50-plus monteur binnen 1-2 weken comfortabel. Wat niet werkt: een complexe interface met menu-niveaus en kleine icoontjes. Test de software vooraf met de hoofd-monteur — zijn comfort is meer waard dan een net iets goedkopere optie.
 
 ### Verlies ik klanten die liever bellen en geen SMS willen?
 
-Heel weinig, en degenen die bellen worden alsnog goed bediend — de digitale werkbon werkt parallel. De medewerker zoekt de werkbon razendsnel op (geen 5 minuten meer) en kan de klant direct te woord staan met accurate status. Voor de kleine groep (typisch <10%) die specifiek geen digitale communicatie wil, vink je een "telefoon-only" voorkeur aan; alles werkt verder op de digitale werkbon, alleen de uitgaande communicatie blijft bel-werk.
+Heel weinig, en degenen die bellen worden alsnog goed bediend — de digitale werkbon werkt parallel. De medewerker zoekt de werkbon razendsnel op (geen 5 minuten meer) en kan de klant direct te woord staan met accurate status. Voor de kleine groep die specifiek geen digitale communicatie wil, vink je een "telefoon-only" voorkeur aan; alles werkt verder op de digitale werkbon, alleen de uitgaande communicatie blijft bel-werk.
 
 ### Wat doe ik met 6 maanden papieren archief?
 

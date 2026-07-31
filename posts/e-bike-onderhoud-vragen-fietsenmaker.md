@@ -21,7 +21,7 @@ Door e-bike expertise op je [website](/gratis-website) te benadrukken, trek je g
 
 De meest gestelde vraag. Een standaard e-bike accu gaat 500 tot 1.000 laadcycli mee, afhankelijk van het merk en gebruik. In de praktijk betekent dat drie tot vijf jaar bij dagelijks gebruik.
 
-Adviseer klanten over goed laadgedrag: niet helemaal leeg laten lopen, niet permanent aan de lader laten hangen, en bij langere opslag de accu op 50 tot 70 procent bewaren. Dit verlengt de levensduur aanzienlijk.
+Adviseer klanten over goed laadgedrag: niet helemaal leeg laten lopen, niet permanent aan de lader laten hangen, en bij langere opslag de accu halfvol tot driekwart vol bewaren. Dit verlengt de levensduur aanzienlijk.
 
 ### 2. Wanneer moet ik mijn e-bike laten nakijken?
 

@@ -32,7 +32,7 @@ Voor de tijd-arme fietsenmaker die wil zien waar het verschil precies zit, hier 
 
 | Aspect | Voicemail | Voice AI |
 |---|---|---|
-| **% bellers dat bericht achterlaat** | < 20% | 100% (geen "achterlaten" nodig, gesprek loopt) |
+| **% bellers dat bericht achterlaat** | een kleine minderheid | 100% (geen "achterlaten" nodig, gesprek loopt) |
 | **Reactietijd voor de klant** | Pieptoon, dan stilte | Reactie binnen 3 seconden, normale conversatie |
 | **Wat jij ontvangt** | Soms een blip, soms onverstaanbaar | Gestructureerde lead (naam, type fiets, klacht, beste belmoment) |
 | **24/7 / avond / weekend** | Ja, maar passief | Ja, en het lead-percentage stort niet in op zaterdagmiddag |

@@ -23,9 +23,9 @@ Kijk je naar fietszaken die dit al doen, dan zie je bijna altijd drie pakketten 
 
 | Pakket | Richtprijs p/m | Wat zit erin |
 |---|---|---|
-| Basis | rond € 14,50 | 1 onderhoudsbeurt per jaar (t.w.v. circa € 89), voorrang bij reparaties, 10% korting op onderdelen |
+| Basis | rond € 14,50 | 1 onderhoudsbeurt per jaar (t.w.v. circa € 89), voorrang bij reparaties, korting op onderdelen |
 | Plus | rond € 19,50 | 1 onderhoudsbeurt per jaar plus accu-check, gratis bandenservice, snelservice |
-| E-bike compleet | rond € 24,50 | 2 onderhoudsbeurten per jaar, accu-check, voorrang en pechhulp, 15% korting op onderdelen |
+| E-bike compleet | rond € 24,50 | 2 onderhoudsbeurten per jaar, accu-check, voorrang en pechhulp, extra korting op onderdelen |
 
 De cijfers zijn een startpunt, geen wet. Reken voor je eigen werkplaats uit wat een gemiddelde beurt je aan tijd en onderdelen kost en zorg dat het maandbedrag daar comfortabel boven blijft. Het geheim zit niet in de korting, maar in de regelmaat: een abonnee die drie keer per jaar langskomt levert je over het jaar meer op dan een losse klant die met één beurt afhaakt. Houd de pakketten simpel, want hoe makkelijker de keuze, hoe sneller iemand ja zegt.
 

@@ -11,11 +11,11 @@ cluster: "branding"
 
 Een fietsenwinkel in Utrecht hanteerde 49 euro per uur voor reparaties terwijl de drie grootste lokale fietsenwinkels tussen 65 en 78 euro per uur zaten. De eigenaar dacht dat hij de "betaalbare keuze" was; in werkelijkheid was hij de "te goedkoop om serieus genomen te worden"-keuze. Aanpassen van zijn tarief in stappen van 5 euro per kwartaal leverde 18.000 euro extra omzet per jaar op, met dezelfde klantenkring.
 
-Veel Nederlandse fietsenwinkels prijzen reparatie-arbeid 15-25 procent onder de markt zonder het te beseffen. De voornaamste oorzaak: nooit gestructureerd benchmarken. Dit artikel geeft je een 30-minuten methode met 6 concrete datapunten die je tarieven, je service-portfolio en je positionering direct verbeteren.
+Veel Nederlandse fietsenwinkels prijzen reparatie-arbeid stelselmatig onder de markt zonder het te beseffen. De voornaamste oorzaak: nooit gestructureerd benchmarken. Dit artikel geeft je een 30-minuten methode met 6 concrete datapunten die je tarieven, je service-portfolio en je positionering direct verbeteren.
 
 ## In het kort
 
-- Veel fietsenwinkels prijzen reparatie-arbeid 15-25 procent onder marktprijs.
+- Veel fietsenwinkels prijzen reparatie-arbeid onder marktprijs.
 - 30 minuten concurrentieanalyse levert direct bruikbare data op je uurtarief, je responstijd en je e-bike service-aanbod.
 - 6 lokale datapunten zijn voldoende: tarief, doorlooptijd, online presentatie, reviews, USP, en specialisatie (e-bike, speed-pedelec, mountainbike, race).
 - Doe deze analyse minstens één keer per jaar plus een lichte check per kwartaal.
@@ -71,7 +71,7 @@ De analyse zelf is niet waardevol; de beslissingen wel. Vier typische uitkomsten
 
 - **Je uurtarief is significant lager dan markt.** Verhoog je tarief in stappen van 5 euro per kwartaal over 12 maanden. Communicatief naar bestaande klanten met uitleg over kostenstijging onderdelen.
 - **Je doorlooptijd is langer.** Investeer in werkplaats-flow optimalisatie of een tweede monteur in seizoen. Lees ook hoe je [no-shows in de fietswerkplaats voorkomt](/blog/fietsenwinkel-werkplaats-no-shows-voorkomen).
-- **Je hebt geen e-bike specialisme.** E-bike service is sinds 2024 het snelst groeiende segment in NL. Erkenning bij Bosch of Shimano kost 1.500-3.500 euro opleiding maar levert 30-50 procent extra omzet.
+- **Je hebt geen e-bike specialisme.** E-bike service is sinds 2024 het snelst groeiende segment in NL. Erkenning bij Bosch of Shimano kost 1.500-3.500 euro opleiding maar levert die investering ruim terug in extra omzet.
 - **Je website is dun vergeleken met concurrenten.** Investeer in een professionele website met online reparatie-aanvraag flow. Lees [hoe een fietswinkel-website meer klanten oplevert](/blog/fietswinkel-website-meer-klanten).
 
 ## Wanneer en hoe vaak doe je dit?
@@ -85,7 +85,7 @@ Praktische cadans:
 
 ## De 5 fouten die je kunt voorkomen
 
-1. **Alleen op uurtarief letten.** Tarief is één van zes datapunten. Een concurrent met 10 euro hoger tarief maar 50 procent meer reviews wint vaak meer reparaties.
+1. **Alleen op uurtarief letten.** Tarief is één van zes datapunten. Een concurrent met 10 euro hoger tarief maar veel meer reviews wint vaak meer reparaties.
 2. **Te brede selectie.** Vintage-fietsenwinkel vergelijk je niet met goedkope fietsenketen.
 3. **Eenmalig doen en nooit meer.** Markt verschuift elk seizoen. Jaarlijks updaten is minimum.
 4. **Geen schriftelijk vastleggen.** "In je hoofd" is binnen 4 weken vergeten. Bewaar in CRM-map.

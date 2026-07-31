@@ -19,7 +19,7 @@ Het probleem is meestal niet motivatie maar structuur. Wat post je in november? 
 
 Google's algoritme weegt drie dingen mee voor je Local Pack-ranking: relevantie (categorie + services), afstand (waar staat de zoeker) en prominentie (hoe sterk je signaal is). Posts vallen onder die laatste — ze zijn een van de duidelijkste signalen dat je profiel actief is.
 
-Voor seizoensgebonden bedrijven (en een fietsenwinkel is dat bij uitstek) is dit extra belangrijk. Tussen oktober en februari gaat het zoekvolume voor fietsreparaties met 40-60 procent omlaag. Profielen die in die periode stilvallen, krijgen bij de seizoenswisseling in maart een tragere boost dan profielen die het hele jaar door actief zijn gebleven.
+Voor seizoensgebonden bedrijven (en een fietsenwinkel is dat bij uitstek) is dit extra belangrijk. Tussen oktober en februari gaat het zoekvolume voor fietsreparaties fors omlaag. Profielen die in die periode stilvallen, krijgen bij de seizoenswisseling in maart een tragere boost dan profielen die het hele jaar door actief zijn gebleven.
 
 Voor de bredere strategie zie ons [Google Bedrijfsprofiel als fietswinkel pillar](/blog/google-bedrijfsprofiel-fietswinkel) artikel — Posts is laag 4 in de optimalisatie-stack, na categorie, services en foto's.
 
@@ -60,12 +60,12 @@ Hieronder per maand de post-suggesties + 2 templates die je direct kunt aanpasse
 > Winterperiode is hét moment voor groot onderhoud zonder lange wachttijd. Wij hebben in januari nog plek voor 12 e-bikes voor de jaarbeurt. Stuur ons een WhatsApp met je merk en model, dan reserveren we een slot voor je.
 
 **Aanbieding-post:**
-> 15 procent korting op alle winter-stalling pakketten in januari. Inclusief band-controle, kettingsmering en accu-conditionering. Reserveer voor 31 januari via [boekingslink].
+> [X] procent korting op alle winter-stalling pakketten in januari. Inclusief band-controle, kettingsmering en accu-conditionering. Reserveer voor 31 januari via [boekingslink].
 
 ### Februari — Pre-seizoen marketing
 
 **Update-post:**
-> Ben jij voorbereid op de eerste warme dag? Een fiets die 4 maanden heeft stilgestaan heeft 80 procent kans op een vastgeroeste ketting of platte band. Boek nu een check-up zodat je niet bij ons in de wachtrij staat zodra de zon doorbreekt.
+> Ben jij voorbereid op de eerste warme dag? Een fiets die 4 maanden heeft stilgestaan heeft een grote kans op een vastgeroeste ketting of platte band. Boek nu een check-up zodat je niet bij ons in de wachtrij staat zodra de zon doorbreekt.
 
 **Evenement-post:**
 > Vrijdag 27 februari: gratis e-bike accu-test tussen 14:00 en 17:00. Kom langs zonder afspraak met je e-bike. We checken capaciteit, laadtijd en motor-prestaties.
@@ -84,7 +84,7 @@ Hieronder per maand de post-suggesties + 2 templates die je direct kunt aanpasse
 > Wij merken dat veel klanten nu pas hun e-bike-accu willen vervangen. Tip: een nieuwe accu duurt 7-14 werkdagen omdat we ze op merk bestellen. Boek nu zodat je niet eind april voor een lege accu staat.
 
 **Aanbieding-post:**
-> Tot 30 april: gratis ketting-controle bij elke reparatie boven 50 euro. Gemiddeld 4 op de 10 ketting-rups blijken al te verlengd — vervangen voor het breekt scheelt je een hele transmissie.
+> Tot 30 april: gratis ketting-controle bij elke reparatie boven 50 euro. Veel kettingen blijken al te ver uitgerekt — vervangen voor het breekt scheelt je een hele transmissie.
 
 ### Mei — Vakantie-voorbereiding
 
@@ -97,7 +97,7 @@ Hieronder per maand de post-suggesties + 2 templates die je direct kunt aanpasse
 ### Juni — Familie-fietsen
 
 **Update-post:**
-> Kinderen die meegroeien? Onze ruil-deal: lever je oude kinderfiets in, krijg 30-50 procent op de volgende maat. Werkt voor alle merken en alle leeftijden tot en met 24 inch.
+> Kinderen die meegroeien? Onze ruil-deal: lever je oude kinderfiets in, krijg [X] procent op de volgende maat. Werkt voor alle merken en alle leeftijden tot en met 24 inch.
 
 **Evenement-post:**
 > Zaterdag 18 juni: Demo-dag elektrische bakfiets. Wij hebben 4 modellen op het terrein voor proefritjes — Urban Arrow, Babboe, Riese & Müller, en Tern. Geen afspraak nodig, 10:00 tot 16:00.
@@ -108,7 +108,7 @@ Hieronder per maand de post-suggesties + 2 templates die je direct kunt aanpasse
 > Vakantie-pech onderweg? Wij hebben in juli en augustus uitgebreide openingstijden — ook op zondag tussen 13:00 en 17:00 voor noodreparaties. Bel vooraf, we passen er één tussen.
 
 **Aanbieding-post:**
-> Augustus is omkeer-actie maand: 20 procent korting op een nieuwe achterband bij elke voor-band die wij vervangen. Aanbieding loopt tot 31 augustus.
+> Augustus is omkeer-actie maand: [X] procent korting op een nieuwe achterband bij elke voor-band die wij vervangen. Aanbieding loopt tot 31 augustus.
 
 ### Augustus — Stille zomer in de stad
 
@@ -137,7 +137,7 @@ Hieronder per maand de post-suggesties + 2 templates die je direct kunt aanpasse
 ### November — Wintervoorbereiding
 
 **Update-post:**
-> Hoe stal je je fiets in de winter? Tien minuten werk verlengt levensduur met 2 jaar: ketting smeren, band-spanning op 80 procent zetten, accu volledig opladen voordat je 'm uitneemt. Vraag onze gratis winter-checklist aan de balie.
+> Hoe stal je je fiets in de winter? Tien minuten werk verlengt levensduur met 2 jaar: ketting smeren, band-spanning op peil brengen, accu volledig opladen voordat je 'm uitneemt. Vraag onze gratis winter-checklist aan de balie.
 
 **Product-post:**
 > Nieuwe naafdynamos van Shimano binnen — onderhoudsvrij, 6V/2.4W vermogen, geluidloos. Voor wie zijn fiets ook in de winter dagelijks gebruikt. Vraag installatie en wij doen het binnen 1 dag.
@@ -148,7 +148,7 @@ Hieronder per maand de post-suggesties + 2 templates die je direct kunt aanpasse
 > Cadeaubonnen voor onze winkel zijn handig voor klanten die niet weten welke fiets te kiezen. Geldig 12 maanden, niet via webshops, alleen in onze winkel. Vraag aan de balie of via WhatsApp.
 
 **Aanbieding-post:**
-> Tot Oudejaarsdag: 10 procent korting op een fiets-keuring met schriftelijk rapport. Handig voor verzekeringsclaims of als bewijs bij verkoop. Reserveer via [boekingslink].
+> Tot Oudejaarsdag: [X] procent korting op een fiets-keuring met schriftelijk rapport. Handig voor verzekeringsclaims of als bewijs bij verkoop. Reserveer via [boekingslink].
 
 ![Werkplaats close-up: een tablet face-up op een werkbankje met een Google Bedrijfsprofiel posts-scherm (geblurde tekst), een gele bandopplaktool, een blauwe set inbussleutels, een pot fietsketting-vet en een mok dampende koffie op een houten plank, zachte ochtendzon](/images/blog/google-bedrijfsprofiel-posts-fietsenwinkel-seizoen-2.jpg)
 
@@ -158,7 +158,7 @@ Twaalf maanden plannen klinkt zwaar. In de praktijk:
 
 - **Eén ochtend per kwartaal** is genoeg om de 6 posts voor de komende drie maanden vooruit te plannen.
 - **Plan op maandag**, niet op vrijdag — Google's algoritme gaf in tests in 2025 lichte voorkeur voor maandag-posts (waarschijnlijk omdat klanten maandag-zoekopdrachten doen na het weekend).
-- **Voeg foto's toe** — posts met foto's krijgen 3-5x meer impressies dan tekst-only. Hergebruik werkplaats-foto's, voor-na fiets-foto's, productverpakking. Zie ook ons [foto's en posts die klanten trekken](/blog/fietswinkel-google-fotos-posts-opvallen) overzicht.
+- **Voeg foto's toe** — posts met foto's krijgen veel meer impressies dan tekst-only. Hergebruik werkplaats-foto's, voor-na fiets-foto's, productverpakking. Zie ook ons [foto's en posts die klanten trekken](/blog/fietswinkel-google-fotos-posts-opvallen) overzicht.
 - **Houd 1 wildcard-slot per maand vrij** voor onverwachte momenten — een lokaal evenement, een storm, een actie van een leverancier.
 
 Een [ai social media voor fietsenwinkels](/social-media) systeem kan deze 24 templates vooraf inplannen op je profiel én je instagram synchroon meenemen, zodat je in een uur per kwartaal klaar bent.

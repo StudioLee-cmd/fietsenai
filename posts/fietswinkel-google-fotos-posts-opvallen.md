@@ -12,7 +12,7 @@ tags: ["Vindbaarheid", "Fietswinkel", "Google"]
 
 Twee fietsenwinkels in dezelfde straat. Allebei op Google Maps. De ene heeft 3 foto's (een wazig uithangbord, een foto van de gevel en een stockfoto van een fiets). De andere heeft 25 foto's (werkplaats, reparaties in uitvoering, net afgeleverde e-bikes, het team aan het werk, de winkelruimte).
 
-Welke winkel klikt de zoeker aan? Altijd de tweede. Google bevestigt dit: bedrijven met meer dan 10 foto's op hun profiel krijgen 35 procent meer klikken naar hun website en 42 procent meer routebeschrijvingen dan bedrijven met weinig foto's.
+Welke winkel klikt de zoeker aan? Altijd de tweede. Volgens Google krijgen bedrijven met foto's op hun profiel 35 procent meer klikken naar hun website en 42 procent meer routebeschrijvingen dan bedrijven zonder.
 
 Voor fietsenwinkels is dit extra relevant. Klanten willen zien hoe je werkplaats eruitziet, wat voor fietsen je verkoopt, en of je er professioneel uitziet. Foto's beantwoorden die vragen voordat de klant een stap zet.
 

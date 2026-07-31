@@ -38,7 +38,7 @@ Voor een fietsenzaak met twee monteurs is 16.000 euro het verschil tussen een ge
 
 **Duidelijke prijsindicatie vooraf.** Voorkom prijsschrik door bij de intake al een bandbreedte te noemen: "De diagnose kost 35 euro. Als het de motor is, ligt de reparatie tussen de 150 en 300 euro. Ik bel je voordat ik begin met het werk." Klanten die weten wat ze kunnen verwachten, haken minder snel af.
 
-**Aanbetaling bij onderdelen bestellen.** Als je specifieke onderdelen moet bestellen voor een e-bike reparatie, vraag dan een aanbetaling van 50 procent. Dit dekt je risico als de klant niet terugkomt en het filtert klanten die niet serieus zijn. Voor onderdelen van 200 euro of meer is dit volkomen redelijk.
+**Aanbetaling bij onderdelen bestellen.** Als je specifieke onderdelen moet bestellen voor een e-bike reparatie, vraag dan een aanbetaling van de helft. Dit dekt je risico als de klant niet terugkomt en het filtert klanten die niet serieus zijn. Voor onderdelen van 200 euro of meer is dit volkomen redelijk.
 
 **Dubbele herinnering met statusupdate.** Stuur bij het bestellen van onderdelen een bericht: "Je onderdelen zijn besteld, verwachte levertijd: 3 werkdagen. Ik app je zodra ze er zijn." En wanneer ze binnenkomen: "Je onderdelen zijn binnen! Wanneer kun je je fiets langsbrengen?" Een [AI telefonist](/voice-ai) automatiseert deze communicatie volledig.
 

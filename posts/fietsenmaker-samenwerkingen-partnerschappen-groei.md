@@ -53,11 +53,11 @@ Jongeren-fiets-volumes zijn enorm. Een basisschool met 200 leerlingen heeft 200+
 **Hoe je begint:**
 - Benader scholen en clubs met een "fiets-check-dag" concept: één middag per kwartaal kom jij langs, doet 30-minuten-checks voor ouders die zich aanmelden, verkoopt reparaties waar nodig
 - Voor de school is dit gratis service voor hun gemeenschap, voor jou een directe manier om 15-30 ouders persoonlijk te ontmoeten
-- Conversieratio van die ontmoetingen naar doorgaande klanten ligt op 40-55 procent, veel hoger dan elke online marketing
+- Conversieratio van die ontmoetingen naar doorgaande klanten ligt veel hoger dan bij elke vorm van online marketing
 
 **Wat dit oplevert:** per fiets-check-dag gemiddeld 8-15 directe reparatie-opdrachten (gemiddeld €45 per reparatie) + 5-10 nieuwe klanten die later terugkomen voor grotere klussen. In jaargetal: 4 dagen per jaar x 1 school/club = €1.800-€3.000 directe omzet + ongeveer €2.000-€4.000 aan terugkerende klanten-omzet.
 
-**Slimme toevoeging:** geef elke school een 10 procent korting-kaartje voor hun leerlingen die bij jou komen. Dat versterkt de school-relatie (zij kunnen dit als voordeel communiceren naar ouders) en markeert jouw winkel als "de officiële school-fietsenmaker" wat mond-tot-mond versnelt.
+**Slimme toevoeging:** geef elke school een korting-kaartje voor hun leerlingen die bij jou komen. Dat versterkt de school-relatie (zij kunnen dit als voordeel communiceren naar ouders) en markeert jouw winkel als "de officiële school-fietsenmaker" wat mond-tot-mond versnelt.
 
 ## Partnerschap 4: verzekeraars en rechtsbijstand
 
@@ -88,7 +88,7 @@ Uitgangspunt: een fietsenmaker met huidige maandomzet van €12.000 (€144.000 
 
 Met vier basispartnerschappen na 12 maanden (1 werkgever, 1 hotel/B&B, 2 scholen, 1 verzekeraar): gemiddeld €3.200 per maand voorspelbare partnership-omzet bovenop bestaande omzet = €38.400 per jaar extra.
 
-Daarnaast: door het partnership-gelegde vertrouwen, stijgt de klantverwijzingen uit werknemers/gasten/ouders met 20-30 procent, wat nog eens €10.000-€18.000 indirect extra oplevert. Totaal jaaromzet-impact: €48.000-€56.000 (+35 tot 40 procent), voor een tijdsinvestering van ongeveer 60 uur in het eerste jaar om de partnerships op te zetten.
+Daarnaast: door het partnership-gelegde vertrouwen stijgen de klantverwijzingen uit werknemers/gasten/ouders merkbaar, wat nog eens €10.000-€18.000 indirect extra oplevert. Totaal jaaromzet-impact: €48.000-€56.000, voor een tijdsinvestering van ongeveer 60 uur in het eerste jaar om de partnerships op te zetten.
 
 ## Hoe je dit in 8 weken uitrolt
 

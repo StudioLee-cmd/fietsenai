@@ -14,7 +14,7 @@ Het is dinsdagochtend. Je hebt drie reparaties ingepland: 9:00, 10:30, 13:00. De
 
 Een gemiste reparatie-afspraak kost een fietswinkel gemiddeld 60 tot 120 euro. Eén no-show per week kost je 3.000 tot 6.000 euro per jaar. Voor een winkel met meerdere monteurs loopt dit snel op.
 
-Het goede nieuws: 80 procent van de no-shows is te voorkomen met een simpele bevestigingsketen. Geen dure software, geen ingewikkelde processen.
+Het goede nieuws: de meeste no-shows zijn te voorkomen met een simpele bevestigingsketen. Geen dure software, geen ingewikkelde processen.
 
 ## Waarom klanten niet komen opdagen
 
@@ -48,7 +48,7 @@ Een dag van tevoren:
 
 > "Hi [naam], morgen [dag] om [tijd] verwachten we je in de winkel met je fiets. Tot dan!"
 
-Drie berichten in totaal. Drie minuten per klant aan tekstwerk dat één keer per maand wordt geschreven en daarna automatisch verstuurd. Resultaat: 80 procent minder no-shows.
+Drie berichten in totaal. Drie minuten per klant aan tekstwerk dat één keer per maand wordt geschreven en daarna automatisch verstuurd. Resultaat: fors minder no-shows.
 
 ## Online afspraken inboeken
 
@@ -67,9 +67,9 @@ Tools als Cal.com, Calendly of fietsspecifieke systemen werken prima en kosten m
 
 Voor fietswinkels werkt **WhatsApp** verreweg het beste, gevolgd door **SMS**. Bijna alle Nederlandse fietsklanten gebruiken WhatsApp dagelijks.
 
-- **WhatsApp:** 95 procent openingsratio, hoge respons
-- **SMS:** 92 procent openingsratio, goede backup voor oudere klanten
-- **E-mail:** 25 procent openingsratio, vaak laat gezien
+- **WhatsApp:** wordt vrijwel altijd geopend, hoge respons
+- **SMS:** wordt bijna net zo goed geopend, goede backup voor oudere klanten
+- **E-mail:** wordt maar door een minderheid geopend, vaak laat gezien
 
 Stel WhatsApp Business in als hoofdkanaal voor afspraakberichten. Het werkt direct, voelt persoonlijk, en kost niets.
 

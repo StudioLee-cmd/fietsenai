@@ -8,7 +8,7 @@ authorSlug: "tim-van-der-lee"
 tags: ["Vindbaarheid", "Google Maps", "SEO", "Stappenplan", "Lokale Marketing"]
 cluster: "vindbaarheid"
 ---
-Een fietsenwinkel die niet bovenaan in Google Maps verschijnt voor "fietsenmaker bij mij in de buurt", mist gemiddeld 60 procent van de potentiële walk-ins. Niet omdat de winkel slecht is — vaak juist het tegendeel — maar omdat online vindbaarheid in 2026 een vak op zich is geworden waar fietsenwinkels weinig tijd voor nemen tussen reparaties en verkoop door.
+Een fietsenwinkel die niet bovenaan in Google Maps verschijnt voor "fietsenmaker bij mij in de buurt", mist een groot deel van de potentiële walk-ins. Niet omdat de winkel slecht is — vaak juist het tegendeel — maar omdat online vindbaarheid in 2026 een vak op zich is geworden waar fietsenwinkels weinig tijd voor nemen tussen reparaties en verkoop door.
 
 Dit artikel is voor jou als fietsenwinkel-eigenaar die wil weten wat je in de komende 90 dagen concreet kunt doen om hoger te ranken in Google, meer reviews te verzamelen, en seizoensgebonden klantstromen beter op te vangen. Geen abstracte SEO-theorie — een week-voor-week stappenplan dat je op een rustige donderdagochtend kunt uitvoeren.
 
@@ -19,7 +19,7 @@ Online vindbaarheid is niet een knop die je aanzet. Google heeft tijd nodig om w
 In 90 dagen kun je realistisch verwachten:
 - Een goed geoptimaliseerd Google Bedrijfsprofiel met 30+ nieuwe reviews
 - Lokale ranking voor 10 tot 20 zoekwoorden in jouw stad of regio
-- Meetbare stijging in walk-ins van 20 tot 40 procent
+- Meetbare stijging in walk-ins
 - Een herhaalbaar systeem dat zichzelf onderhoudt vanaf maand vier
 
 ## Maand 1: fundament leggen (week 1-4)
@@ -40,9 +40,9 @@ Open Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf), claim of update je v
 
 Test je website op [PageSpeed Insights](https://pagespeed.web.dev). Score onder 50? Dan verlies je bezoekers vóór ze je homepage zien. Voor fietsenwinkels zijn de drie meest voorkomende fixes:
 
-- Te grote productfoto's (compressies via TinyPNG geeft 60-80% besparing zonder kwaliteitsverlies)
+- Te grote productfoto's (compressie via TinyPNG scheelt fors in bestandsgrootte zonder kwaliteitsverlies)
 - Trage hosting (een upgrade naar SSD-hosting kost €5-10/mnd extra, scheelt seconden in laadtijd)
-- Geen mobiele optimalisatie (60% van fietsenwinkel-bezoekers komt via mobiel — een niet-mobiele site rankt automatisch slechter)
+- Geen mobiele optimalisatie (de meeste fietsenwinkel-bezoekers komen via mobiel — een niet-mobiele site rankt automatisch slechter)
 
 Een [professioneel gebouwde fietsenwinkel-website](https://www.fietsenai.nl/gratis-website) heeft deze basis standaard op orde, inclusief schema.org-markup voor "BicycleShop" wat Google direct herkent.
 
@@ -62,7 +62,7 @@ Met het fundament op orde begint maand twee de stroom van vindbaarheid op gang t
 
 ### Week 5-6: 8-15 reviews per week
 
-Het systeem uit week 4 moet nu draaien. Realistisch krijg je 5 tot 15 procent respons op review-verzoeken — bij 80 reparaties per week zijn dat 4 tot 12 nieuwe reviews. Doel: 30 nieuwe reviews aan het einde van maand twee. Reageer op elke review (positief én negatief) binnen 48 uur.
+Het systeem uit week 4 moet nu draaien. Reken met 5 tot 15 procent respons op review-verzoeken — bij 80 reparaties per week zijn dat 4 tot 12 nieuwe reviews. Doel: 30 nieuwe reviews aan het einde van maand twee. Reageer op elke review (positief én negatief) binnen 48 uur.
 
 ### Week 7: lokale content publiceren
 
@@ -94,15 +94,15 @@ Eind maand drie kijk je naar de cijfers: Google Maps ranking voor 5 hoofdzoekwoo
 |---|---|---|---|
 | Google reviews | 15-30 | 50-90 | +200% |
 | Maps-ranking (top 3-pack) | Pagina 2-3 | Pagina 1, soms top 3 | 5-10 plekken |
-| Website-bezoekers per week | 50-150 | 120-400 | +150% |
-| Walk-ins per week | 25-60 | 35-90 | +35% |
+| Website-bezoekers per week | 50-150 | 120-400 | ruim verdubbeld |
+| Walk-ins per week | 25-60 | 35-90 | fors hoger |
 | Reparatie-aanvragen per week | 15-40 | 25-65 | +60% |
 
-Belangrijk: deze cijfers gelden bij consistente uitvoering. Twee van de zes acties uitvoeren levert maximaal 30% van het resultaat op.
+Belangrijk: deze cijfers gelden bij consistente uitvoering. Twee van de zes acties uitvoeren levert maar een fractie van het resultaat op.
 
 ## De vier valkuilen die fietsenwinkels in dit traject vaak hebben
 
-- **Maand 1 doorslaan naar maand 2:** zonder NAP-consistentie en review-systeem werken alle activiteiten in maand 2-3 alleen voor 40-50%. Geduld in de fundament-fase.
+- **Maand 1 doorslaan naar maand 2:** zonder NAP-consistentie en review-systeem werken alle activiteiten in maand 2-3 maar half. Geduld in de fundament-fase.
 - **Reviews kopen of vragen voor scherpe korting:** Google detecteert dit en kan je vermelding pauzeren. Alleen organische reviews op basis van echte service.
 - **Te veel platformen tegelijk:** TikTok, LinkedIn, Pinterest — iedereen heeft mening. Voor fietsenwinkels werken Google + Instagram (foto's) + Facebook (lokale community). Andere platformen kosten meer dan ze opleveren.
 - **Stoppen na maand 3:** zonder doorlopend ritme zakt de ranking weer weg. Het 90-dagen plan moet overgaan in een blijvend ritme van 1 review-systeem-tweak + 1 blogpost + 2 GBP-posts per week.
@@ -113,7 +113,7 @@ Belangrijk: deze cijfers gelden bij consistente uitvoering. Twee van de zes acti
 - **Geautomatiseerd review-systeem:** €49-99 per maand (zie [tarieven voor fietsenwinkels](https://www.fietsenai.nl/tarieven))
 - **Website-optimalisatie:** €0 (DIY) tot €1.500 eenmalig (bureau) tot €69-149 per maand (AI-platform met onderhoud inbegrepen)
 
-Een gemiddelde fietsenwinkel met €450.000 omzet ziet door dit traject 25 tot 40 procent groei in nieuwe klanten in jaar twee — €112.000 tot €180.000 extra omzet. Tegenover €1.000 tot €3.000 totale investering.
+Reken met een gemiddelde fietsenwinkel met €450.000 omzet: 25 tot 40 procent groei in nieuwe klanten in jaar twee komt neer op €112.000 tot €180.000 extra omzet. Tegenover €1.000 tot €3.000 totale investering.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/vindbaarheid-fietswinkel-online-klanten-trekken" class="text-dark fw-semibold">Vindbaarheid van je fietswinkel: online klanten trekken</a> →</p></div></div></div>
 

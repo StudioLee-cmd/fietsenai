@@ -33,7 +33,7 @@ Het laatste bericht voorkomt dat gerepareerde fietsen wekenlang je werkplaats be
 
 ## Een aanbetaling bij grote reparaties
 
-Bij reparaties boven de €100 (versnellingsgroep vervangen, e-bike motor revisie, framelaatsen) is een aanbetaling van 30% redelijk. De klant toont commitment, jij hebt zekerheid dat het bestelde onderdeel niet voor niets op de plank ligt.
+Bij reparaties boven de €100 (versnellingsgroep vervangen, e-bike motor revisie, framelaatsen) is een aanbetaling redelijk; reken met 30%. De klant toont commitment, jij hebt zekerheid dat het bestelde onderdeel niet voor niets op de plank ligt.
 
 ## Online boekingssysteem in plaats van telefonisch
 

@@ -8,15 +8,15 @@ image: "/images/blog/fietsenwinkel-seizoenspiek-voorjaar-2026.jpg"
 tags: ["Seizoenswerk", "Voorjaar", "Fietsenwinkel"]
 cluster: "automatisering"
 ---
-Een fietsenwinkel verdient ruwweg de helft van zijn jaaromzet in 4 maanden: maart, april, mei en juni. In die piek-tijd staan klanten in de rij, wachten reparaties weken, en moet je nieuwe fietsen verkopen terwijl de servicebalie overloopt. Wie dit niet vooraf plant, mist 20-30 procent omzet en verliest klanten aan de concurrent die wél structuur heeft.
+Een fietsenwinkel verdient ruwweg de helft van zijn jaaromzet in 4 maanden: maart, april, mei en juni. In die piek-tijd staan klanten in de rij, wachten reparaties weken, en moet je nieuwe fietsen verkopen terwijl de servicebalie overloopt. Wie dit niet vooraf plant, laat serieuze omzet liggen en verliest klanten aan de concurrent die wél structuur heeft.
 
 De goede kans: het voorjaars-piek is voorspelbaar, dus je kunt 'm voorbereiden. Dit artikel geeft een concreet 90-dagen-plan voor wat je in januari, februari en maart moet regelen om klaar te zijn als de drukte losbarst.
 
 **In het kort:**
 
-- Maart-juni levert 50-60% van de jaaromzet voor een gemiddelde fietsenwinkel.
-- 30% van de potentiële klanten haakt af door wachttijden of slechte communicatie tijdens de piek.
-- 90 dagen vooraf plannen voorkomt 80% van de operationele problemen.
+- Maart-juni levert het leeuwendeel van de jaaromzet voor een gemiddelde fietsenwinkel.
+- Een flink deel van de potentiële klanten haakt af door wachttijden of slechte communicatie tijdens de piek.
+- 90 dagen vooraf plannen voorkomt de meeste operationele problemen.
 - Online boekingen + automatische herinneringen halveren walk-in stress.
 - Pre-sale van service-pakketten in januari brengt cashflow + vult agenda alvast.
 
@@ -28,7 +28,7 @@ Drie factoren komen samen:
 2. **Vakantie-voorbereiding**: voor de meivakantie + zomer komen alle "moet die fiets weer rijden"-reparaties tegelijk.
 3. **Nieuwe-fiets-aankopen**: vooral e-bike-aankopen pieken in maart-april bij gunstig weer.
 
-Resultaat: in 1 week kan je service-balie 4x meer aanvragen krijgen dan in januari. Zonder structuur zie je: lange wachtrijen, telefoon onbereikbaar, klanten die naar de concurrent stappen.
+Resultaat: in 1 week kan je service-balie een veelvoud aan aanvragen krijgen ten opzichte van januari. Zonder structuur zie je: lange wachtrijen, telefoon onbereikbaar, klanten die naar de concurrent stappen.
 
 ## Januari: de planning-maand
 
@@ -37,7 +37,7 @@ Wat je nu moet regelen:
 ### Voorraad-bestelling
 
 - Bestel onderdelen die altijd opraken in maart: binnenbanden (alle maten), kettingen (8/9/10/11-speed + e-bike), remblokken/-schijven, batterijen voor verlichting, e-bike-laders.
-- Hoeveel? Pak de inkoop van vorig voorjaar + 15% (groei + extra buffer).
+- Hoeveel? Reken met de inkoop van vorig voorjaar + 15% (groei + extra buffer).
 - Lever-tijden checken: bij sommige groothandels lopen die in februari al op tot 4-6 weken.
 
 ### Personeel-planning
@@ -49,7 +49,7 @@ Wat je nu moet regelen:
 ### Service-aanbod opzetten
 
 - Pre-season service-pakket: "Voorjaarsbeurt" (controle ketting, remmen, banden, verlichting + reinigen) voor een vaste prijs (€45-75).
-- Pre-sale aanbieden in januari/februari met een korting van 10-15% bij vroeg-boeken.
+- Pre-sale aanbieden in januari/februari met een vroegboek-korting; reken met 10-15%.
 - Dit pakt 2 dingen tegelijk: cashflow nu + voorspelbare planning straks.
 
 ## Februari: de voorbereidings-maand
@@ -115,9 +115,9 @@ Als januari, februari en maart goed zijn verlopen, is april-juni "alleen maar ui
 
 Fietsenwinkels die deze structuur 1 jaar volhouden rapporteren:
 
-- **20-30% hogere voorjaars-omzet** (door betere voorbereiding + minder afhakers).
+- **Hogere voorjaars-omzet** (door betere voorbereiding + minder afhakers).
 - **Cashflow-piek in januari/februari** door pre-sale service-pakketten.
-- **40% minder gemiste oproepen** in piek-maanden.
+- **Minder gemiste oproepen** in piek-maanden.
 - **Hogere medewerker-tevredenheid** doordat de drukte beter te managen is.
 - **Meer terugkerende klanten** doordat communicatie + service consistent zijn.
 

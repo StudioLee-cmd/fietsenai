@@ -44,9 +44,9 @@ Een NFC-kaart is een visitekaart-groot acryl pasje met een chip die door bijna a
 
 In een fietsenwinkel werkt deze tool het beste op één specifieke plek: pal naast de pinautomaat op de toonbank. De klant tikt af voor zijn reparatie, jij zegt iets als "tevreden? tik even tegen het kaartje hier", en hij doet het meteen. Dat is het magic-window. Eén seconde later is het moment voorbij, want hij heeft zijn fiets al weer in zijn hand en denkt aan het volgende.
 
-Onze ervaring bij fietsenmakers die dit goed doen: 30 tot 40 procent van de klanten die de kaart wordt aangewezen, tikt 'm en laat een review achter. Dat is een vermenigvuldiging van vier of vijf ten opzichte van mondeling vragen zonder fysieke trigger. Voor de complete deployment-set inclusief WhatsApp-koppeling kijk je naar een [complete review setup voor fietsenmakers](/review-pakket).
+Onze ervaring bij fietsenmakers die dit goed doen: een aanzienlijk deel van de klanten die de kaart wordt aangewezen, tikt 'm en laat een review achter. Dat is een veelvoud van wat mondeling vragen zonder fysieke trigger oplevert. Voor de complete deployment-set inclusief WhatsApp-koppeling kijk je naar een [complete review setup voor fietsenmakers](/review-pakket).
 
-Het zwakke punt: oudere iPhones (van vóór de iPhone XS) en sommige goedkopere Android-toestellen lezen geen NFC. In een fietsenwinkel met een gemengde klantbasis (vooral oudere stadsfietsers betalen soms met een telefoon van vijf jaar oud) loop je daarmee 10 tot 15 procent mis. Daarom combineer je een NFC-kaart bij voorkeur met een sticker of QR-bord, zodat alle klanten een werkende optie hebben.
+Het zwakke punt: oudere iPhones (van vóór de iPhone XS) en sommige goedkopere Android-toestellen lezen geen NFC. In een fietsenwinkel met een gemengde klantbasis (vooral oudere stadsfietsers betalen soms met een telefoon van vijf jaar oud) loop je daarmee een deel van je klanten mis. Daarom combineer je een NFC-kaart bij voorkeur met een sticker of QR-bord, zodat alle klanten een werkende optie hebben.
 
 ## QR-bord bij de kassa: wanneer hij werkt
 
@@ -72,7 +72,7 @@ Wat we soms zien gebeuren: de klant scant de sticker in z'n eigen straat, vergel
 
 De vier deployment-plekken die in elke ingerichte fietsenwerkplaats werken:
 
-**De toonbank, naast de pinautomaat**. NFC-kaart of klein QR-bord. Het magic-moment: klant tikt af, jij wijst aan, klant tikt. 30 tot 40 procent conversie als je het mondeling triggert. Zonder mondelinge prompt zakt het naar 10 procent.
+**De toonbank, naast de pinautomaat**. NFC-kaart of klein QR-bord. Het magic-moment: klant tikt af, jij wijst aan, klant tikt. De conversie is het hoogst als je het mondeling triggert. Zonder mondelinge prompt zakt het hard in.
 
 **De wachtruimte met een groter QR-bord**. Voor winkels met e-bike-display of Shimano-uitleg-corner. Klant zit, kijkt, scant. Werkt passief, geen mondelinge actie van jouw kant nodig.
 
@@ -82,7 +82,7 @@ De vier deployment-plekken die in elke ingerichte fietsenwerkplaats werken:
 
 ## De WhatsApp-klaarmelding plus review-vraag in één
 
-Hier zit de echte hefboom voor fietsenwinkels, en het is precies wat je onderscheidt van een hobbyzaak. Hardware alleen vangt 20 tot 30 procent van de potentiële reviews op. Hardware plus een geautomatiseerde WhatsApp-klaarmelding-met-review-vraag haalt 60 tot 70 procent.
+Hier zit de echte hefboom voor fietsenwinkels, en het is precies wat je onderscheidt van een hobbyzaak. Hardware alleen vangt maar een deel van de potentiële reviews op. Hardware plus een geautomatiseerde WhatsApp-klaarmelding-met-review-vraag vangt het merendeel.
 
 De flow: jouw monteur sluit de reparatie af in de werkplaatsapp. Automatisch krijgt de klant een WhatsApp met "Je fiets staat klaar, kom 'm op een geschikt moment ophalen". Twee uur na ophaal (gemeten via de werkplaats-app) volgt een tweede WhatsApp: "Bedankt dat je voor ons koos. Tikt het een review-tje los? Eén tap." plus de directe Google-reviewlink.
 
@@ -92,7 +92,7 @@ Twee herinneringen totaal, daarna stopt de flow vanzelf. Geen klant wordt vier k
 
 Een eerlijke waarschuwing voor wat we vaak zien misgaan in fietsenwerkplaatsen.
 
-**Geen WhatsApp-flow eraan koppelen.** Een sticker plakken en hopen op het beste is geen tactiek. Zonder een geautomatiseerde tweede touchpoint blijft je conversie steken op 20 procent. De sticker is de uitnodiging, de flow is de bevestiging. Hardware zonder automation is de helft van een strategie.
+**Geen WhatsApp-flow eraan koppelen.** Een sticker plakken en hopen op het beste is geen tactiek. Zonder een geautomatiseerde tweede touchpoint blijft je conversie laag. De sticker is de uitnodiging, de flow is de bevestiging. Hardware zonder automation is de helft van een strategie.
 
 **NFC-kaart op een vettige plek leggen.** Een fietsenwinkel is geen apotheek. Olie, kettingvet, banden-vacuumvet en stof komen overal. Een acryl NFC-kaart die op de werkbank ligt is binnen drie weken niet meer scanbaar door de smurrie. Hou de NFC-kaart op de balie, weg van de werkplaats-vloer en de gereedschapsbenches. Een sticker op de fiets kan wel vettig worden, want die vervang je per fiets.
 

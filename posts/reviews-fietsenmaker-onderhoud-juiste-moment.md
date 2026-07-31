@@ -7,9 +7,9 @@ image: "/images/blog/reviews-fietsenmaker-onderhoud-juiste-moment.jpg"
 cluster: "reviews"
 tags: ["Reviews", "Google Reviews", "Fietsenmaker Operaties"]
 ---
-Een klant haalt zijn fiets op na een grote onderhoudsbeurt. De ketting is gepoetst, de remmen zijn nieuw, de banden hard. Hij stapt op, voelt het verschil, en denkt: "Wat fijn." Op dat moment zou hij blind een 5-sterren review schrijven. Maar de fietsenmaker zegt niets, vraagt niets, en de klant fietst weg met een glimlach. Drie weken later belt hij terug omdat de derailleur niet schakelt zoals het moet, en is hij niet meer in de stemming voor een review. De gemiste kans is structureel: 80 procent van de fietsenmakers vraagt nooit om een review, terwijl klanten op het juiste moment maar wat graag willen geven.
+Een klant haalt zijn fiets op na een grote onderhoudsbeurt. De ketting is gepoetst, de remmen zijn nieuw, de banden hard. Hij stapt op, voelt het verschil, en denkt: "Wat fijn." Op dat moment zou hij blind een 5-sterren review schrijven. Maar de fietsenmaker zegt niets, vraagt niets, en de klant fietst weg met een glimlach. Drie weken later belt hij terug omdat de derailleur niet schakelt zoals het moet, en is hij niet meer in de stemming voor een review. De gemiste kans is structureel: de meeste fietsenmakers vragen nooit om een review, terwijl klanten op het juiste moment maar wat graag willen geven.
 
-Voor een fietsenmaker zijn Google reviews een van de hoogste-leverende marketingacties. Een 4.8-stars-rating met 80 reviews trekt 3 keer meer nieuwe klanten dan een 4.5-rating met 12 reviews. Dit artikel laat zien wanneer en hoe je vraagt zodat je structureel meer reviews krijgt zonder opdringerig te voelen, plus welke scripts in de praktijk werken bij Nederlandse fietsenmakers.
+Voor een fietsenmaker zijn Google reviews een van de hoogste-leverende marketingacties. Een 4.8-stars-rating met 80 reviews trekt fors meer nieuwe klanten dan een 4.5-rating met 12 reviews. Dit artikel laat zien wanneer en hoe je vraagt zodat je structureel meer reviews krijgt zonder opdringerig te voelen, plus welke scripts in de praktijk werken bij Nederlandse fietsenmakers.
 
 ## Het optimale moment om een review te vragen
 
@@ -36,10 +36,10 @@ Drie dingen maken fiets-onderhoud anders dan andere services.
 **Veel terugkerende klanten.** Fietsen worden jaarlijks tot half-jaarlijks onderhouden. Als de eerste ervaring goed was en je vraagt op het juiste moment, bouw je een trouwe review-stroom op over de jaren.
 
 **In het kort:**
-- Vraag 80 procent van je reviews op het moment van ophalen, na de proefrit.
-- Vraag 20 procent via een opvolg-bericht 24-48 uur later.
+- Vraag het grootste deel van je reviews op het moment van ophalen, na de proefrit.
+- Vraag de rest via een opvolg-bericht 24-48 uur later.
 - Een goede fietsenmaker krijgt 5-10 nieuwe reviews per maand zonder veel moeite.
-- Schriftelijke verzoeken (WhatsApp, NFC-kaart) werken 3 keer beter dan mondelinge alleen.
+- Schriftelijke verzoeken (WhatsApp, NFC-kaart) werken duidelijk beter dan mondelinge alleen.
 - De grootste fout: alleen om reviews vragen als de klant er zelf om vraagt of zelf vermeldt blij te zijn.
 
 ## Scripts voor het ophaal-moment
@@ -79,7 +79,7 @@ Of korter:
 "Hi [naam], hoe rijdt de fiets nu? Mocht je tevreden zijn, een review op Google helpt ons enorm. [link]"
 ```
 
-Deze WhatsApp-berichten halen openrates van 90+ procent en review-rates van 25-35 procent (1 op 3 stuurt een review).
+Deze WhatsApp-berichten worden vrijwel altijd geopend, en een aanzienlijk deel van de ontvangers stuurt daadwerkelijk een review.
 
 ![Fietsenmaker controleert ketting van een opnieuw gemonteerde fiets in een werkplaats](/images/blog/reviews-fietsenmaker-onderhoud-juiste-moment-2.jpg)
 
@@ -105,7 +105,7 @@ Bij drie Nederlandse fietsenmakers die we het afgelopen jaar hebben begeleid bij
 
 - **Reviews per maand:** van gemiddeld 1-2 naar 8-12.
 - **Sterren-rating:** stabiel of licht hoger (5-sterren bias als je goed werkt).
-- **Nieuwe klanten via Google:** +30 tot +50 procent (rating + aantal reviews trekken).
+- **Nieuwe klanten via Google:** merkbaar meer (rating + aantal reviews trekken).
 - **Tijd-investering:** 30 sec extra per fiets-overdracht plus 2 min per dag voor opvolg-berichten.
 
 Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 nieuwe [Google reviews](/blog/meer-reparaties-met-ai) per maand zonder structurele tijdsinvestering.
@@ -114,7 +114,7 @@ Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 n
 
 ### Wachten tot klant zelf review noemt
 
-99 procent van de klanten denkt er niet aan zelf. Wacht je tot ze het noemen, dan vraag je nooit. Vraag actief.
+Vrijwel geen enkele klant denkt er zelf aan. Wacht je tot ze het noemen, dan vraag je nooit. Vraag actief.
 
 ### Te lang of complex review-script
 
@@ -122,7 +122,7 @@ Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 n
 
 ### Geen opvolging bij no-show
 
-Als een klant op het ophaal-moment geen review schrijft, is een opvolg-WhatsApp 24-48 uur later cruciaal. Zonder opvolging mis je 60 procent van de potentiële reviews.
+Als een klant op het ophaal-moment geen review schrijft, is een opvolg-WhatsApp 24-48 uur later cruciaal. Zonder opvolging mis je het merendeel van de potentiële reviews.
 
 ### Verschillende toon per klant
 

@@ -47,7 +47,7 @@ Per kanaal verschilt de impact.
 
 **Via WhatsApp werkt het best voor offertes onder €400.** Korte, duidelijke berichten, snelle akkoord. "Hi [naam], de offerte voor je accu-revisie is €295 (€180 accu + €85 arbeid + €30 nieuw slot). Oké voor akkoord? Dan plannen we maandag."
 
-**Via e-mail werkt het best voor offertes boven €400.** Een PDF met duidelijke opbouw, optioneel een korte video-uitleg (1 minuut, "dit is wat we gaan doen") erbij gevoegd. Video verhoogt conversie met 30-50% voor hogere bedragen omdat het persoonlijkheid toevoegt.
+**Via e-mail werkt het best voor offertes boven €400.** Een PDF met duidelijke opbouw, optioneel een korte video-uitleg (1 minuut, "dit is wat we gaan doen") erbij gevoegd. Video verhoogt de conversie merkbaar bij hogere bedragen omdat het persoonlijkheid toevoegt.
 
 **Telefonisch voor offertes boven €800.** Grote reparaties vragen om een persoonlijk moment. De klant moet vragen kunnen stellen. Na het gesprek stuur je de offerte alsnog schriftelijk ter bevestiging.
 
@@ -67,7 +67,7 @@ Drie valkuilen die veel fietsenzaken over het hoofd zien.
 
 Een onderschatte factor bij e-bike offerte-acceptatie: recente Google-reviews zijn het vertrouwenssignaal dat de klant doorslaggevend vindt in twijfelgevallen. Een klant die €700 gaat betalen aan een onbekende fietsenzaak, checkt de reviews vaak pas tijdens het wachten op de offerte. Staat daar 30 reviews van de afgelopen 6 maanden, gemiddeld 4,7 sterren, en vooral reviews die specifieke e-bike situaties beschrijven — dan tekent hij. Staat daar 8 reviews van drie jaar oud, dan haakt hij alsnog af.
 
-Wat werkt: een [automatische review-flow](/reviews) die 48 uur na afronding van elke reparatie een korte WhatsApp stuurt met Google-link. Conversie ligt rond 15-25% — bij 15 reparaties per week betekent dit 2-4 nieuwe reviews, genoeg om je profiel actief te houden.
+Wat werkt: een [automatische review-flow](/reviews) die 48 uur na afronding van elke reparatie een korte WhatsApp stuurt met Google-link. Reken met een conversie rond 15-25% — bij 15 reparaties per week betekent dit 2-4 nieuwe reviews, genoeg om je profiel actief te houden.
 
 Bonus: vraag de klant in dat WhatsApp-bericht specifiek om te vermelden wat er gerepareerd is. "Als je even vermeldt welk type reparatie dit was, helpen we daarmee andere klanten die met dezelfde vraag zitten." Reviews die "e-bike accu vervanging" of "mid-drive motor revisie" bevatten, zijn 3x effectiever voor het vertrouwen van nieuwe klanten met dezelfde reparatie-behoefte.
 
@@ -75,8 +75,8 @@ Bonus: vraag de klant in dat WhatsApp-bericht specifiek om te vermelden wat er g
 
 Drie KPI's om je offerte-proces te meten:
 
-- **Offerte-conversie (aangeboden ÷ geaccepteerd).** Gezond is 65-80% voor e-bikes. Onder 50% is er iets mis — meestal in transparantie of prijsniveau.
-- **Gemiddelde tijd van intake naar offerte.** Doel: binnen 24 uur. Elke dag langer kost je 8-12% acceptatie.
+- **Offerte-conversie (aangeboden ÷ geaccepteerd).** Reken met 65-80% als gezonde band voor e-bikes. Zakt 'ie onder de helft, dan is er iets mis — meestal in transparantie of prijsniveau.
+- **Gemiddelde tijd van intake naar offerte.** Doel: binnen 24 uur. Elke dag langer kost je acceptatie.
 - **Gemiddelde offertewaarde.** Meet dit per maand; stijging betekent dat je terecht betere positionering kunt rekenen.
 
 Wie deze cijfers elke maand bewaakt, ziet vroegtijdig of er een dip aankomt. Onze managed service bouwt dit dashboard uit je kassa- en werkbonsysteem zodat de cijfers automatisch binnenkomen. Meer over [tarieven](/tarieven) voor fietsenzaken die dit willen outsourcen. Of vraag een [gratis scan](/gratis-scan) aan — we analyseren je huidige offerte-proces en benoemen de drie grootste lekken.

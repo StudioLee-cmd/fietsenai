@@ -14,7 +14,7 @@ Een klant komt binnen voor een lekke band. Terwijl je die repareert, belt iemand
 
 Fietsenmakers zijn tegelijk monteur, verkoper, klantenservicemedewerker en voorraadbeheerder. De werkplaats is waar je geld verdient, maar je staat er steeds minder omdat de balie je nodig heeft.
 
-Software als ESGarage en CycleSoftware toont dat fietsenwinkeliers tot 30 procent van hun tijd besteden aan taken die geautomatiseerd kunnen worden. Dat is anderhalf uur per dag bij een fulltime werkdag.
+Software als ESGarage en CycleSoftware laat zien hoeveel van de dag opgaat aan taken die geautomatiseerd kunnen worden. Bij een fulltime werkdag gaat het al snel om anderhalf uur per dag.
 
 ## De processen die het meest opleveren
 
@@ -60,7 +60,7 @@ Automatiseer de relatie:
 
 ## Resultaat
 
-- 30 procent minder balietijd
+- Minder balietijd
 - Nul "is mijn fiets klaar?" telefoontjes
 - Betere voorraadsynchronisatie
 - Meer herhaalopdrachten via seizoensherinneringen

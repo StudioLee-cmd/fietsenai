@@ -13,7 +13,7 @@ Fietswinkels concurreren steeds meer met webshops die fietsen direct thuisbezorg
 
 Lokale [vindbaarheid](/seo) op Google is je wapen. Wanneer iemand zoekt naar "fietswinkel in de buurt" of "e-bike kopen [stad]", moet jij verschijnen — niet de webshop.
 
-De cijfers liegen niet: 46 procent van alle Google-zoekopdrachten heeft een lokale intentie. Een klant die "fietsreparatie in de buurt" googelt, wil niet wachten op een webshoppakket — die wil vandaag nog langskomen. Als jij daar verschijnt, heb je al gewonnen van elke webshop.
+Een groot deel van alle Google-zoekopdrachten heeft een lokale intentie. Een klant die "fietsreparatie in de buurt" googelt, wil niet wachten op een webshoppakket — die wil vandaag nog langskomen. Als jij daar verschijnt, heb je al gewonnen van elke webshop.
 
 Daarnaast kiezen steeds meer Nederlanders bewust voor lokaal. Ze willen een fiets proefrijden, advies over de juiste framemaat, en weten waar ze terechtkunnen als de ketting eraf springt. Jouw fysieke aanwezigheid is een voordeel — maar alleen als ze je online kunnen vinden.
 
@@ -58,7 +58,7 @@ Je website moet dezelfde ervaring bieden als je winkel: overzichtelijk, uitnodig
 - Maak online afspraken mogelijk voor proefritten
 - Laat zien wat je onderscheidt van webshops: service, garantie, persoonlijk advies
 
-Laadsnelheid is cruciaal. Meer dan 50 procent van de bezoekers haakt af als een pagina langer dan 3 seconden laadt. Comprimeer je foto's, gebruik modern beeldformaat (WebP) en kies een snelle hosting. Test je website met Google PageSpeed Insights en los rode vlaggen op.
+Laadsnelheid is cruciaal. Een groot deel van de bezoekers haakt af als een pagina langer dan 3 seconden laadt. Comprimeer je foto's, gebruik modern beeldformaat (WebP) en kies een snelle hosting. Test je website met Google PageSpeed Insights en los rode vlaggen op.
 
 Zorg voor een klikbaar telefoonnummer bovenaan elke pagina. Veel bezoekers komen via hun smartphone — als ze met één klik kunnen bellen, verlaag je de drempel enorm. Voeg ook een WhatsApp-knop toe; steeds meer klanten vinden appen makkelijker dan bellen.
 

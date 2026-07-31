@@ -19,11 +19,11 @@ Het principe is simpel. De call wordt opgevangen door een Voice AI die naam, fie
 
 Voordat ik vertel wat de oplossing doet, eerst goed naar wat de calls zijn die nu mislopen. Een fietsenwinkel krijgt grofweg drie soorten oproepen door de dag, en niet alle drie kosten je hetzelfde.
 
-**Type 1: routine-vraag** ("Hoeveel kost een derailleur afstellen?", "Doen jullie ook reparatie aan elektrische fietsen?", "Wat zijn jullie openingstijden zaterdag?"). Dit is 40 tot 60% van het belvolume, kost je nooit een klus omdat de beller het ergens anders ook wel vindt, maar als ze JOU eerst bellen hebben ze een lichte voorkeur voor jou. Mis je deze call, gaan ze door de Google-lijst.
+**Type 1: routine-vraag** ("Hoeveel kost een derailleur afstellen?", "Doen jullie ook reparatie aan elektrische fietsen?", "Wat zijn jullie openingstijden zaterdag?"). Dit is het grootste deel van het belvolume, kost je nooit een klus omdat de beller het ergens anders ook wel vindt, maar als ze JOU eerst bellen hebben ze een lichte voorkeur voor jou. Mis je deze call, gaan ze door de Google-lijst.
 
-**Type 2: afspraak inplannen** ("Mijn band is lek, kan ik morgen langskomen?"). Dit is 30 tot 40% van het belvolume, en HIER zit je echte verlies als je niet opneemt. De beller wil deze week geholpen worden. Als je niet opneemt, belt hij de fietsenmaker drie deuren verderop, die wel opneemt, en daar gaat hij heen. Klus weg, klant weg, mogelijke vaste relatie weg.
+**Type 2: afspraak inplannen** ("Mijn band is lek, kan ik morgen langskomen?"). Dit is een substantieel deel van het belvolume, en HIER zit je echte verlies als je niet opneemt. De beller wil deze week geholpen worden. Als je niet opneemt, belt hij de fietsenmaker drie deuren verderop, die wel opneemt, en daar gaat hij heen. Klus weg, klant weg, mogelijke vaste relatie weg.
 
-**Type 3: spoed of complex** ("Ik sta op de Veluwe, mijn frame is gebroken, kun je deze week kijken?"). Dit is 5 tot 15% van het belvolume, en deze KAN bij een mens, MOET niet bij een AI. Niet omdat AI het inhoudelijk niet kan, maar omdat de toon van een gefrustreerde klant op de Veluwe een mens nodig heeft om recht aan te doen.
+**Type 3: spoed of complex** ("Ik sta op de Veluwe, mijn frame is gebroken, kun je deze week kijken?"). Dit is een kleine minderheid van het belvolume, en deze KAN bij een mens, MOET niet bij een AI. Niet omdat AI het inhoudelijk niet kan, maar omdat de toon van een gefrustreerde klant op de Veluwe een mens nodig heeft om recht aan te doen.
 
 De pijn zit dus vooral in type 2: de afspraak-aanvragen. Een fietsenmaker met een gevulde werkplaats mist 4 tot 7 van deze calls per week, dat zijn gemiddeld €280 tot €490 aan gemiste reparatie-omzet per week, structureel.
 
@@ -45,9 +45,9 @@ Een goed ingestelde [ai telefonist voor fietsenwinkels](/voice-ai) doet vier din
 
 Voor een fietsenwinkel met €180.000 omzet per jaar (een typisch 1- tot 2-mans bedrijf) is de rekensom van Voice AI helder.
 
-**Gemiste calls nu:** 5 per week (gemiddelde), 250 per jaar. Conversie naar klant zonder AI: 35% (de helft van die 250 zou bellen, de andere helft niet, en van wie wel belt boekt 70%). Dus 87 gemiste klanten per jaar. Bij een gemiddelde reparatie-orderwaarde van €68 = €5.916 gemiste omzet per jaar.
+**Gemiste calls nu:** 5 per week (gemiddelde), 250 per jaar. Conversie naar klant zonder AI: 35% (de helft van die 250 zou bellen, de andere helft niet, en reken met 70% die daarvan boekt). Dus 87 gemiste klanten per jaar. Bij een gemiddelde reparatie-orderwaarde van €68 = €5.916 gemiste omzet per jaar.
 
-**Conversie met Voice AI:** stijgt naar 65% omdat alle calls worden opgepakt en alle aanvragen door de AI worden gebookt (geen bel-onmiddellijk-terug-anders-weg-effect). 163 nieuwe klanten per jaar uit dezelfde call-stroom = €11.084 omzet uit ditzelfde belvolume.
+**Conversie met Voice AI:** in hetzelfde rekenvoorbeeld stijgt die naar 65% omdat alle calls worden opgepakt en alle aanvragen door de AI worden gebookt (geen bel-onmiddellijk-terug-anders-weg-effect). 163 nieuwe klanten per jaar uit dezelfde call-stroom = €11.084 omzet uit ditzelfde belvolume.
 
 **Tijdwinst:** als de fietsenmaker nu 3 keer per dag onderbreekt om op te nemen (à 4 minuten incl. opnieuw-focussen), bespaar je 12 minuten per dag = 1 uur per week = €52 aan opportunity-uurloon per week of €2.700 per jaar. Tijdwaarde plus omzetwinst = ruim €7.700 per jaar.
 
@@ -61,7 +61,7 @@ Hier wordt het interessant, want een blinde Voice AI-implementatie voelt voor je
 
 **Spoed-toon:** als de AI in de eerste 4 seconden hoort dat de beller in paniek is (op de Veluwe, frame gebroken, kind in tranen op de fiets), routert hij DIRECT door naar jouw mobiele telefoon zonder verdere vragen. Geen formulier, geen "we komen er zo op terug." Direct mens.
 
-**Stamklanten op naam-of-stem-herkenning:** belangrijke stamklanten die je elke maand spreekt mogen wat ons betreft direct doorverbonden worden. De AI checkt of het nummer in de "VIP-lijst" staat en stuurt door indien ja. Voor de overige 90% klanten is de AI prima.
+**Stamklanten op naam-of-stem-herkenning:** belangrijke stamklanten die je elke maand spreekt mogen wat ons betreft direct doorverbonden worden. De AI checkt of het nummer in de "VIP-lijst" staat en stuurt door indien ja. Voor alle overige klanten is de AI prima.
 
 **Klachten:** een beller die "ik wil mijn geld terug" of "ik ben niet tevreden" zegt gaat direct naar mens. Klachten via een AI behandelen is reputatie-zelfmoord.
 
@@ -69,7 +69,7 @@ Door deze drie scheidingen scherp in te stellen, voelt voor je klanten het versc
 
 ## Een week testen, voordat je een jaarcontract tekent
 
-De grootste fout die fietsenmakers maken bij Voice AI is meteen all-in gaan. Beter: de eerste week is een gewenningsweek waar de AI alleen meeluistert (de eerste 4 seconden om te zien hoe hij zou hebben gereageerd), en jij blijft opnemen. Aan het eind van de week zie je het logbestand: hoeveel calls zou de AI in hebben gehandeld, hoeveel correct gerouteerd, hoeveel mis. Tussen 70 en 90% van de calls zou de AI goed afgehandeld hebben in week 1, en dat zonder fine-tuning.
+De grootste fout die fietsenmakers maken bij Voice AI is meteen all-in gaan. Beter: de eerste week is een gewenningsweek waar de AI alleen meeluistert (de eerste 4 seconden om te zien hoe hij zou hebben gereageerd), en jij blijft opnemen. Aan het eind van de week zie je het logbestand: hoeveel calls zou de AI in hebben gehandeld, hoeveel correct gerouteerd, hoeveel mis. Het merendeel van de calls zou de AI goed afgehandeld hebben in week 1, en dat zonder fine-tuning.
 
 In week 2 ga je over naar primaire AI-opname met jou als back-line. In week 3 evalueer je of de afspraken die binnenkomen kloppen met de werkelijkheid en pas eventueel de scripts aan. Dat is geen project van drie maanden, dat is een gewone week instellen plus twee weken bijschaven.
 

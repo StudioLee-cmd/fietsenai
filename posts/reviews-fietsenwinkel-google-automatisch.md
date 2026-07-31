@@ -154,7 +154,7 @@ Een fietswinkel met 100+ reviews domineert het kaartresultaat in zijn regio. Dat
 Laten we rekenen:
 
 - Gemiddeld 50 reparaties per week
-- Review-conversie van 15 procent (realistisch met automatisering)
+- Reken met een review-conversie van 15 procent (realistisch met automatisering)
 - Dat is 7 tot 8 nieuwe reviews per week
 - Na 3 maanden: 90+ reviews
 - Na 6 maanden: 180+ reviews

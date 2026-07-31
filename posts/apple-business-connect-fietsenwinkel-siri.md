@@ -9,7 +9,7 @@ tags: ["Vindbaarheid", "Apple", "Fietsenwinkel"]
 ---
 ## Waarom Apple Business Connect wél belangrijk is voor jouw fietsenwinkel
 
-Bijna 60 procent van de Nederlandse smartphone-gebruikers heeft een iPhone. Voor jongere stedelijke doelgroepen, en juist die kopen een fiets, ligt dat nog hoger. Iemand die op zijn iPhone "fietsenwinkel in de buurt" zegt tegen Siri, zoekt in Apple Kaarten, of plant zijn route via CarPlay, ziet jouw winkel niet verschijnen als je niet bent vermeld in Apple Business Connect. Voor honderdduizenden Nederlandse iPhone-gebruikers besta je in dat moment letterlijk niet.
+Een groot deel van de Nederlandse smartphone-gebruikers heeft een iPhone. Voor jongere stedelijke doelgroepen, en juist die kopen een fiets, ligt dat nog hoger. Iemand die op zijn iPhone "fietsenwinkel in de buurt" zegt tegen Siri, zoekt in Apple Kaarten, of plant zijn route via CarPlay, ziet jouw winkel niet verschijnen als je niet bent vermeld in Apple Business Connect. Voor honderdduizenden Nederlandse iPhone-gebruikers besta je in dat moment letterlijk niet.
 
 Apple Business Connect is Apple's eigen tegenhanger van Google Bedrijfsprofiel, gelanceerd in 2024 voor de Nederlandse markt. Het is gratis, het kost je 30 tot 60 minuten om in te stellen, en het bestrijkt een complete iPhone-ecosysteem: Apple Kaarten, Siri, Spotlight, CarPlay, Apple Wallet en iMessage Tap to Pay. Voor fietsenwinkels die in stedelijke gebieden actief zijn, is dit naast Google Bedrijfsprofiel de belangrijkste single bron van organische lokale klanten.
 
@@ -78,7 +78,7 @@ Custom Action Links zijn de meest onderbenutte feature van Apple Business Connec
 - **"Offerte aanvragen"** → koppeling met een formulier op je website voor maatwerk-vragen.
 - **"E-bike testrit reserveren"** → eveneens een formulier of agenda-koppeling.
 
-Elke Custom Action Link halveert de wrijving tussen "klant ziet jouw winkel" en "klant onderneemt actie". Voor de meeste fietsenwinkels betekent dat 30 tot 50 procent meer afspraken zonder extra marketinginvestering.
+Elke Custom Action Link halveert de wrijving tussen "klant ziet jouw winkel" en "klant onderneemt actie". Voor de meeste fietsenwinkels betekent dat merkbaar meer afspraken zonder extra marketinginvestering.
 
 ## Google Bedrijfsprofiel én Apple Business Connect tegelijk beheren
 

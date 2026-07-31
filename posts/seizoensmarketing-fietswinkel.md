@@ -73,7 +73,7 @@ Twee momenten om slim te benutten:
 
 **November — Black Friday.** Fietsaccessoires, kleding, tassen, verlichting — alles wat zich leent voor een scherpe aanbieding. Promoot het online en in je winkel. Dit is het moment waarop impulskopen het hoogst zijn.
 
-**Januari — seizoensopruiming.** Vorig seizoensmodellen met 20-30% korting. Dit ruimt je voorraad op én brengt klanten naar je winkel op het rustigste moment van het jaar. Combineer het met een "reserveer je voorjaarsbeurt" actie — klant betaalt nu, jij plant het werk in het voorjaar.
+**Januari — seizoensopruiming.** Vorig seizoensmodellen in de opruiming; reken met 20-30% korting. Dit ruimt je voorraad op én brengt klanten naar je winkel op het rustigste moment van het jaar. Combineer het met een "reserveer je voorjaarsbeurt" actie — klant betaalt nu, jij plant het werk in het voorjaar.
 
 ## Een jaarkalender voor je marketing
 

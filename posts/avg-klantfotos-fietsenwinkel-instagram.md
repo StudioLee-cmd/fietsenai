@@ -68,7 +68,7 @@ Nog makkelijker wordt het als je die vraag onderdeel maakt van je vaste [content
 
 Die racer van in het begin? Post hem. Alleen de fiets in beeld, geen probleem, en anders even die ene zin vragen. De mooiste reclame voor je zaak staat nu op je telefoon te verstoffen, en dat is zonde.
 
-Wil je je fotos niet alleen op social maar ook netjes op je eigen site laten terugkomen als portfolio, dan regelen wij dat mee in een [professionele website voor fietsenmakers](/gratis-website). En omdat we in onze aanpak geloven: op ons managed pakket zit een Groei-of-Geld-Terug Garantie. Levert het je geen zichtbaarheid en klanten op, dan betaal je niet.
+Wil je je fotos niet alleen op social maar ook netjes op je eigen site laten terugkomen als portfolio, dan regelen wij dat mee in een [professionele website voor fietsenmakers](/gratis-website). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/tiktok-voor-fietsenmakers-volle-agenda">TikTok voor fietsenmakers: van video naar volle agenda</a> →</div>
 

@@ -181,4 +181,4 @@ NFC-kaarten 50-100 euro eenmalig, opvolg-berichten 0 euro (handmatig of via [gra
 
 Een goed review-systeem is een van de hoogste-impact veranderingen die een fietsenmaker kan doorvoeren. Eén dag set-up, daarna 30 seconden extra per klant, en je bouwt structureel een 5-sterren reputatie op. Wij regelen dit standaard voor onze fietsenmaker-klanten, inclusief NFC-kaarten, automatische opvolging en review-monitoring.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw klantcontact de meeste review-kansen liggen. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar in jouw klantcontact de meeste review-kansen liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

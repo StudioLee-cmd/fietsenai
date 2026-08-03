@@ -67,6 +67,6 @@ Jij repareert, wij regelen de rest. Dat is geen slogan maar letterlijk de taakve
 
 Een spoedtarief is niets om omheen te draaien. Het is een eerlijke prijs voor avondwerk, en met een vast script wordt het uitleggen ervan een automatisme in plaats van een confrontatie. Vooraf benoemen, feitelijk blijven, een keuze bieden, en het hele gesprek uit handen geven aan een telefonist die nooit moe is.
 
-Benieuwd wat dat kost tegenover wat een gemiste vrijdagavond-klus oplevert? Bekijk de [tarieven FietsenAI](/tarieven). Kies je voor de managed aanpak, dan valt die onder onze Groei-of-Geld-Terug Garantie: groeit je winkel er niet door, dan betaal je niet.
+Benieuwd wat dat kost tegenover wat een gemiste vrijdagavond-klus oplevert? Bekijk de [tarieven FietsenAI](/tarieven). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-routing-fietsenwinkel-spoed-of-standaard" class="text-dark fw-semibold">Spoed of standaard? AI-routing voor je fietsenwinkel</a> →</p></div></div></div>

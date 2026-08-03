@@ -143,4 +143,4 @@ Ja, soms zelfs beter. B2B klanten geven meer detail in de open vraag en hebben e
 
 NPS is een van de eenvoudigste, krachtigste klanttevredenheids-metingen die er bestaan. Drie vragen, 30 seconden, structurele inzichten waar je direct mee aan de slag kunt. Voor fietsenwinkels die het structureel doen, is het de basis voor doorlopende groei.
 
-Wij richten dit standaard in voor onze fietsenwinkel-klanten, inclusief koppeling met je werkbon-systeem en automatische follow-up. Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar je nu klanten kwijt raakt en hoe NPS daarbij helpt. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Wij richten dit standaard in voor onze fietsenwinkel-klanten, inclusief koppeling met je werkbon-systeem en automatische follow-up. Vraag een [gratis scan](/gratis-scan) aan en we kijken samen waar je nu klanten kwijt raakt en hoe NPS daarbij helpt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

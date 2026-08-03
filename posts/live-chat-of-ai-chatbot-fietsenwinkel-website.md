@@ -71,7 +71,7 @@ Dan geeft hij het gesprek aan jou door, met naam, vraag en telefoonnummer erbij.
 
 Heb je iemand in de winkel die tijdens openingstijden structureel achter een scherm kan zitten, dan kan live chat overdag prima werken. Voor bijna elke fietsenzaak met 1 tot 4 man geldt dat niet, en dan is een [ai-chatbot](/chatbot) de enige optie die je bereikbaarheid oplost zonder jouw werkdag te onderbreken.
 
-Twijfel je of je website die aanvragen nu goed opvangt? Kijk dan eens naar een [gratis website voor fietsenmakers](/gratis-website) van FietsenAI, met de chatbot er direct in verwerkt. En omdat we achter ons werk staan, geldt de Groei-of-Geld-Terug Garantie: groeit je zaak niet, dan betaal je niet.
+Twijfel je of je website die aanvragen nu goed opvangt? Kijk dan eens naar een [gratis website voor fietsenmakers](/gratis-website) van FietsenAI, met de chatbot er direct in verwerkt. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-flow-fietsenwinkel-aanvraag-tot-review" class="text-dark fw-semibold">WhatsApp-flow voor fietsenwinkels: aanvraag tot review</a> →</p></div></div></div>
 

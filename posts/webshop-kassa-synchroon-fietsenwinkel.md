@@ -9,7 +9,7 @@ tags: ["Automatisering", "Webshop", "Voorraad", "Fietsenwinkel"]
 cluster: "automatisering"
 ---
 
-Zaterdagmiddag verkoop je de opgeknapte tweedehands stadsfiets aan iemand die hem meteen meeneemt. Maandagochtend zie je dat diezelfde fiets zondagavond online is besteld en betaald. Nu mag jij bellen om het af te zeggen, het geld terugstorten, en hopen dat die klant geen review achterlaat over hoe dat ging.
+Zaterdagmiddag verkoop je de opgeknapte tweedehands stadsfiets aan iemand die hem meteen meeneemt. Maandagochtend zie je dat diezelfde fiets zondagavond online is besteld en betaald. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Dat is geen webshop-probleem. Dat is een koppelings-probleem, en het komt in fietsenzaken vaker voor dan in de meeste andere winkels. Bij een kledingzaak verkoop je twaalf keer dezelfde trui in maat M. Bij jou is de halve voorraad uniek: die ene ingeruilde e-bike, dat ene opgeknapte frame, die ene setje wielen dat je overhield.
 

@@ -86,6 +86,6 @@ Reageer rustig dat je de situatie niet herkent en bied aan het persoonlijk uit t
 
 Reageren op reviews hoeft geen avondklus te zijn. Met een set templates en een beetje automatisering beantwoord je een week aan reviews in een uur, en elke reactie werkt mee aan je vindbaarheid en je volgende klant. Jij repareert, wij regelen de rest.
 
-Benieuwd waar jouw Bedrijfsprofiel nu staat? Doe de [gratis AI-scan voor fietsenmakers](/gratis-scan). We laten precies zien welke reviews nog een antwoord missen en wat dat je aan zichtbaarheid kost. Werken we samen, dan geldt onze **Groei-of-Geld-Terug Garantie**: zie je geen verbetering, dan krijg je je geld terug.
+Benieuwd waar jouw Bedrijfsprofiel nu staat? Doe de [gratis AI-scan voor fietsenmakers](/gratis-scan). We laten precies zien welke reviews nog een antwoord missen en wat dat je aan zichtbaarheid kost. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div style="background-color: rgba(193, 255, 114, 0.18); border-radius: 12px; padding: 12px 20px; margin: 32px 0;"><strong>Lees ook:</strong> <a href="/blog/review-hardware-fietsenmaker-nfc-qr-sticker">Review-hardware fietsenmaker: NFC, QR of sticker?</a> →</div>

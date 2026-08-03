@@ -88,6 +88,6 @@ Reken op twee tot vier maanden voordat een nieuwe stadspagina stabiel vertoninge
 
 ## Conclusie: besta waar je klanten zoeken
 
-Je bedient al jaren meer plaatsen dan je website durft toe te geven. Elke buurgemeente zonder eigen pagina is een plek waar de zoeker je concurrent vindt en jou niet, terwijl jouw bus er gewoon rijdt. Drie goede stadspagina's veranderen dat blijvend, en de eerste kan deze maand al live. Bij FietsenAI bouwen we dit soort [vindbaarheid](/seo) dagelijks voor fietsenwinkels, met onze Groei-of-Geld-Terug Garantie eronder: levert het je aantoonbaar geen extra klanten op, dan betaal je niet. Jij repareert, wij regelen de rest.
+Je bedient al jaren meer plaatsen dan je website durft toe te geven. Elke buurgemeente zonder eigen pagina is een plek waar de zoeker je concurrent vindt en jou niet, terwijl jouw bus er gewoon rijdt. Drie goede stadspagina's veranderen dat blijvend, en de eerste kan deze maand al live. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij repareert, wij regelen de rest.
 
 Wil je weten in welke plaatsen je nu al kansen laat liggen? Vraag de [gratis seo scan voor fietsenmakers](/gratis-scan) aan. Je ziet per buurgemeente waar je nu staat, en welke stadspagina het snelst klanten oplevert.

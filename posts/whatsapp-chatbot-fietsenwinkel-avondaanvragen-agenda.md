@@ -77,7 +77,7 @@ Ja. WhatsApp Business is gratis op te zetten en vormt de basis waar de chatbot o
 
 Voor een fietsenwinkel met een volle werkbank is de conclusie simpel. Je hoeft niet 's avonds bereikbaar te blijven en je hoeft ook geen aanvragen te laten liggen. Je hebt een assistent nodig die de vraag aanneemt op het moment dat de klant hem stelt, en die de klus meteen op de goede plek zet.
 
-Benieuwd hoeveel avondaanvragen jouw winkel nu laat liggen? Vraag de [gratis ai scan voor fietsenmakers](/gratis-scan) van FietsenAI aan. Je ziet precies waar klanten nu afhaken en wat een WhatsApp chatbot daaraan verandert. En omdat we achter ons werk staan, geldt de Groei-of-Geld-Terug Garantie: groeit je winkel niet, dan betaal je niet.
+Benieuwd hoeveel avondaanvragen jouw winkel nu laat liggen? Vraag de [gratis ai scan voor fietsenmakers](/gratis-scan) van FietsenAI aan. Je ziet precies waar klanten nu afhaken en wat een WhatsApp chatbot daaraan verandert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Conclusie
 

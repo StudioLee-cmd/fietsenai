@@ -83,7 +83,7 @@ Het tweede is vindbaarheid. Je profiel is voor Google een verzameling signalen, 
 
 De vragensectie van je Google Bedrijfsprofiel is een van de weinige plekken waar tien minuten werk maandenlang blijft renderen. Je schrijft de acht vragen die je toch al beantwoordt één keer netjes uit, je zet ze op je profiel, en vanaf dat moment doet je profiel een deel van je telefoonwerk. Laat je het leeg, dan blijft het niet leeg: dan vult een vreemde het in, en die weet niet welke merken jij aanneemt.
 
-Wil je dat die bezoeker na het lezen ook ergens terechtkomt waar hij meteen een reparatie kan aanvragen? Vraag dan een [gratis website voor fietsenmakers](/gratis-website) aan. Je profiel brengt ze tot aan de deur, je site maakt het af. Bij FietsenAI doen we het met de Groei-of-Geld-Terug Garantie: levert het je aantoonbaar geen extra klanten op, dan betaal je niet. Jij repareert, wij regelen de rest.
+Wil je dat die bezoeker na het lezen ook ergens terechtkomt waar hij meteen een reparatie kan aanvragen? Vraag dan een [gratis website voor fietsenmakers](/gratis-website) aan. Je profiel brengt ze tot aan de deur, je site maakt het af. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij repareert, wij regelen de rest.
 
 ## Veelgestelde vragen
 

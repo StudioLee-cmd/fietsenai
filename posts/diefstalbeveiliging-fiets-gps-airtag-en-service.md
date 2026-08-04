@@ -109,3 +109,5 @@ Bij FietsenAI helpen we fietsenwinkels hun GPS-tracker-service professioneel opz
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/mtb-suspension-dropper-post-fietsenwinkel-specialisme" class="text-dark fw-semibold">MTB suspension en dropper-post: niche-specialisme</a> →</p></div></div></div>

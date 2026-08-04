@@ -134,3 +134,5 @@ Ja. De 6 datapunten zijn generiek toepasbaar voor elk lokaal MKB met service-com
 Een concurrentieanalyse van 30 minuten geeft je objectieve data om je tarief, je service-aanbod en je marketing op te baseren. Fietsenwinkels die deze check minstens één keer per jaar doen, prijzen zichzelf marktconform of premium en winnen significant meer reparaties dan collega's die op gevoel werken.
 
 Wil je weten hoe jouw winkel zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en aanbod. Met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/specialisatie-fietsenmaker" class="text-dark fw-semibold">Specialiseren als fietsenmaker: meer omzet</a> →</p></div></div></div>

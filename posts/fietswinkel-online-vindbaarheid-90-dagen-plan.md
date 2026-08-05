@@ -110,8 +110,8 @@ Belangrijk: deze cijfers gelden bij consistente uitvoering. Twee van de zes acti
 ## Wat het kost om dit op te zetten
 
 - **Google Bedrijfsprofiel + Google Maps:** gratis
-- **Geautomatiseerd review-systeem:** €49-99 per maand (zie [tarieven voor fietsenwinkels](https://www.fietsenai.nl/tarieven))
-- **Website-optimalisatie:** €0 (DIY) tot €1.500 eenmalig (bureau) tot €69-149 per maand (AI-platform met onderhoud inbegrepen)
+- **Geautomatiseerd review-systeem:** los verkrijgbaar vanaf enkele tientjes per maand; wat het bij ons kost staat op de [tarieven voor fietsenwinkels](https://www.fietsenai.nl/tarieven)
+- **Website-optimalisatie:** €0 als je het zelf doet, tot €1.500 eenmalig bij een bureau, of maandelijks bij een platform waar het onderhoud inbegrepen zit
 
 Reken met een gemiddelde fietsenwinkel met €450.000 omzet: 25 tot 40 procent groei in nieuwe klanten in jaar twee komt neer op €112.000 tot €180.000 extra omzet. Tegenover €1.000 tot €3.000 totale investering.
 

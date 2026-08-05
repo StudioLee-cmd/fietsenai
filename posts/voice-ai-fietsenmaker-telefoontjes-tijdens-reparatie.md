@@ -75,7 +75,7 @@ In week 2 ga je over naar primaire AI-opname met jou als back-line. In week 3 ev
 
 ## Wat StudioLee voor jou doet
 
-Voor een fietsenmaker met een gevulde werkplaats en de telefoon in z'n achterzak is dit een van de hoogst rentabele wijzigingen die je in een maand kunt doen. Een werkzame Voice AI inclusief de drie scheidingslagen hierboven (spoed-route, VIP-lijst, klacht-route) zit inbegrepen in onze Managed Basis vanaf €79 per maand. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Voor een fietsenmaker met een gevulde werkplaats en de telefoon in z'n achterzak is dit een van de hoogst rentabele wijzigingen die je in een maand kunt doen. Een werkzame Voice AI inclusief de drie scheidingslagen hierboven (spoed-route, VIP-lijst, klacht-route) zit inbegrepen in onze Managed Groei Basis vanaf €79 per maand. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: beloven dat de AI in week 1 alle calls perfect afhandelt. Wel: de gewenningsweek + bijschaaf-fase samen met je doorlopen zodat de instellingen passen bij hoe jouw klanten praten en wat jouw werkstroom is. Plan een [gratis ai scan voor fietsenwinkels](/gratis-scan) als startpunt, dan kijken we hoeveel calls per week jij nu mist en wat dat kost.
 

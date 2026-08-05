@@ -108,7 +108,7 @@ Bij drie Nederlandse fietsenmakers die we het afgelopen jaar hebben begeleid bij
 - **Nieuwe klanten via Google:** merkbaar meer (rating + aantal reviews trekken).
 - **Tijd-investering:** 30 sec extra per fiets-overdracht plus 2 min per dag voor opvolg-berichten.
 
-Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 nieuwe [Google reviews](/blog/meer-reparaties-met-ai) per maand zonder structurele tijdsinvestering.
+Voor een fietsenmaker met 60-100 onderhoud-klussen per maand betekent dit 8-12 nieuwe [Google reviews](/blog/meer-google-reviews-fietswinkel) per maand zonder structurele tijdsinvestering.
 
 ## Drie veelgemaakte fouten
 

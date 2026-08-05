@@ -25,6 +25,7 @@ const nextConfig = {
             { source: '/blog/specialisatie-fietsenmaker', destination: '/blog/specialiseren-fietswinkel', permanent: true },
             { source: '/blog/social-media-voor-fietsenmakers', destination: '/blog/social-media-fietswinkels-online', permanent: true },
             { source: '/blog/prijzen-website-fietswinkel', destination: '/blog/prijzen-communiceren-fietsenmaker', permanent: true },
+            { source: '/blog/meer-reparaties-met-ai', destination: '/blog/meer-google-reviews-fietswinkel', permanent: true },
         ];
     },
 };

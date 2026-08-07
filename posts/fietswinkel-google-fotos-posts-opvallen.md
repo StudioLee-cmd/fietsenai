@@ -48,13 +48,13 @@ Fietsenwinkels hebben een natuurlijk seizoensritme dat perfect past bij Google P
 
 Deze posts zijn relevant voor wat klanten op dat moment zoeken. Ze tonen dat je meedenkt met het seizoen en dat je winkel up-to-date is.
 
-## Q&A: beantwoord vragen op je profiel
+## Vragen: zet het antwoord waar Google het leest
 
-Je Google Bedrijfsprofiel heeft een Q&A-sectie waar klanten vragen kunnen stellen. Beantwoord elke vraag snel en volledig. Nog beter: stel zelf veelgestelde vragen en beantwoord ze.
+De vragensectie waarin klanten iets op je profiel konden vragen bestaat niet meer. Google stopte op 3 november 2025 de koppeling waarmee software vragen en antwoorden kon lezen en plaatsen, en faseerde de publieke sectie vanaf 3 december 2025 uit. De vragen stellen klanten nog steeds; Google stelt het antwoord nu alleen zelf samen, uit je profiel, je website en je reviews.
 
-"Doen jullie ook [e-bike reparaties](/blog/e-bike-reparaties-no-shows-fietsenmaker)?" Antwoord: "Ja, we repareren alle merken e-bikes. Van accuproblemen tot motorstoring. Je kunt direct een afspraak inplannen via onze website."
+"Doen jullie ook [e-bike reparaties](/blog/e-bike-reparaties-no-shows-fietsenmaker)?" hoort daarom als aparte dienst in de dienstenlijst van je profiel, met één alinea op je site erachter: "We repareren alle merken e-bikes, van accuproblemen tot motorstoring, en je plant een afspraak direct via onze website in."
 
-Deze Q&A's zijn doorzoekbaar door Google en helpen je vindbaar te worden op langere zoekopdrachten.
+Dat doet precies wat de oude sectie bedoeld was te doen. Het antwoord staat er alleen op de plek waar het thuishoort, en daar blijft het staan.
 
 ## Conclusie: 30 minuten per week voor meer klanten
 

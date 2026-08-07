@@ -30,7 +30,7 @@ Voeg regelmatig nieuwe foto's toe. Google beloont actieve profielen met een hoge
 
 Gebruik de "Updates"-functie van Google om aanbiedingen te plaatsen: voorjaarsonderhoudsbeurten, winteracties op accessoires, of een nieuw e-bike merk dat je voert. Dit houdt je profiel actueel en trekt kliks.
 
-Een vaak vergeten onderdeel: je Q&A-sectie. Beantwoord veelgestelde vragen proactief: "Repareren jullie ook e-bikes?", "Kan ik een proefrit maken?", "Doen jullie ook leasefietsen?" Dit helpt niet alleen klanten maar verbetert ook je zichtbaarheid.
+Een vaak vergeten onderdeel: de vragen die klanten stellen voordat ze langskomen. "Repareren jullie ook e-bikes?", "Kan ik een proefrit maken?", "Doen jullie ook leasefietsen?" De vragensectie waarin je die vroeger op je profiel beantwoordde is door Google vanaf 3 december 2025 uitgefaseerd, dus zet elk antwoord waar het wél gelezen wordt: als aparte dienst in je profiel en als eigen alinea op je site. Dit helpt niet alleen klanten maar verbetert ook je zichtbaarheid.
 
 ![Fietsenwerkplaats met gereedschap](/images/blog/vindbaarheid-fietswinkel-online-klanten-trekken-2.jpg)
 

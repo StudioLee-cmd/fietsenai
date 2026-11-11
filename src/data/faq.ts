@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Moneybird, e-Boekhouden, Exact en Outlook. Zo worden facturen en afspraken direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Werkplaatsafspraken komen in je agenda en je kassa blijft je kassa. CycleSoftware koppelen we via zijn API. Werk je met Wilmar, dan loopt de werkplaatsplanning via Wilmars eigen planner of je agenda, en je klantenbestand via een export die wij inladen. Je boekhouding blijft gekoppeld aan je kassasysteem.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",

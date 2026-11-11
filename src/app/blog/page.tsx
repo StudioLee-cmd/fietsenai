@@ -56,13 +56,45 @@ const BlogPage = async () => {
         }))
         .sort((a, b) => b.count - a.count);
 
+    const SITE_URL = siteDetails.siteUrl.replace(/\/$/, '');
+    const blogUrl = `${SITE_URL}/blog`;
+    const collectionSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        '@id': blogUrl,
+        url: blogUrl,
+        name: `Blog over AI voor ${siteDetails.niche.toLowerCase()}`,
+        inLanguage: 'nl',
+        isPartOf: { '@type': 'WebSite', name: siteDetails.siteName, url: `${SITE_URL}/` },
+        mainEntity: {
+            '@type': 'ItemList',
+            numberOfItems: posts.length,
+            itemListElement: posts.map((post, i) => ({
+                '@type': 'ListItem',
+                position: i + 1,
+                url: `${SITE_URL}/blog/${post.slug}`,
+                name: post.title,
+            })),
+        },
+    };
+    const breadcrumbSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+            { '@type': 'ListItem', position: 2, name: 'Blog', item: blogUrl },
+        ],
+    };
+
     return (
         <div className="py-24 bg-[var(--background)]">
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }} />
+            <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
             <Container>
                 <div className="mb-12 text-center">
-                    <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Waarom Kiezen Voor FietsenAI</h1>
+                    <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Blog: software en AI voor de fietsenmaker</h1>
                     <p className="text-xl text-[var(--foreground-accent)] max-w-2xl mx-auto">
-                        Het laatste nieuws, tips en inzichten over AI voor fietsenmakers en de fietsenbranche.
+                        Praktische artikelen voor de fietsenmaker: werkplaatssoftware kiezen, werkbon-app en kassa koppelen, minder tijd aan de telefoon en meer reviews. Plus het laatste nieuws en inzichten over AI voor fietsenmakers en de fietsenbranche.
                     </p>
                 </div>
 

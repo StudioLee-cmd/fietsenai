@@ -108,4 +108,4 @@ Bij FietsenAI helpen we fietsenwinkels hun GPS-tracker-service professioneel opz
 - Verzekerings-partner-template voor Centraal Beheer, Aon, Univé Fiets
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).

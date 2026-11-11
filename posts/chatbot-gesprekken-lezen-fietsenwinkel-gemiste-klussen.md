@@ -71,7 +71,7 @@ Na drie maanden heb je iets wat bijna geen enkele fietsenwinkel heeft: een lijst
 
 Je hoeft hier niets voor aan te schaffen. Open je chatoverzicht, scroll naar beneden, en lees de laatste twintig gesprekken door met die vier vragen erbij. Grote kans dat je binnen tien minuten een vraag ziet die je drie keer voorbij ziet komen, en dat is dan meteen je eerste aanpassing.
 
-Staat er nog helemaal geen chat op je site, dan is er ook niets terug te lezen. Dat is het echte startpunt: een [gratis website voor fietsenmakers](/gratis-website) met een chat die meedenkt, inclusief Groei-of-Geld-Terug Garantie, zodat je het risicovrij kunt proberen. Hoe je zo'n aanvraagroute verder inricht lees je in [reparatie-aanvragen via je website](/blog/fietsreparatie-aanvragen-website-leads).
+Staat er nog helemaal geen chat op je site, dan is er ook niets terug te lezen. Hoe je zo'n aanvraagroute verder inricht lees je in [reparatie-aanvragen via je website](/blog/fietsreparatie-aanvragen-website-leads).
 
 Die vraag over dat ene merk, dinsdagavond kwart over negen? Die is inmiddels waarschijnlijk vijf keer gesteld. Je hebt de antwoorden al binnen, ze zijn alleen nog nooit gelezen.
 

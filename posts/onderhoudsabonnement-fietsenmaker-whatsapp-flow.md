@@ -53,10 +53,10 @@ Maak de cirkel rond door na elke beurt automatisch een review-verzoek te sturen.
 
 Reken het eens kaal door. Stel je haalt vijftig abonnees binnen op gemiddeld 18 euro per maand. Dat is 900 euro per maand aan vaste omzet, los van alle losse reparaties en onderdelen die deze klanten alsnog afnemen als ze langskomen. Vijftig abonnees is voor een gevestigde werkplaats geen gek getal: je begint simpelweg door het abonnement aan te bieden bij elke nieuwe fiets en elke grote beurt. Het is [klantcommunicatie automatiseren als fietsenmaker](/automatisering) op zijn praktischst: een vast aanbod, een vaste flow, en een omzet die niet meer met de seizoenen op en neer dendert.
 
-## Conclusie en de Groei-of-Geld-Terug Garantie
+## Conclusie
 
 Een onderhoudsabonnement is een van de slimste manieren om van een drukke maar grillige werkplaats een stabiel bedrijf te maken. Houd de pakketten simpel, hang ze op aan de drie natuurlijke seizoensmomenten, en laat een WhatsApp-flow het terughalen voor je doen. Zo verdien je niet alleen aan de beurt zelf, maar aan een klant die jarenlang blijft terugkomen.
 
-Wil je weten hoeveel vaste omzet er in jouw klantenbestand verstopt zit? Plan een [gratis ai scan voor fietsenmakers](/gratis-scan) in, dan kijken we bij FietsenAI samen welke abonnees en welke flow voor jou het snelste rendement opleveren. Werkt het systeem na 90 dagen niet voor je? Dan krijg je via onze Groei-of-Geld-Terug Garantie je investering volledig terug. Jij repareert, wij regelen de rest.
+Wil je weten hoeveel vaste omzet er in jouw klantenbestand verstopt zit? Plan een [gratis ai scan voor fietsenmakers](/gratis-scan) in, dan kijken we bij FietsenAI samen welke abonnees en welke flow voor jou het snelste rendement opleveren. Werkt het systeem na 90 dagen niet voor je? Jij repareert, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/eenmalige-reparatie-vaste-klant-fietsenmaker" class="text-dark fw-semibold">Van eenmalige reparatie naar vaste klant: zo bouw je loyaliteit op als fietsenmaker</a> →</p></div></div></div>

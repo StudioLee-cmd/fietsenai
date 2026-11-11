@@ -121,6 +121,6 @@ Reken met een gemiddelde fietsenwinkel met €450.000 omzet: 25 tot 40 procent g
 
 Het mooie aan een 90-dagen plan: elke dag uitstel is een dag dat je concurrent juist actief is. De fietsenwinkel die deze week begint met Google Bedrijfsprofiel optimaliseren, staat over drie maanden 5-10 plekken hoger in de Maps-resultaten dan de winkel die nog twijfelt.
 
-Wil je weten hoe een [complete vindbaarheids-aanpak voor je fietsenwinkel](https://www.fietsenai.nl/seo) eruit kan zien? Of een [gratis website voor fietsenwinkels](https://www.fietsenai.nl/gratis-website) inclusief alle bovenstaande optimalisaties zonder bouwkosten? Plan een vrijblijvend gesprek of bekijk de Groei-of-Geld-Terug Garantie.
+Wil je weten hoe een [complete vindbaarheids-aanpak voor je fietsenwinkel](https://www.fietsenai.nl/seo) eruit kan zien? Of een [gratis website voor fietsenwinkels](https://www.fietsenai.nl/gratis-website) inclusief alle bovenstaande optimalisaties zonder bouwkosten?
 
 Lees ook onze [andere artikelen over groei en marketing voor fietsenwinkels](https://www.fietsenai.nl/blog).

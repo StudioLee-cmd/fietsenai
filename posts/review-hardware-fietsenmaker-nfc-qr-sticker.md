@@ -110,10 +110,10 @@ De juiste combinatie hangt af van je winkeltype en je klantflow.
 
 Verzamel je meer dan 25 reparaties per week en wil je serieus aan reviews bouwen? Vergeet niet dat elke 5-sterren-review doortikt in [lokale seo voor fietsenmakers](/seo). Google Maps weegt review-count en gemiddelde sterren als ranking-factoren. Meer sterren betekent meer zichtbaarheid in jouw stad, betekent meer eerste klanten, betekent meer reparaties.
 
-## Conclusie en de Groei-of-Geld-Terug Garantie
+## Conclusie
 
 De juiste review-hardware voor een fietsenwinkel is geen kwestie van het beste product, het is een kwestie van match met jouw klantflow. Snelle ophalers vangen via stickers op de fiets, vaste reparatieklanten via NFC-kaart op de balie, walk-in showroom-klanten via een QR-bord in de wachtruimte. Voor iedereen geldt: zonder een automatische WhatsApp-klaarmelding-met-review-vraag erna haal je nooit de 60-plus procent conversie die echt verschil maakt in je Google-ranking.
 
-Twijfel je over je huidige review-setup of weet je niet welke combinatie past bij jouw werkplaats? Plan een [gratis ai scan voor fietsenmakers](/gratis-scan) in en we kijken samen in 30 minuten welke opzet jouw flow het meest oplevert. Werkt het systeem na 90 dagen niet zoals beloofd? Dan krijg je via onze Groei-of-Geld-Terug Garantie je volledige investering terug. Jij repareert, wij regelen de rest.
+Twijfel je over je huidige review-setup of weet je niet welke combinatie past bij jouw werkplaats? Plan een [gratis ai scan voor fietsenmakers](/gratis-scan) in en we kijken samen in 30 minuten welke opzet jouw flow het meest oplevert. Werkt het systeem na 90 dagen niet zoals beloofd? Jij repareert, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-fietsenmaker-onderhoud-juiste-moment" class="text-dark fw-semibold">Reviews na fiets-onderhoud vragen: het juiste moment</a> →</p></div></div></div>

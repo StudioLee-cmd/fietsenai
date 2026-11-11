@@ -59,4 +59,4 @@ Bij duurdere reparaties (boven de 50 euro) is een aanbetaling van de helft een s
 
 Elke fiets die onnodig in je werkplaats staat neemt ruimte in die je kunt gebruiken voor reparaties die wel betalen. Vijf vergeten fietsen is een hele rij die je werkruimte verkleint.
 
-Wil je je hele werkplaatsproces stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je je hele werkplaatsproces stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan.

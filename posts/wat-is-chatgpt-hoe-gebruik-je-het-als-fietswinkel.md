@@ -76,8 +76,6 @@ Lees ook: [hoe een fietswinkel AI gebruikt voor service en marketing](/blog/hoe-
 
 Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 ## Conclusie
 
 ChatGPT is handig voor losse teksten en basisafbeeldingen. Maar een gespecialiseerd managed systeem als FietsenAI levert structureel betere output — consistent, in jouw stijl, en volledig geautomatiseerd. Je fietswinkel groeit terwijl jij focust op wat je het beste kunt: fietsen.

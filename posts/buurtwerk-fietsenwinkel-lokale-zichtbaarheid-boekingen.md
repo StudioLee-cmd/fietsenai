@@ -103,4 +103,4 @@ Niet alle vier tegelijk live. Een realistische volgorde:
 - Week 4: in twee buurt-WhatsApp-groepen actief worden en de eerste "fietstip" plaatsen.
 - Maand 2: pomp-station opzetten of uitbreiden.
 
-Wil je eerst zien welke buurt-zet bij jouw winkel het meest oplevert? Vraag een [gratis ai scan voor fietsenmakers](/gratis-scan) aan, dan brengen we je huidige lokale signalen en de gat-in-de-markt voor jouw postcode in een uur in kaart. Onze Groei-of-Geld-Terug Garantie geldt op elk traject dat hieruit komt.
+Wil je eerst zien welke buurt-zet bij jouw winkel het meest oplevert? Vraag een [gratis ai scan voor fietsenmakers](/gratis-scan) aan, dan brengen we je huidige lokale signalen en de gat-in-de-markt voor jouw postcode in een uur in kaart.

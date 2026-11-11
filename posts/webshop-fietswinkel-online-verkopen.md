@@ -109,7 +109,7 @@ Bouw een klantenbestand en stuur:
 
 Een webshop is geen bedreiging voor je fietswinkel — het is een groeikans. Begin klein met accessoires, koppel je voorraad en bied click-and-collect aan. Je combineert het beste van twee werelden: lokale service en online bereik.
 
-Met [FietsenAI](/) helpen we fietswinkels bij hun online zichtbaarheid en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [FietsenAI](/) helpen we fietswinkels bij hun online zichtbaarheid en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je online meer omzet haalt.
 

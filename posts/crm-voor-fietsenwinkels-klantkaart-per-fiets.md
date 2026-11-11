@@ -122,7 +122,6 @@ Bij FietsenAI helpen we fietsenwinkels hun CRM professioneel inrichten met klant
 - Een [chatbot voor fietsenmakers](/chatbot) gekoppeld aan de CRM voor 24/7 intake
 - Boekhouding-koppeling met Moneybird/Exact/Snelstart
 - 5-dagen setup-traject inclusief personeel-training
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

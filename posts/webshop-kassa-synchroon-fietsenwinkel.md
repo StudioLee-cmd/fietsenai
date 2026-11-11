@@ -9,7 +9,7 @@ tags: ["Automatisering", "Webshop", "Voorraad", "Fietsenwinkel"]
 cluster: "automatisering"
 ---
 
-Zaterdagmiddag verkoop je de opgeknapte tweedehands stadsfiets aan iemand die hem meteen meeneemt. Maandagochtend zie je dat diezelfde fiets zondagavond online is besteld en betaald. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Zaterdagmiddag verkoop je de opgeknapte tweedehands stadsfiets aan iemand die hem meteen meeneemt. Maandagochtend zie je dat diezelfde fiets zondagavond online is besteld en betaald.
 
 Dat is geen webshop-probleem. Dat is een koppelings-probleem, en het komt in fietsenzaken vaker voor dan in de meeste andere winkels. Bij een kledingzaak verkoop je twaalf keer dezelfde trui in maat M. Bij jou is de halve voorraad uniek: die ene ingeruilde e-bike, dat ene opgeknapte frame, die ene setje wielen dat je overhield.
 
@@ -122,7 +122,7 @@ Begin niet met de koppeling. Begin met de voorraad-situaties waar het straks op 
 
 Twijfel je of je webshop zelf wel goed staat voordat je hem koppelt? Kijk dan eerst of [online verkopen naast je fysieke winkel](/blog/webshop-fietswinkel-online-verkopen) bij jouw zaak past, en wat je er dan op zet.
 
-Wil je dat de webshop, de kassa en de klaarmeldingen als één geheel werken in plaats van als drie tools die elkaar bijhouden? Kijk dan wat er mogelijk is met een [professionele website voor fietsenmakers](/gratis-website) die op je bestaande systemen aansluit. Daar zit een Groei-of-Geld-Terug Garantie op, dus je kunt het risicovrij proberen.
+Wil je dat de webshop, de kassa en de klaarmeldingen als één geheel werken in plaats van als drie tools die elkaar bijhouden? Kijk dan wat er mogelijk is met een [professionele website voor fietsenmakers](/gratis-website) die op je bestaande systemen aansluit.
 
 <div class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/crm-meerdere-monteurs-notities-delen-fietsenwinkel">CRM met meerdere monteurs: notities delen zonder Excel</a> →</div>
 

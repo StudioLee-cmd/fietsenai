@@ -100,7 +100,7 @@ Eerlijk is eerlijk: zelfs een uur per maand komt er bij sommigen gewoon niet van
 
 Daarvoor bestaat [social media uitbesteden voor fietsenmakers](/social-media). Wij maken van jouw werkplaatsfoto's kant-en-klare posts, schrijven de teksten in jouw toon, en zetten de hele maand vooruit klaar. Jij appt af en toe een mooie before/after, wij doen de rest. Jij repareert, wij regelen de zichtbaarheid.
 
-Wil je eerst weten waar jij online staat ten opzichte van de fietsenzaak verderop? Doe de [gratis AI-scan voor fietsenmakers](/gratis-scan). Je ziet binnen een paar minuten wat er beter kan aan je vindbaarheid en je social media, zonder verplichtingen. Kies je voor onze aanpak, dan werken we met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast.
+Wil je eerst weten waar jij online staat ten opzichte van de fietsenzaak verderop? Doe de [gratis AI-scan voor fietsenmakers](/gratis-scan). Je ziet binnen een paar minuten wat er beter kan aan je vindbaarheid en je social media, zonder verplichtingen.
 
 ## Conclusie
 

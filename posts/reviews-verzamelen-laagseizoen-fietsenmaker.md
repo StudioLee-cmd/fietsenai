@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "In het voorjaar stromen de reviews binnen, in januari staat je profiel stil. Zo houd je de instroom het hele jaar op gang zonder extra werk."
 image: "/images/blog/reviews-verzamelen-laagseizoen-fietsenmaker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Google", "Automatisering", "Fietsenmaker"]
+tags: ["Reviews", "Google"]
 cluster: "reviews"
 ---
 

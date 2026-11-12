@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-werkplaats-no-shows-voorkomen.jpg"
-tags: ["Planning", "Werkplaats", "Tips"]
+tags: ["Werkplaats", "Automatisering"]
 ---
 ## Het probleem met fietsen die blijven staan
 

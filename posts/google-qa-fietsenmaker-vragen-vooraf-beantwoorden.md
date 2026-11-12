@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "De vragensectie op je Google Bedrijfsprofiel bestaat niet meer. Zo zorg je dat Google de vragen van je klanten alsnog met jouw antwoord beantwoordt."
 image: "/images/blog/google-qa-fietsenmaker-vragen-vooraf-beantwoorden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Bedrijfsprofiel", "SEO", "Fietsenmaker"]
+tags: ["Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

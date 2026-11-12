@@ -5,7 +5,7 @@ date: "2026-05-18"
 excerpt: "Je hand zit aan de ketting, je telefoon rinkelt voor de derde keer. Lees hoe een Voice AI dat opvangt zonder dat je klanten een robot horen."
 image: "/images/blog/voice-ai-fietsenmaker-telefoontjes-tijdens-reparatie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Workflow"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

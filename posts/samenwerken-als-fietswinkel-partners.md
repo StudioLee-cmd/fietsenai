@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met sportverenigingen, werkgevers en touro
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-fietswinkel-partners.png"
-tags: ["samenwerkingen", "fietswinkel", "groei"]
+tags: ["Samenwerkingen", "Groei"]
 cluster: "branding"
 ---
 

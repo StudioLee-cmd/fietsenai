@@ -5,7 +5,7 @@ date: "2026-05-17"
 excerpt: "7 concrete Instagram-content-ideeën voor fietsenmakers die werken in 2026: before-afters, Reels, klant-spotlights, seizoens-tips en een postschema."
 image: "/images/blog/instagram-fietsenmaker-7-content-ideeen-werken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social-media", "Instagram", "Content", "Fietsenmaker"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

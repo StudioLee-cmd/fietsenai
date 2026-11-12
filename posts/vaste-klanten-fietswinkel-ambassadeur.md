@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als fietswinkel eenmalige kopers omzet in vaste klanten di
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vaste-klanten-fietswinkel-ambassadeur.png"
-tags: ["Klantbehoud", "Loyaliteit", "Groei"]
+tags: ["Klantbehoud", "Groei"]
 cluster: "automatisering"
 ---
 

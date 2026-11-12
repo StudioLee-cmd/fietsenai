@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Zo zet je als fietsenmaker TikTok in voor een vollere reparatie-agenda: wat je filmt in de werkplaats, hoe kijkers boekingen worden en wat het kost."
 image: "/images/blog/tiktok-voor-fietsenmakers-volle-agenda.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "TikTok", "Marketing", "Fietsenmaker"]
+tags: ["Social Media", "Marketing"]
 cluster: "social-media"
 ---
 

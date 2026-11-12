@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/prijzen-communiceren-fietsenmaker.jpg"
-tags: ["Prijzen", "Fietsenmaker", "Website"]
+tags: ["Website"]
 ---
 ## "Wat kost een bandenwissel?"
 

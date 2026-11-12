@@ -5,7 +5,7 @@ excerpt: "Online verkopen is geen bedreiging voor je fietswinkel — het is een 
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/webshop-fietswinkel-online-verkopen.png"
-tags: ["Fietswinkel", "Webshop", "Online Verkoop"]
+tags: ["Webshop", "Website"]
 cluster: "website"
 ---
 ## Waarom een webshop voor fietswinkels logisch is

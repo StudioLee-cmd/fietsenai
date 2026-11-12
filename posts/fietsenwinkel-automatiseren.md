@@ -6,7 +6,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-automatiseren.jpg"
-tags: ["Automatisering", "Fietsenwinkel", "Werkplaats"]
+tags: ["Automatisering", "Werkplaats"]
 ---
 ## De werkplaats staat stil terwijl jij aan de balie staat
 

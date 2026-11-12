@@ -5,7 +5,7 @@ date: "2026-07-16"
 excerpt: "Welke kassa heeft je fietsenwinkel echt nodig? Pin, werkbonnen en voorraad in één systeem, ook voor een kleine zaak. Een nuchtere keuzehulp."
 image: "/images/blog/kassasysteem-fietsenwinkel-pin-werkbon-voorraad.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Kassasysteem", "Automatisering", "Werkplaats"]
+tags: ["Automatisering", "Werkplaats"]
 cluster: "automatisering"
 ---
 

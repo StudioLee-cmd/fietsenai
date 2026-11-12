@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offerte-e-bike-reparatie-transparant-prijsgevoelige-klant.jpg"
-tags: ["Fietsenzaak", "E-bike", "Offerte-proces", "Klantcommunicatie"]
+tags: ["E-bike", "Klantcommunicatie"]
 ---
 E-bike reparaties kosten geregeld tussen €150 en €1.200. Een simpele accu-vervanging is snel €600-€900, een motor-revisie €400-€800, een compleet onderhoudsbeurt op een oudere e-bike €200-€350. Voor de klant zijn dit bedragen die voelen als "auto-reparatie"-tarieven — en dat betekent dat de klant terugdeinst zodra hij bij binnenkomst niet snapt wat het gaat kosten. Fietsenzaken die deze transparantie goed regelen zien hun conversie bij e-bike reparaties verdubbelen.
 

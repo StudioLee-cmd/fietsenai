@@ -7,7 +7,7 @@ excerpt: "Er zijn tientallen fietswinkels in je regio. Personal branding maakt j
 image: "/images/blog/personal-branding-fietswinkel-regio.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["branding", "fietswinkel", "regio"]
+tags: []
 cluster: "branding"
 ---
 

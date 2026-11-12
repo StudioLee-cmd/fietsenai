@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Die mooie klus op je Instagram zetten, maar mag dat van de AVG? Zo vraag je klanten om toestemming en dit toon je beter niet op de foto."
 image: "/images/blog/avg-klantfotos-fietsenwinkel-instagram.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "AVG", "Instagram", "Privacy", "Fietsenmaker"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

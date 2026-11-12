@@ -5,7 +5,7 @@ excerpt: "Onderscheid je van de massa. Geef je zakelijke klanten (leasemaatschap
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-fietsenmaker-app.png"
-tags: ["B2B", "Klantbehoud", "Innovatie"]
+tags: ["B2B", "Klantbehoud", "Website"]
 cluster: "website"
 ---
 

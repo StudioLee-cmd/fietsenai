@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Vier concrete buurtwerk-zetten waarmee een fietsenwinkel in de eigen stad of wijk zichtbaar wordt en de reparatie-agenda van vandaag tot volgende week vult."
 image: "/images/blog/buurtwerk-fietsenwinkel-lokale-zichtbaarheid-boekingen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Buurtwerk", "Lokale vindbaarheid", "Marketing", "Fietsenwinkel"]
+tags: ["Lokale SEO", "Marketing"]
 cluster: "vindbaarheid"
 ---
 

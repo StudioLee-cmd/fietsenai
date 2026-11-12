@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Je chatbot houdt bij waar klanten afhaken, alleen leest niemand het terug. Zo haal je in een half uur de gemiste reparaties uit je gesprekken."
 image: "/images/blog/chatbot-gesprekken-lezen-fietsenwinkel-gemiste-klussen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Leads", "Klantcommunicatie", "Werkplaats", "Fietsenmaker"]
+tags: ["Chatbot", "Leads", "Werkplaats"]
 cluster: "chatbot"
 ---
 

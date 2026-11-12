@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als fietswinkel meer klanten trekt via Google, concurree
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vindbaarheid-fietswinkel-online-klanten-trekken.jpg"
-tags: ["Vindbaarheid", "SEO", "Groei"]
+tags: ["Vindbaarheid", "Groei"]
 cluster: "vindbaarheid"
 ---
 ## De strijd tegen webshops begint bij Google

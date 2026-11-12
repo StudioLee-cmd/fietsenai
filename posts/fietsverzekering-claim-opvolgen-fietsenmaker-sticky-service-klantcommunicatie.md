@@ -5,7 +5,7 @@ date: "2026-05-07"
 excerpt: "Fiets-verzekering claim opvolgen voor klanten als fietsenmaker: ENRA/Univé procedure, expertise-rapporten en de partner-route die binding en marge oplevert."
 image: "/images/blog/fietsverzekering-claim-opvolgen-fietsenmaker-sticky-service-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "Verzekering", "ENRA", "Sticky-service", "Fietsenmaker"]
+tags: ["Klantcommunicatie", "Service"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Google en voorbijgangers zijn niet genoeg. Ontdek welke leadkanalen fi
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-fietswinkel.png"
-tags: ["leadgeneratie", "fietswinkel", "klanten werven"]
+tags: ["Leads", "Automatisering"]
 cluster: "automatisering"
 ---
 

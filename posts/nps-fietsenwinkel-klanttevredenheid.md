@@ -4,7 +4,7 @@ excerpt: "Hoe meet je klanttevredenheid in een fietsenwinkel zonder lange enquê
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nps-fietsenwinkel-klanttevredenheid.jpg"
-tags: ["Klanttevredenheid", "NPS", "Fietsenwinkel"]
+tags: ["Klanttevredenheid"]
 cluster: "automatisering"
 ---
 ## In het kort

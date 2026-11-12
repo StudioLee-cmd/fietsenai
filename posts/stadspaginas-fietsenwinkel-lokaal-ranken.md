@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Wel klanten uit de buurgemeente, maar onvindbaar op fietsenmaker + stad? Zo rank je met een eigen pagina per stad, zonder duplicate content."
 image: "/images/blog/stadspaginas-fietsenwinkel-lokaal-ranken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Lokale SEO", "Stadspagina", "Website", "Fietsenwinkel"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

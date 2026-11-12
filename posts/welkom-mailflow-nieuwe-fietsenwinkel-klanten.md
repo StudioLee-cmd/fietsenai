@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Nieuwe fietsenwinkel-klant na de eerste reparatie? Met deze welkom-mailflow van 4 mails boek je de tweede afspraak en bouw je een vaste klant op."
 image: "/images/blog/welkom-mailflow-nieuwe-fietsenwinkel-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["E-mail", "Klantbehoud", "Onboarding", "Onderhoud", "Fietsenmaker"]
+tags: ["E-mail", "Klantbehoud"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-10"
 excerpt: "WhatsApp Business voor fietsenwinkels in 2026: complete opzet, status-flow voor reparaties, seizoens-broadcasts en hoe je 64% van intake via WhatsApp krijgt."
 image: "/images/blog/whatsapp-business-fietsenwinkel-opzet-status-broadcasts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "WhatsApp", "Communicatie", "Fietsenmaker", "Fietsen"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Eén WhatsApp-flow die elke reparatie-aanvraag opvangt, de klant laat weten wanneer de fiets klaar is en daarna automatisch om een review vraagt."
 image: "/images/blog/whatsapp-flow-fietsenwinkel-aanvraag-tot-review.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Automatisering", "Klantcommunicatie", "Fietsenwinkel"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-11"
 excerpt: "GPS-trackers, Apple AirTag-mounts en abonnement-monitoring als hoog-marge service voor fietsenmakers in 2026. Productkeuze, marges en sticky-service model."
 image: "/images/blog/diefstalbeveiliging-fiets-gps-airtag-en-service.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Specialisatie", "Diefstalbeveiliging", "GPS", "AirTag", "Fietsen"]
+tags: ["Specialisatie", "Service"]
 cluster: "automatisering"
 ---
 

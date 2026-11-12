@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Elke monteur die komt vragen wat hij nu moet pakken, kost jou tijd. Zo leg je de toewijzing vast in regels en beloof je een levertijd die klopt."
 image: "/images/blog/reparaties-toewijzen-juiste-monteur-fietsenmaker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Werkplaats", "Planning"]
+tags: ["Automatisering", "Werkplaats"]
 cluster: "automatisering"
 ---
 

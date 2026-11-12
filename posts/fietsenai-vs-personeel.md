@@ -5,7 +5,7 @@ excerpt: "De harde vergelijking tussen de kosten van een medewerker en de kracht
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenai-vs-personeel.png"
-tags: ["Kostenbesparing", "Management", "Groei"]
+tags: ["Groei", "Automatisering", "AI"]
 cluster: "automatisering"
 ---
 

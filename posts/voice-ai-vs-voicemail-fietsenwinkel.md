@@ -5,7 +5,7 @@ date: "2026-05-27"
 excerpt: "Vier op de vijf bellers spreekt geen voicemail in. Voor een fietsenwinkel in seizoenspiek zijn dat reparaties die wegglippen. De vergelijking en ROI-som."
 image: "/images/blog/voice-ai-vs-voicemail-fietsenwinkel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Reparaties"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Het is woensdagmiddag in maart, het echte voorjaarsweer is net begonnen, en je werkbank staat al om 09:30 vol met fietsen. Een MTB met een afgesleten cassette, twee e-bikes voor jaarbeurt, en op de standaard hangt een omafiets waarvan je de wielmaten net hebt opgemeten. Je telefoon trilt voor de zevende keer vandaag. Je handen zitten onder de kettingsmeer en je weet dat het een potentiële klant is. Je weet net zo goed dat de voicemail die straks misschien wordt ingesproken, een blip van twee seconden gaat zijn van iemand die ondertussen al een collega-zaak heeft gebeld.

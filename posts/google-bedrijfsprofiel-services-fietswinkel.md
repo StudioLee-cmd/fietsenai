@@ -5,7 +5,7 @@ date: "2026-05-28"
 excerpt: "Het services-veld van je Google Bedrijfsprofiel bepaalt voor welke reparatie- en e-bike-zoekopdrachten je opduikt. Welke diensten lijst je als fietsenwinkel?"
 image: "/images/blog/google-bedrijfsprofiel-services-fietswinkel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Fietsenwinkel"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

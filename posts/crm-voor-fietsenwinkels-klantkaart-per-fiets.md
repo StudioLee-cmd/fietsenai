@@ -5,7 +5,7 @@ date: "2026-05-12"
 excerpt: "CRM voor fietsenwinkels in 2026: klantkaart per fiets (framenummer, onderhoudshistorie, voorkeursonderdelen) zonder Excel-chaos. Tools en setup-checklist."
 image: "/images/blog/crm-voor-fietsenwinkels-klantkaart-per-fiets.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Klantbeheer", "Klantkaart", "Excel-vervangen", "Fietsen"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

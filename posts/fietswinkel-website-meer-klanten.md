@@ -7,7 +7,7 @@ excerpt: "Een fietswinkel leeft van lokale klanten, maar je website kan veel mee
 image: "/images/blog/fietswinkel-website-meer-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["website", "fietswinkel", "conversie"]
+tags: ["Website"]
 cluster: "website"
 ---
 

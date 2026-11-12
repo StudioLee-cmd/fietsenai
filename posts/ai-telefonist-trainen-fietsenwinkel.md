@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "Een AI telefonist trainen is geen programmeren maar je eigen info voeren. Zo leer je hem e-bike-termen, je prijzen en wanneer hij moet doorverbinden."
 image: "/images/blog/ai-telefonist-trainen-fietsenwinkel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "AI Telefonist", "Bereikbaarheid", "E-bike", "Fietsenmaker"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

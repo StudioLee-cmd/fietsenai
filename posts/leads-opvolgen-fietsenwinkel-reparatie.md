@@ -6,7 +6,7 @@ date: "2026-04-15"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-fietsenwinkel-reparatie.jpg"
-tags: ["Leads", "Opvolging", "Fietsenmaker"]
+tags: ["Leads", "Lead opvolging"]
 ---
 Een klant belt op donderdagmiddag: "Mijn versnelling schakelt niet meer soepel, kan ik langskomen?" Je bent bezig met een reparatie en neemt niet op. De klant laat geen voicemail achter en belt de fietsenmaker twee straten verderop.
 

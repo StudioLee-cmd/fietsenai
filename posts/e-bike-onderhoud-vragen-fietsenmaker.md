@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-onderhoud-vragen-fietsenmaker.jpg"
-tags: ["E-bike", "Onderhoud", "Fietsenmaker Tips"]
+tags: ["E-bike", "Onderhoud"]
 ---
 ## E-bikes vragen om andere kennis
 

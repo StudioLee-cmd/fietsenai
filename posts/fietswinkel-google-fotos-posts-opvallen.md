@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietswinkel-google-fotos-posts-opvallen.jpg"
-tags: ["Vindbaarheid", "Fietswinkel", "Google"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Waarom foto's en posts het verschil maken
 

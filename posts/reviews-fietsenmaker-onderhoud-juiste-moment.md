@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenmaker-onderhoud-juiste-moment.jpg"
 cluster: "reviews"
-tags: ["Reviews", "Google Reviews", "Fietsenmaker Operaties"]
+tags: ["Reviews"]
 ---
 Een klant haalt zijn fiets op na een grote onderhoudsbeurt. De ketting is gepoetst, de remmen zijn nieuw, de banden hard. Hij stapt op, voelt het verschil, en denkt: "Wat fijn." Op dat moment zou hij blind een 5-sterren review schrijven. Maar de fietsenmaker zegt niets, vraagt niets, en de klant fietst weg met een glimlach. Drie weken later belt hij terug omdat de derailleur niet schakelt zoals het moet, en is hij niet meer in de stemming voor een review. De gemiste kans is structureel: de meeste fietsenmakers vragen nooit om een review, terwijl klanten op het juiste moment maar wat graag willen geven.
 

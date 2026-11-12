@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Een opgeknapte tweedehands fiets twee keer verkocht, online en in de winkel. Zo koppel je kassa en webshop en houd je de voorraad kloppend."
 image: "/images/blog/webshop-kassa-synchroon-fietsenwinkel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Webshop", "Voorraad", "Fietsenwinkel"]
+tags: ["Automatisering", "Webshop"]
 cluster: "automatisering"
 ---
 

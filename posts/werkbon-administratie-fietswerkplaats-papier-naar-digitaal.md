@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/werkbon-administratie-fietswerkplaats-papier-naar-digitaal.jpg"
-tags: ["Fietsenwinkel", "Administratie", "Werkbon", "Digitalisering"]
+tags: ["Automatisering", "Werkplaats"]
 ---
 Het is woensdagochtend half tien in een gemiddelde Nederlandse fietswerkplaats. Twee monteurs zijn al begonnen, en aan de werkbank ligt een stapel van veertien papieren werkbonnen waar de ene helft niet weet welke klanten gaan worden gebeld als de fiets klaar is, en de andere helft niet weet welke onderdelen al van de leverancier kwamen. Een klant belt om te vragen of zijn fiets klaar is — zoekoperatie van vijf minuten door de stapel om de bon te vinden. Een tweede klant komt langs en blijkt al twee dagen geleden gebeld te zijn (gele post-it die in de prullenbak is gevallen). De fietshandelaar zelf is op dit moment druk met de zoveelste papieren-werkbon-uitprinten omdat de printer hapert.
 

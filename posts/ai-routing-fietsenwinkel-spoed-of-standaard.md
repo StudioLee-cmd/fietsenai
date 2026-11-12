@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Niet elk telefoontje is spoed, maar je hoort het pas als je opneemt. Zo leert AI-routing spoed van standaard te scheiden, zodat je alleen echt gestoord wordt."
 image: "/images/blog/ai-routing-fietsenwinkel-spoed-of-standaard.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Telefoon", "Werkplaats", "Fietsenmaker"]
+tags: ["Voice AI", "Bereikbaarheid", "AI"]
 cluster: "voice-ai"
 ---
 

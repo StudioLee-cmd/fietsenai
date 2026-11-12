@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat of AI chatbot op je fietsenwinkel-website? De keuze draait om wie antwoordt terwijl jij repareert. Nuchtere keuzehulp met vergelijking."
 image: "/images/blog/live-chat-of-ai-chatbot-fietsenwinkel-website.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Bereikbaarheid", "Reparatie-aanvragen"]
+tags: ["Chatbot", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
 

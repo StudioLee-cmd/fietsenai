@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "Een ophaalservice draait op drie momenten: de route, het klant-bericht en de betaling. Zo giet je ze in een flow zodat je niet de hele dag zit te appen."
 image: "/images/blog/fiets-ophaalservice-automatiseren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Klantcommunicatie", "Bezorgservice"]
+tags: ["Automatisering", "Service"]
 cluster: "automatisering"
 ---
 

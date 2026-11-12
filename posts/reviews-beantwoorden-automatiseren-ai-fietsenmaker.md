@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Als fietsenmaker elke Google review snel en persoonlijk beantwoorden? Met AI-templates reageer je op positieve en kritische reviews zonder avondwerk."
 image: "/images/blog/reviews-beantwoorden-automatiseren-ai-fietsenmaker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Automatisering", "AI"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

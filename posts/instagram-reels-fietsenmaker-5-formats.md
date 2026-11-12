@@ -5,7 +5,7 @@ date: "2026-07-01"
 excerpt: "Geen tijd voor social als fietsenmaker? Met deze 5 Instagram Reels formats film je in de werkplaats content die nieuwe reparatieklanten oplevert."
 image: "/images/blog/instagram-reels-fietsenmaker-5-formats.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram"]
+tags: ["Instagram", "Reels"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsreparatie-niet-opgehaald-wat-nu.jpg"
-tags: ["No-shows", "Werkplaats", "Groei"]
+tags: ["No-shows", "Werkplaats"]
 ---
 ## Het probleem van de vergeten fiets
 

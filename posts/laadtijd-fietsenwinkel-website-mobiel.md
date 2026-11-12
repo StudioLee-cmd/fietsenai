@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Je site is vol werkplaatsfoto's en daarmee zwaar. Zo meet je wat een klant op zijn telefoon echt ervaart en wat je er als eerste aan doet."
 image: "/images/blog/laadtijd-fietsenwinkel-website-mobiel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website"]
+tags: ["Website", "Snelheid", "Mobiel"]
 cluster: "website"
 ---
 

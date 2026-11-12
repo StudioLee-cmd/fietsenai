@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Welke review-hardware levert het meest op voor een fietsenwinkel: NFC-kaart op de balie, QR-bord bij de kassa of sticker op de fiets? Eerlijke vergelijking."
 image: "/images/blog/review-hardware-fietsenmaker-nfc-qr-sticker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews"]
+tags: ["Reviews", "NFC", "QR Code"]
 cluster: "reviews"
 ---
 

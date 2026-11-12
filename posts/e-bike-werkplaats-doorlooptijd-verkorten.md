@@ -5,7 +5,7 @@ excerpt: "In het hoogseizoen loopt de wachttijd voor e-bike reparaties op tot dr
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-werkplaats-doorlooptijd-verkorten.jpg"
-tags: ["Werkplaats", "E-bike"]
+tags: ["Doorlooptijd", "E-bike"]
 cluster: "automatisering"
 ---
 

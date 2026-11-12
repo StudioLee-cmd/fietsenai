@@ -5,7 +5,7 @@ date: "2026-06-03"
 excerpt: "Een onderhoudsabonnement geeft je werkplaats vaste omzet. Zo stel je de pakketten samen en haal je met een WhatsApp-flow seizoensklanten 3x per jaar terug."
 image: "/images/blog/onderhoudsabonnement-fietsenmaker-whatsapp-flow.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "WhatsApp"]
+tags: ["Klantbehoud", "WhatsApp"]
 cluster: "automatisering"
 ---
 

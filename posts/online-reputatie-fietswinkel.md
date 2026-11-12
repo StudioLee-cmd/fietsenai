@@ -5,7 +5,7 @@ excerpt: "Klanten checken je reviews voordat ze langskomen. Ontdek hoe je als fi
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-fietswinkel.png"
-tags: ["Reviews", "Groei"]
+tags: ["Reputatie", "Reviews"]
 cluster: "reviews"
 ---
 De tijd dat klanten simpelweg de dichtstbijzijnde fietswinkel binnenliepen, is voorbij. In 2026 checken consumenten eerst je Google-reviews, vergelijken ze je met concurrenten, en lezen ze ervaringen van andere klanten. Pas dán besluiten ze of ze bij jou langskomen of bij de concurrent verderop.

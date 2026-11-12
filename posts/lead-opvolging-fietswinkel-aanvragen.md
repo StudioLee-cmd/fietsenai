@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als fietswinkel meer online aanvragen omzet in verkopen 
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-fietswinkel-aanvragen.jpg"
-tags: ["Lead opvolging", "Groei"]
+tags: ["Lead opvolging", "Verkoop"]
 cluster: "automatisering"
 ---
 ## Waarom fietswinkels online aanvragen mislopen

@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/apple-business-connect-fietsenwinkel-siri.jpg"
-tags: ["Vindbaarheid"]
+tags: ["Vindbaarheid", "Apple"]
 ---
 ## Waarom Apple Business Connect wél belangrijk is voor jouw fietsenwinkel
 

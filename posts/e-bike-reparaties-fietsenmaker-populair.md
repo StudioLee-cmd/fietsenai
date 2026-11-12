@@ -6,7 +6,7 @@ date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-reparaties-fietsenmaker-populair.jpg"
-tags: ["E-bike", "Automatisering"]
+tags: ["E-bike", "Reparatie"]
 ---
 ## E-bikes zijn de norm geworden
 

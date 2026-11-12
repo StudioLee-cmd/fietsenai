@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Twee monteurs, een klant en een half verhaal. Zo leg je afspraken vast op een klantkaart die iedereen ziet, zonder gedoe met een Excel-bestand."
 image: "/images/blog/crm-meerdere-monteurs-notities-delen-fietsenwinkel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Werkplaats"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

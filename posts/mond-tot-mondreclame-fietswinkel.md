@@ -5,7 +5,7 @@ excerpt: "De krachtigste marketing voor fietswinkels is mond-tot-mond. Leer hoe 
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-fietswinkel.png"
-tags: ["Marketing"]
+tags: ["Mond-tot-mond"]
 cluster: "branding"
 ---
 

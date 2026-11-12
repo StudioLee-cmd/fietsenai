@@ -5,7 +5,7 @@ excerpt: "Mis nooit meer een reparatie-aanvraag of e-bike verkoop omdat je met j
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-fietsenmakers.png"
-tags: ["Voice AI", "Efficiëntie"]
+tags: ["Voice AI", "Klantenservice"]
 cluster: "voice-ai"
 ---
 Je kent het wel: je ben net bezig met een delicate software-update van een Bosch-systeem of je staat een wiel te rechten. Concentratie is alles. En dan... gaat de telefoon. Je voelt hem trillen, je ziet het nummer. Een klant. Misschien voor die nieuwe e-bike van €4000, misschien voor een lekke band.

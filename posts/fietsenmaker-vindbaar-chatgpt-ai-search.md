@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw fietsenwinkel genoemd door ChatGPT, Perplexity en Google
 date: "2026-04-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenmaker-vindbaar-chatgpt-ai-search.jpg"
-tags: ["Vindbaarheid", "ChatGPT", "AI"]
+tags: ["AI Search", "ChatGPT"]
 cluster: "vindbaarheid"
 ---
 

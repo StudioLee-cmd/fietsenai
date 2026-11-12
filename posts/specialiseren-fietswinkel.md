@@ -4,7 +4,7 @@ excerpt: "Niet elke fietswinkel hoeft alles te verkopen. Ontdek hoe specialisati
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-fietswinkel.png"
-tags: ["Specialisatie", "Groei"]
+tags: ["Specialisatie"]
 cluster: "branding"
 ---
 

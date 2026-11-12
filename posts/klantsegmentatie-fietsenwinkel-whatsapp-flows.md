@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Eén appje naar je hele klantenbestand werkt niet. Zo splits je je fietsenwinkel-klanten in 3 segmenten met elk een eigen WhatsApp-flow die wel raakt."
 image: "/images/blog/klantsegmentatie-fietsenwinkel-whatsapp-flows.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "WhatsApp"]
+tags: ["Klantsegmentatie", "CRM"]
 cluster: "automatisering"
 ---
 

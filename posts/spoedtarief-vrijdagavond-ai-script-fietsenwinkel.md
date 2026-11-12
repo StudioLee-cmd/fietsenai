@@ -5,7 +5,7 @@ excerpt: "Laat je AI-telefonist het spoedtarief uitleggen bij avond-aanvragen: e
 date: "2026-07-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/spoedtarief-vrijdagavond-ai-script-fietsenwinkel.jpg"
-tags: ["Voice AI", "AI"]
+tags: ["Voice AI", "Spoedaanvragen"]
 cluster: "voice-ai"
 ---
 

@@ -6,7 +6,7 @@ date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenmaker-samenwerkingen-partnerschappen-groei.jpg"
-tags: ["Samenwerkingen", "Groei"]
+tags: ["Lokaal Netwerk"]
 ---
 Een fietsenmaker met een goede straat-zichtbaarheid haalt omzet uit passanten. Een fietsenmaker met slimme lokale samenwerkingen haalt omzet uit een heel netwerk van bedrijven die jou structureel aanbevelen, elke dag opnieuw, zonder dat je reclame maakt. Het verschil tussen die twee is vaak niet vakkennis of locatie, maar bereidheid om partnerschappen op te zetten die wederzijds profijt hebben.
 

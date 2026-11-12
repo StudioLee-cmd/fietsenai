@@ -4,7 +4,7 @@ excerpt: "Welk kassasysteem past bij jouw fietswinkel? Een eerlijke vergelijking
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-kassasysteem-fietswinkels-2026.png"
-tags: ["Software", "Tools"]
+tags: ["Software", "Vergelijking"]
 cluster: "automatisering"
 ---
 

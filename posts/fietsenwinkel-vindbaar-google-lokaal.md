@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-vindbaar-google-lokaal.jpg"
-tags: ["Vindbaarheid", "Google", "Groei"]
+tags: ["Vindbaarheid", "Google"]
 ---
 ## Klanten zoeken lokaal naar een fietsenmaker
 

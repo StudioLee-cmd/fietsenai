@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "In 90 dagen meetbaar hoger in Google als fietswinkel? Concreet weekplan voor Google Maps, website, reviews en seizoensacties die echt werken."
 image: "/images/blog/fietswinkel-online-vindbaarheid-90-dagen-plan.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Google Maps"]
+tags: ["Google Maps", "Stappenplan"]
 cluster: "vindbaarheid"
 ---
 Een fietsenwinkel die niet bovenaan in Google Maps verschijnt voor "fietsenmaker bij mij in de buurt", mist een groot deel van de potentiële walk-ins. Niet omdat de winkel slecht is — vaak juist het tegendeel — maar omdat online vindbaarheid in 2026 een vak op zich is geworden waar fietsenwinkels weinig tijd voor nemen tussen reparaties en verkoop door.

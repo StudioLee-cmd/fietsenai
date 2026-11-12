@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-leads-binnenhalen.jpg"
-tags: ["Marketing", "Leads"]
+tags: ["Leads"]
 ---
 ## Niet iedereen loopt langs je etalage
 

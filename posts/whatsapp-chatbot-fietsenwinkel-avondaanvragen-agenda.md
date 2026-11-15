@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "Je werkplaats sluit om zes uur, je klanten niet. Zo zet een WhatsApp chatbot avond-reparatieaanvragen automatisch in je agenda, zonder dat jij meekijkt."
 image: "/images/blog/whatsapp-chatbot-fietsenwinkel-avondaanvragen-agenda.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "WhatsApp", "Werkplaatsplanning"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

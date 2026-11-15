@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-fietsenwinkel-google-automatisch.jpg"
-tags: ["Reviews", "Fietsenwinkel", "Google"]
+tags: ["Reviews", "Google"]
 ---
 ## Waarom reviews voor fietswinkels een gamechanger zijn
 

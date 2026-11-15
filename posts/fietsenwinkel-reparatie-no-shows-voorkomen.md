@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsenwinkel-reparatie-no-shows-voorkomen.jpg"
-tags: ["No-shows", "Fietsenwinkel", "Werkplaats"]
+tags: ["No-shows", "Werkplaats"]
 ---
 ## Wat een no-show kost in je werkplaats
 

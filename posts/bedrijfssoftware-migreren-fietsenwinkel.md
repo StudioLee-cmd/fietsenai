@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Overstappen van bedrijfssoftware als fietsenwinkel: welke drie datasets mee moeten, welke valkuilen bijna elke winkel raken en hoe je zonder chaos migreert."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bedrijfssoftware-migreren-fietsenwinkel.jpg"
-tags: ["Automatisering", "Software", "Werkplaats"]
+tags: ["Automatisering", "Software"]
 cluster: "automatisering"
 ---
 

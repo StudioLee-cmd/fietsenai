@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Nooit meer piekeren over wat je vandaag post. Een kant-en-klare contentkalender van 30 dagen, speciaal voor de drukke fietsenwinkel zonder tijd."
 image: "/images/blog/instagram-contentkalender-fietsenwinkel-30-dagen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social Media", "Instagram", "Marketing"]
+tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
 

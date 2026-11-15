@@ -7,7 +7,7 @@ excerpt: "Elke fiets heeft onderhoud nodig. Met slimme email marketing herinner 
 image: "/images/blog/email-marketing-fietswinkel-onderhoud.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "fietswinkel", "onderhoud"]
+tags: ["E-mail", "Onderhoud"]
 cluster: "automatisering"
 ---
 

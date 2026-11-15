@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/eenmalige-reparatie-vaste-klant-fietsenmaker.jpg"
-tags: ["Klantbehoud", "Leads", "Groei"]
+tags: ["Klantbehoud", "Leads"]
 ---
 ## De meeste klanten komen maar één keer
 

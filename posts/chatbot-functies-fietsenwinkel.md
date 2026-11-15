@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Chatbot functies voor je fietsenwinkel: van reparatie-intake met foto tot klaarmelding en handover naar de monteur. De 7 must-haves op een rij."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/chatbot-functies-fietsenwinkel.jpg"
-tags: ["Chatbot", "Werkplaats", "AI"]
+tags: ["Chatbot", "Werkplaats"]
 cluster: "chatbot"
 ---
 

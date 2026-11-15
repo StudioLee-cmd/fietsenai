@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Je chatbot is zo goed als de data die je hem geeft. Zo koppel je je fietsenwinkel-data: FAQ-import, framenummer-lookup, voorraad-feed en documenten."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-chatbot-trainen-fietsenwinkel-data.jpg"
-tags: ["Chatbot", "Werkplaats", "AI"]
+tags: ["Chatbot", "Werkplaats"]
 cluster: "chatbot"
 ---
 

@@ -4,7 +4,7 @@ excerpt: "ChatGPT kan fietswinkels helpen met teksten en communicatie, maar echt
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-hoe-gebruik-je-het-als-fietswinkel.png"
-tags: ["Tools", "ChatGPT", "Fietsen"]
+tags: ["Tools", "ChatGPT"]
 cluster: "automatisering"
 ---
 

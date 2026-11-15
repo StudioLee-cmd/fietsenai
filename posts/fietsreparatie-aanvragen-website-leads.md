@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fietsreparatie-aanvragen-website-leads.jpg"
-tags: ["Lead opvolging", "Fietswinkel", "Website"]
+tags: ["Lead opvolging", "Website"]
 ---
 ## Je website als intake-balie
 

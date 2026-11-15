@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/e-bike-reparaties-no-shows-fietsenmaker.jpg"
-tags: ["No-shows", "E-bikes", "Werkplaats"]
+tags: ["No-shows", "E-bike", "Werkplaats"]
 ---
 ## E-bike reparaties: hogere bedragen, hogere no-show kosten
 

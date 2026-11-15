@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als fietswinkel klanttevredenheid verhoogt en van tevred
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-fietswinkel-loyale-klanten.jpg"
-tags: ["Klanttevredenheid", "Service", "Groei"]
+tags: ["Klanttevredenheid", "Service"]
 cluster: "automatisering"
 ---
 ## Waarom klanttevredenheid cruciaal is

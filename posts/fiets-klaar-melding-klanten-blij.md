@@ -5,7 +5,7 @@ excerpt: "Klanten die bellen met 'Is mijn fiets al klaar?' kosten je uren per we
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fiets-klaar-melding-klanten-blij.png"
-tags: ["Fietswinkel", "Klantcommunicatie", "Service"]
+tags: ["Klantcommunicatie", "Service"]
 cluster: "automatisering"
 ---
 

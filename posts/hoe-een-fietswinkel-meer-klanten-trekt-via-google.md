@@ -4,7 +4,7 @@ excerpt: "Fietswinkels concurreren steeds meer met webshops en grote ketens. De 
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-fietswinkel-meer-klanten-trekt-via-google.png"
-tags: ["Vindbaarheid", "Google", "Fietswinkel", "Klanten"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 

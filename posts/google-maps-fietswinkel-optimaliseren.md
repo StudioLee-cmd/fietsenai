@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-maps-fietswinkel-optimaliseren.jpg"
-tags: ["SEO", "Google Maps", "Fietswinkel"]
+tags: ["Vindbaarheid", "Google Maps"]
 ---
 ## Waarom Google Maps onmisbaar is voor fietswinkels
 

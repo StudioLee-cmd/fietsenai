@@ -1,0 +1,386 @@
+{
+ "ai-chatbot-trainen-fietsenwinkel-data": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "b4b6d600ae1d8d2e15e91ab5421eaea61e92041e846ef015df7c61b3ee253eed"
+ },
+ "ai-routing-fietsenwinkel-spoed-of-standaard": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "9d4ffe54945690d3b46748b78e130a9a01723c069ed6a9210c0e172f743aeb36"
+ },
+ "ai-telefonist-trainen-fietsenwinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "498021314ed9e765db3d02de239efaaf90be56252ee92662575b30ba15e8ee57"
+ },
+ "ai-telefoniste-voor-fietsenmakers": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "4c997702841cc0fbb5f65fe976e569f2b95d5c0ef3e312f55a480cddacf6fc5b"
+ },
+ "apple-business-connect-fietsenwinkel-siri": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "8538c14607865c1bc9da50f870a71e4c83d26e762c436387e1a49f37d4e624ef"
+ },
+ "avg-klantfotos-fietsenwinkel-instagram": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "9503eef260fa8c1f783334cd09684e4477379acd313ced35b10b5beb8b40a270"
+ },
+ "bedrijfssoftware-migreren-fietsenwinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "3684abd16b4f205a7ce0527b92858b6e166a7192ce9ddeee0f6b33d34cbff171"
+ },
+ "beste-kassasysteem-fietswinkels-2026": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "d4397011108a888e9e717b830cc58ec0cee4b85a35b94ac970b63674fe835f4f"
+ },
+ "buurtwerk-fietsenwinkel-lokale-zichtbaarheid-boekingen": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "880c3bf0aa0372cf215271dd2168ea13ff89419042460a81a7ee6e8dcd6d45d4"
+ },
+ "chatbot-functies-fietsenwinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "387c4013c4b3773a0dec044892b308633902810316fe615fb9e4eaa3ceb0156e"
+ },
+ "chatbot-gesprekken-lezen-fietsenwinkel-gemiste-klussen": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "2c3707962d51f3506876a008bd12554749f0204a336144d968d2047a8e474b44"
+ },
+ "concurrentieanalyse-fietsenwinkels-6-datapunten": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "6f21eb91e9ab7dcae0621172a4747737e080916778ecdf0adaed140e300f4cf3"
+ },
+ "crm-meerdere-monteurs-notities-delen-fietsenwinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "4b875d8f6eb1ae578445951fa3723d6bab73def721f102dc42b38d1cdf105d6a"
+ },
+ "crm-voor-fietsenwinkels-klantkaart-per-fiets": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "98807219b01bf1542a23d65359615802015c13d1b45024998a2ab315118fc67d"
+ },
+ "diefstalbeveiliging-fiets-gps-airtag-en-service": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "698b5c94c39dd42fa76fdade951de538fa749bcd4025a580836f8a624d1faefe"
+ },
+ "digitaal-planbord-fietswerkplaats": {
+  "lastmod": "2026-11-12T17:12:23+01:00",
+  "sha256": "3da20a3b99c9348a9e2f6615b29b8561d7668138b40ac6ad34ae9c671dc334e3"
+ },
+ "e-bike-onderhoud-vragen-fietsenmaker": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "c7e39bfe3922a7a3b40282bdea1ae07139f2c05755a833aeb1da56d5438863f8"
+ },
+ "e-bike-reparaties-fietsenmaker-populair": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "62372c696f69d593063a5174f830346b806e05dc104054443739c513cc1630aa"
+ },
+ "e-bike-reparaties-no-shows-fietsenmaker": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "484a1642e593317d59dc6114b29853cc70a8cb2419d3140daebac6637ae1b10d"
+ },
+ "e-bike-werkplaats-doorlooptijd-verkorten": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "d39942b4ca9c0ea10ced235814d9064f83a905f749fb325c8ce40b34137d263f"
+ },
+ "eenmalige-reparatie-vaste-klant-fietsenmaker": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "e7be327431efd61204690862dd179bc9652e59b3268962f349d92980009389a4"
+ },
+ "elite-fietsenmaker-app": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "3484dbe3dda67ce9cf5d31902ecf6d9345627ee3c7703a3a4a084302734aa79a"
+ },
+ "email-marketing-fietswinkel-onderhoud": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "4336bf2b1c3668ec5867ac6be196f617e40ceb56c4f51c72696acf5f1fdeb411"
+ },
+ "fiets-klaar-melding-klanten-blij": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "668ea836a83afdf5397e684cf43ac0e5b4b8ff6a3c8a8e855a190cb769556e61"
+ },
+ "fiets-ophaalservice-automatiseren": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "e55c62c32875be88aef5ab238fdc8dc4bbd09b30169f252254d384b2e64dbce4"
+ },
+ "fietsenai-vs-personeel": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "8dde5d98bd57ded6337207c4b06033027a76a1dfb3564bfaf7af13e05cbd2524"
+ },
+ "fietsenmaker-samenwerkingen-partnerschappen-groei": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "227e2c337f8fe3a1a60ff3990749a5571ee3f6daae5bdaeac2647a5587893195"
+ },
+ "fietsenmaker-vindbaar-chatgpt-ai-search": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "1095c66f188d08de09c062f0169edb9e24078a9b46b7af8957d1d58a99c704e9"
+ },
+ "fietsenwinkel-automatiseren": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "1222f913eb495c80321c41b8a4b3dae405706e0113786db90894e4d2f4e38fdb"
+ },
+ "fietsenwinkel-leads-binnenhalen": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "f5f666e0eebafa378a21e8f44f870369a370dd8d03bc6bc13668e43cbdac2c8b"
+ },
+ "fietsenwinkel-reparatie-no-shows-voorkomen": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "88603cab6b36133556c1107533662c0570c5f6af7fa3fe3865e98ab0789092b8"
+ },
+ "fietsenwinkel-seizoenspiek-voorjaar-2026": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "39857ab33aac2be424cb46556c6225067317376aec7d8a91b93c69c28c917e06"
+ },
+ "fietsenwinkel-vindbaar-google-lokaal": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "e5d55bdd15170e43ae939dd0d6d24e94aa761f9d3d3c2e536c7f8555c3617ec4"
+ },
+ "fietsenwinkel-werkplaats-no-shows-voorkomen": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "c6f010287e1d93b3ecf156b2a0964fdde7c2a413fbd09c4aabf281a76cbd50e4"
+ },
+ "fietsreparatie-aanvragen-website-leads": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "a5293da5fbb3b4579d15e3231251baa3f650cc623f916610ba92e99ff489f8cb"
+ },
+ "fietsreparatie-niet-opgehaald-wat-nu": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "dab500678ad386c775754bf5cb4f4f0330643c75879fb856b8aebb7092f68091"
+ },
+ "fietsverzekering-claim-opvolgen-fietsenmaker-sticky-service-klantcommunicatie": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "66c224c9db2380280115d6839f35fb61d45562bf98b9dc06469ceaafc03ea231"
+ },
+ "fietswinkel-google-fotos-posts-opvallen": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "cf3d1c40dd21c2aad7294ffc0614a9196be0b84cdfa500c5c8bd931e801fb0dd"
+ },
+ "fietswinkel-online-vindbaarheid-90-dagen-plan": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "c6e723ee2d37386431d70beb797b338fbd6dc84f555e7457173b0c4e7966afbf"
+ },
+ "fietswinkel-website-meer-klanten": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "96c828d81040eed844f621d64874c072259677c60a24541577a721ee3b2c2863"
+ },
+ "google-bedrijfsprofiel-fietswinkel": {
+  "lastmod": "2026-07-31T22:20:40+02:00",
+  "sha256": "527224d9ba114a1372636abcfc5e3140514885ae79be00046505766acce87332"
+ },
+ "google-bedrijfsprofiel-posts-fietsenwinkel-seizoen": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "8c8108e351adaf8a153220da781e01d1e41b56e16eff47e623e728b2a75a3b41"
+ },
+ "google-bedrijfsprofiel-services-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "3126f85e150f7ecde84a4ea4bffda737e30b9039bc2cb70201f60fe060b17cc3"
+ },
+ "google-maps-fietswinkel-optimaliseren": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "adf88a6bf3b18a6707774243d6883020b5a8c5b319e71775d6b84938e9bd2efd"
+ },
+ "google-qa-fietsenmaker-vragen-vooraf-beantwoorden": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "7b363a4f79d10d84cd59a0c822beaf0a6f9f1020d05ce50008c5fceebddabd80"
+ },
+ "hoe-ai-fietsenmakers-helpt": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "898fb04dcaf384cdcef14bfcdee0eaeefa50df5e64580ca2d0abdf3d45cba726"
+ },
+ "hoe-een-fietswinkel-meer-klanten-trekt-via-google": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "7e85ae742615ddac3120408c7e782e90531a285aebaedfe5b1b27561817d5e81"
+ },
+ "hoe-fietswinkel-ai-gebruikt-service-marketing": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "0b4b911cba0feb3e187581431d09a603c9b28efee92416511061413ee22641fc"
+ },
+ "instagram-contentkalender-fietsenwinkel-30-dagen": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "a52e3c4a4e3ec3e6ee6bbb26859536a39ae64fad9413ec4f09e99c9ef23f9de5"
+ },
+ "instagram-fietsenmaker-7-content-ideeen-werken": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "26883e4a50ab8024e34367c8a90226470ce99d5876eec5efc597eee6d78e9fa8"
+ },
+ "instagram-reels-fietsenmaker-5-formats": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "d07f9b312bc48eb6dd47e33d3ec874b94858b02828bb4d33baab998c8560eedd"
+ },
+ "kassasysteem-fietsenwinkel-pin-werkbon-voorraad": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "97439577c4edc835c6aa6205c0aaddc3fd81563fd053787fce17270f6c665abf"
+ },
+ "klantsegmentatie-fietsenwinkel-whatsapp-flows": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "a212a5524bd7f20068a0eeb8bfba9ce1962ccb9e9548d3428b3731c3f977a8b2"
+ },
+ "klanttevredenheid-fietswinkel-loyale-klanten": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "9431ef7837fb86ec9f03c4dd4071f4ed64a2f6cbdde659de93546fcbf89d20c3"
+ },
+ "laadtijd-fietsenwinkel-website-mobiel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "bd0e19b93beb01f2f0bb8340617a30ba3a810bad570f1223827fa01bcab3213c"
+ },
+ "lead-opvolging-fietswinkel-aanvragen": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "72c8efa51c340a8c1dc0fa347fbddccd1ef3a73a11d67e4061e97e9600e6db44"
+ },
+ "leadgeneratie-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "e3803eda2430e6a97589d88218cf587504b098f1c9fd9df622e502e4958a7b3d"
+ },
+ "leads-opvolgen-fietsenwinkel-reparatie": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "9fbb7bfe028ca844b426a3c24ea1279ad23ce1099c4afcbc680647087cdd5655"
+ },
+ "lease-a-bike-referrer-netwerk-fietsenmaker": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "1c5e77abb3789784d5861a7aa9275a172ffd2812f44ae78e3554becac9a5f9c6"
+ },
+ "live-chat-of-ai-chatbot-fietsenwinkel-website": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "a31dde73075070433f2cbb0d67836245233336f211eee2ee4bbad9f5fe1943a4"
+ },
+ "lokale-seo-seizoen-toeristische-fietsregio": {
+  "lastmod": "2026-11-15T05:15:12+01:00",
+  "sha256": "fb4bafa71b488b197de1ebd4cc766aca8da344c167b50ad67c06ad116522b1f7"
+ },
+ "meer-google-reviews-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "73d4ab5e93bf8d03676161c517b730977f4650577e00a0329037478b49908c60"
+ },
+ "mond-tot-mondreclame-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "d9c099f1628f1b97f45cdc82fce96c5ca48e8ff0ccaa2000e80050e63767e94e"
+ },
+ "nps-fietsenwinkel-klanttevredenheid": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "d9635caa4ff9ff1200e9df1abdbdd5e4773e62cc15da00b4319d23f184e81da9"
+ },
+ "offerte-e-bike-reparatie-transparant-prijsgevoelige-klant": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "b32a502a18683d67ec62ca79ff54e2889961ac33555f96f9d8b37ab18cba3996"
+ },
+ "onderhoudsabonnement-fietsenmaker-whatsapp-flow": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "7e624ad20254ee3e2cefb77958af49dea085d4c0384fb9013ad6f1e0bc251a72"
+ },
+ "online-boeken-fietsenwinkel-software-vergelijking-website-conversie": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "dc58d4257f8677ec05214e0baa9e2903f739b3720d2e646394f4b6e2599e2264"
+ },
+ "online-reputatie-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "f9fafe861bc9ff99f9856b7f72a973fa9ead52b5acb5402026543a09af5668d0"
+ },
+ "personal-branding-fietswinkel-regio": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "8949e3a7c38dbbc3200772842f0a19343d5649f5b8a87ab3e4fcc1bfd542035e"
+ },
+ "prijzen-communiceren-fietsenmaker": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "d3807c8949680f9ab8eef6fd3b1f3bb26427a1dfdc6449ac2bcae9ebfbaa58d9"
+ },
+ "reparaties-toewijzen-juiste-monteur-fietsenmaker": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "a25f9f730fbadf39086797e4d713f02c5015b64da18df66699d38180a77931ca"
+ },
+ "review-hardware-fietsenmaker-nfc-qr-sticker": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "a352dc6c31ea283e3259e20b9b83f15a1838bf7248e0f68edb20c911e98ff0b5"
+ },
+ "review-strategie-fietswinkel": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "26584e66c880fd3bfb13d4c5f85d01a6a705a4f5a8b64a96239c65e03ad782c7"
+ },
+ "reviews-beantwoorden-automatiseren-ai-fietsenmaker": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "c0a4e0981621ab1af3ac9b233fdfe76911d1f158c01614d61eb6708b518c004b"
+ },
+ "reviews-fietsenmaker-onderhoud-juiste-moment": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "d635aba99e615a5f0e7cc47463275fc6cf9ee88d3112cf20ac8df43c47e0fc10"
+ },
+ "reviews-fietsenwinkel-google-automatisch": {
+  "lastmod": "2026-11-12T19:01:56+01:00",
+  "sha256": "c47cef1b36ef1e11d4c123065acba2f563320eae466d8d36dd1a380f7db3c8a1"
+ },
+ "reviews-verzamelen-laagseizoen-fietsenmaker": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "0d63e87170170a2722f4723fcd487adcc63fbe6ce99263d768a77b7dca859e17"
+ },
+ "samenwerken-als-fietswinkel-partners": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "736bc764fe8ef82cf27554cd92ff5ea089a7459518f84d5c35428e2a20b65e07"
+ },
+ "seizoensmarketing-fietswinkel": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "d16aa5536e0fc6432e6c0b34be64fcc0cf381474c16c12b3a7918e6187dd6312"
+ },
+ "social-media-fietswinkels-online": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "787dcf428f345d1b027b3f65b6098f6459c0f67182a507df411c328b88452e36"
+ },
+ "specialiseren-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "2ea2e319d6715f00ffc55e8088c07328da294f4212e7657e3567ce7c5ffe8d1e"
+ },
+ "spoedtarief-vrijdagavond-ai-script-fietsenwinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "0b43cf6b17e44aeebac86df2dd14bdf003d57a68d197e277060586c99c1af48e"
+ },
+ "stadspaginas-fietsenwinkel-lokaal-ranken": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "fc23a405c8e732c3eadfa13cfe9fed62fdc748a3462da5a3305d0d9c39a3d118"
+ },
+ "tiktok-voor-fietsenmakers-volle-agenda": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "1da7a317c2ca9fecdc263714ae324457beb548e8fac09e7260f6b7e497a9726f"
+ },
+ "vaste-klanten-fietswinkel-ambassadeur": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "e8bdc06877737d812508bd3300dd1334370b482edcfaac80d3495b53728f3210"
+ },
+ "vindbaarheid-fietswinkel-online-klanten-trekken": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "eabd6eeeb45faff76cbc16d833d4d28e726a301801c339fe327e86eb89599050"
+ },
+ "voice-ai-fietsenmaker-telefoontjes-tijdens-reparatie": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "97ba629499201db70afe8cb6dd21b44db618ec4596d688e3a598e7b99cc7c473"
+ },
+ "voice-ai-vs-voicemail-fietsenwinkel": {
+  "lastmod": "2026-11-12T19:30:23+01:00",
+  "sha256": "b3693c8a50eb25012404aa55ad4d900861bc2e03f149a3726908f52f2817ba50"
+ },
+ "wat-is-chatgpt-hoe-gebruik-je-het-als-fietswinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "0a825399492e03723c6781051e35889758f77101f4adf0fbddd3086360eb7540"
+ },
+ "webshop-fietswinkel-online-verkopen": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "7b6d3385ff502cb1f273f4d20a879ebefbec35386cb0ab62c5c16b024237b8d9"
+ },
+ "webshop-kassa-synchroon-fietsenwinkel": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "51796986cc3c00d2d066b129125841a86d3bd034c9f892b67e42e3f8a8e6dbf5"
+ },
+ "welkom-mailflow-nieuwe-fietsenwinkel-klanten": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "e801330f51dc26f7b1dc93c807416581d53de48f81fe067a9e7c2a00ba2785ab"
+ },
+ "werkbon-administratie-fietswerkplaats-papier-naar-digitaal": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "9ad93aa551a36e26c1380130c4c551310e3cf92c865c3624d4ab51c5381e4830"
+ },
+ "whatsapp-business-fietsenwinkel-opzet-status-broadcasts": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "346611c2c1fb8de2902863b163dd1b2b35af34c2c4d1cd0e67b7ecbab0f4d3ca"
+ },
+ "whatsapp-chatbot-fietsenwinkel-avondaanvragen-agenda": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "bb818bbaafe0764d60b8869ae94bbee2fc11f4f1e6b174c6ae039713d958acb7"
+ },
+ "whatsapp-flow-fietsenwinkel-aanvraag-tot-review": {
+  "lastmod": "2026-11-15T15:58:13+01:00",
+  "sha256": "7622ba76498b59f6d6bc6d790815bd7a3858f592ae6cc11c559f084d4f1f57d9"
+ }
+}

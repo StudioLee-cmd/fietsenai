@@ -94,7 +94,7 @@ const BlogPage = async () => {
                 <div className="mb-12 text-center">
                     <h1 className="text-4xl md:text-5xl font-bold mb-4 text-[var(--foreground)]">Blog: software en AI voor de fietsenmaker</h1>
                     <p className="text-xl text-[var(--foreground-accent)] max-w-2xl mx-auto">
-                        Praktische artikelen voor de fietsenmaker: werkplaatssoftware kiezen, werkbon-app en kassa koppelen, minder tijd aan de telefoon en meer reviews. Plus het laatste nieuws en inzichten over AI voor fietsenmakers en de fietsenbranche.
+                        Praktische uitleg over werkplaatssoftware, de werkbon-app, de kassakoppeling en AI voor de fietsenwerkplaats. Geschreven voor fietsenmakers en fietsenwinkels die minder tijd aan de telefoon en de administratie willen kwijt zijn. Alle artikelen zijn gratis te lezen, zonder account.
                     </p>
                 </div>
 

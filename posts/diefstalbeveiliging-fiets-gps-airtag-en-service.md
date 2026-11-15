@@ -107,4 +107,4 @@ Bij FietsenAI helpen we fietsenwinkels hun GPS-tracker-service professioneel opz
 - Installatie-flow-template (welke 15-20 minuten werk per product)
 - Verzekerings-partner-template voor Centraal Beheer, Aon, Univé Fiets
 
-[Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).

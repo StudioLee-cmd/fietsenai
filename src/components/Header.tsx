@@ -92,6 +92,12 @@ const Header: React.FC = () => {
 
                     {/* Mobile Menu Button */}
                     <div className="md:hidden flex items-center gap-2 pointer-events-auto">
+                        <Link
+                            href="/gratis-scan"
+                            className="text-black bg-primary hover:bg-primary-accent px-4 h-10 rounded-full flex items-center justify-center whitespace-nowrap text-sm font-semibold"
+                        >
+                            Gratis scan
+                        </Link>
                         <AnimatedThemeToggler className="w-9 h-9" />
                         <button
                             onClick={toggleMenu}

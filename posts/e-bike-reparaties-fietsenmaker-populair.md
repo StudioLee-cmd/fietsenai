@@ -54,4 +54,4 @@ Klanten die merken dat hun fiets na een update beter presteert, worden loyale kl
 
 De markt verschuift. Over vijf jaar is de gewone trapfiets de uitzondering, niet de norm. Fietsenmakers die nu investeren in e-bike kennis, gereedschap en certificeringen, zijn de winnaars van morgen.
 
-Wil je weten hoe jouw fietsenwinkel online sterker kan staan? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw fietsenwinkel online sterker kan staan? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

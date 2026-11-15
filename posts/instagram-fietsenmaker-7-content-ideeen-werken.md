@@ -127,7 +127,6 @@ Bij FietsenAI helpen we fietsenmakers hun Instagram professioneel inrichten met 
 - Een [chatbot voor fietsenmakers](/chatbot) gekoppeld aan Instagram DM voor 24/7 lead-opvang
 - Een [crm voor fietsenmakers](/crm) met klantkaart per fiets voor het tracken van Insta-leads naar offerte
 - Een [reviews-flow voor fietsenmakers](/reviews) die klant-quotes oplevert voor hergebruik in Stories
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

@@ -63,4 +63,4 @@ De fietsenmaker die alleen banden plakt en kettingen vervangt, mist de groeimark
 
 Investeer in e-bike kennis, communiceer het actief en bouw een terugkerende klantenstroom op. De fietsenmakers die dat nu doen, staan over twee jaar mijlenver voor op de rest. Tevreden e-bike klanten laten bovendien uitgebreidere [reviews](/reviews) achter dan gemiddeld.
 
-Wil je weten hoe jouw fietsenwinkel online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw fietsenwinkel online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

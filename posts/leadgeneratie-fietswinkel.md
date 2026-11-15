@@ -88,8 +88,6 @@ De wintermaanden zijn traditioneel rustiger, maar dat hoeft niet:
 
 Bij StudioLee bouwen we je online aanwezigheid uit zodat klanten je vinden. Van [reputatiemanagement](/blog/online-reputatie-fietswinkel) tot content marketing. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek welke kanalen voor jouw fietswinkel het best werken.
 
 ## Conclusie

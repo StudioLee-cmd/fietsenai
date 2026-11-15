@@ -91,8 +91,6 @@ Naast reviews kun je je reputatie op andere manieren versterken:
 
 Geen tijd om reviews te monitoren en te reageren? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Reviewmanagement, online zichtbaarheid, social media — het wordt volledig voor je opgepakt.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je je online reputatie kunt versterken.
 
 ## Conclusie

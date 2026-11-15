@@ -94,6 +94,6 @@ Dat hangt af van wat je koppelt: alleen chat, of ook agenda, klaarmeldingen en r
 
 Terug naar die ketting van het begin. Een chatbot zonder deze functies is trappen zonder ketting op het blad: het beweegt, maar je komt nergens. Met de juiste zeven functies wordt de chat je digitale baliemedewerker: intake met foto, status-antwoorden, eerlijke e-bike-info, een nette handover, afspraken die zichzelf inplannen, eerlijke verwachtingen in het hoogseizoen en opvolging die vanzelf loopt. Zo blijft jouw [ai-chatbot](/chatbot) niet bij een speeltje, en blijft de werkplaats stil terwijl de aanvragen binnenlopen.
 
-Wil je weten hoeveel aanvragen er nu 's avonds langs je site fietsen? Vraag de [gratis ai scan voor fietsenmakers](/gratis-scan) aan, dan kijken we mee waar de klanten weglekken. Jij repareert, wij regelen de rest, met Groei-of-Geld-Terug Garantie.
+Wil je weten hoeveel aanvragen er nu 's avonds langs je site fietsen? Vraag de [gratis ai scan voor fietsenmakers](/gratis-scan) aan, dan kijken we mee waar de klanten weglekken.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-chatbot-fietsenwinkel-avondaanvragen-agenda" class="text-dark fw-semibold">WhatsApp chatbot fietsenwinkel: avondaanvragen in agenda</a> →</p></div></div></div>

@@ -91,7 +91,7 @@ Het tweede is vindbaarheid. Je profiel en je site zijn voor Google een verzameli
 
 Het vakje is weg, de vragen niet. Je schrijft de acht vragen die je toch al beantwoordt één keer netjes uit, je zet ze op de plek waar Google ze kan lezen, en vanaf dat moment doet je online aanwezigheid een deel van je telefoonwerk. Laat je het leeg, dan valt je zaak uit het antwoord dat je volgende klant krijgt, ook als je precies levert wat ze zoekt.
 
-Wil je dat die bezoeker na het lezen ook ergens terechtkomt waar hij meteen een reparatie kan aanvragen? Vraag dan een [gratis website voor fietsenmakers](/gratis-website) aan. Je profiel brengt ze tot aan de deur, je site maakt het af. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij repareert, wij regelen de rest.
+Wil je dat die bezoeker na het lezen ook ergens terechtkomt waar hij meteen een reparatie kan aanvragen? Vraag dan een [gratis website voor fietsenmakers](/gratis-website) aan. Je profiel brengt ze tot aan de deur, je site maakt het af. Jij repareert, wij regelen de rest.
 
 ## Veelgestelde vragen
 

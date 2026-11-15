@@ -45,4 +45,4 @@ Zorg dat je naam, adres en telefoonnummer overal hetzelfde zijn: Google, je webs
 
 Open je Google Bedrijfsprofiel, vul alles in en upload foto's. Vijftien minuten werk met direct effect.
 
-Wil je een compleet beeld? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je een compleet beeld? Vraag een [gratis scan](/gratis-scan) aan.

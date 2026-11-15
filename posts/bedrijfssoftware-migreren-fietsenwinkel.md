@@ -76,6 +76,6 @@ Nee, Google reviews staan aan je Google Bedrijfsprofiel en hebben niets met je b
 
 Bedrijfssoftware migreren als fietsenwinkel is geen software-project maar een data-project. Wie de drie datasets kent, de overstap buiten het seizoen plant en zijn artikelbestand opschoont voor de import, is in zes weken over en heeft er daarna nooit meer omkijken naar.
 
-Bij FietsenAI doen we die migratie met je mee: klanten, fietshistorie en werkplanning in één systeem, klaarmeldingen en review-verzoeken automatisch, met onze Groei-of-Geld-Terug Garantie. Jij repareert, wij regelen de rest. Benieuwd wat dat kost voor jouw winkel? Bekijk de [tarieven van FietsenAI](/tarieven) en reken het zelf uit.
+Jij repareert, wij regelen de rest. Benieuwd wat dat kost voor jouw winkel? Bekijk de [tarieven van FietsenAI](/tarieven) en reken het zelf uit.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/welkom-mailflow-nieuwe-fietsenwinkel-klanten" class="text-dark fw-semibold">Welkom-mailflow voor nieuwe fietsenwinkel-klanten</a> →</p></div></div></div>

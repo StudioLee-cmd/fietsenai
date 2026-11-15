@@ -61,4 +61,4 @@ Bereik is leuk, maar je wilt reparaties. Zorg daarom dat elke Reel een duidelijk
 
 Je hebt geen contentbureau nodig en geen dure apparatuur. Je hebt een telefoon, een statiefje en vijf vaste formats die je invult met het werk dat toch al gebeurt. Begin deze week met de montage-timelapse, want die is het simpelst, en bouw de rest er langzaam bij. Jij repareert, wij regelen de rest.
 
-Wil je weten hoe je Instagram, je website en je reviews als één geheel laat samenwerken? Doe de [gratis AI-scan voor fietsenmakers](/gratis-scan). We werken met een Groei-of-Geld-Terug Garantie, dus je weet vooraf waar je aan toe bent.
+Wil je weten hoe je Instagram, je website en je reviews als één geheel laat samenwerken? Doe de [gratis AI-scan voor fietsenmakers](/gratis-scan).

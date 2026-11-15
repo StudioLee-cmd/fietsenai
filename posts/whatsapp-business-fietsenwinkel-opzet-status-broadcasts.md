@@ -107,7 +107,6 @@ Bij FietsenAI helpen we fietsenwinkels hun WhatsApp Business professioneel inric
 - Seizoens-broadcast-template (6 momenten per jaar, vooraf-gepland)
 - AVG-melding-template + privacy-verklaring update voor je website
 - [Voice ai voor fietsenmakers](/voice-ai) voor buiten openingstijden + doorverwijzing naar WhatsApp
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor fietsenmakers](/gratis-scan) of bekijk onze [tarieven FietsenAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

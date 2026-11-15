@@ -61,7 +61,7 @@ Naast reparatie-meldingen kun je automatiseren:
 
 Automatische klaar-meldingen zijn de eenvoudigste verbetering die je in je fietswinkel kunt doorvoeren. Minder telefoon, meer reparatietijd, en klanten die bij je terugkomen.
 
-Met [FietsenAI](/) automatiseer je alle klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [FietsenAI](/) automatiseer je alle klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel tijd je bespaart.
 

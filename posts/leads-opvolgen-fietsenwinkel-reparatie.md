@@ -48,4 +48,4 @@ Automatische opvolging vangt het merendeel van die gemiste leads op. De kosten: 
 
 ## Direct starten
 
-Elke gemiste oproep is een klant die naar de concurrent fietst. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel leads je kunt opvangen. Groei-of-Geld-Terug Garantie.
+Elke gemiste oproep is een klant die naar de concurrent fietst. [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel leads je kunt opvangen.

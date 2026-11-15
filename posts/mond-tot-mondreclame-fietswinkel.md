@@ -67,6 +67,4 @@ Vraag bij elke nieuwe klant: "Hoe heeft u ons gevonden?" Registreer doorverwijzi
 
 Bij FietsenAI helpen we fietswinkels met het versterken van hun mond-tot-mondreclame. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 Vraag een [gratis AI-scan](/gratis-scan) aan.

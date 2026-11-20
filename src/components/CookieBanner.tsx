@@ -33,15 +33,18 @@ export default function CookieBanner({ widgetId }: { widgetId: string }) {
       <style>{`
         @keyframes ckspin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
         @media(max-width:600px){
-          .ck-banner-inner{flex-wrap:wrap!important}
-          .ck-banner-buttons{width:100%!important;display:flex!important}
-          .ck-banner-buttons button{flex:1!important}
+          .ck-banner-outer{padding:8px!important}
+          .ck-banner-inner{padding:10px 12px!important;gap:10px!important;border-radius:16px!important}
+          .ck-banner-inner img{display:none!important}
+          .ck-banner-inner p{font-size:12.5px!important;line-height:1.35!important}
+          .ck-banner-buttons{gap:6px!important}
+          .ck-banner-buttons button{padding:0 12px!important;min-height:40px!important}
         }
         @media(prefers-reduced-motion:reduce){.ck-banner-inner img{animation:none!important}}
       `}</style>
-      <div style={{position:"fixed",bottom:0,left:0,right:0,zIndex:99999,padding:"12px",display:"flex",justifyContent:"center"}}>
-        <div className="ck-banner-inner" style={{maxWidth:"560px",width:"100%",background:"#141419",border:"1px solid rgba(255,255,255,0.08)",borderRadius:"20px",padding:"16px 20px",display:"flex",alignItems:"center",gap:"12px",boxShadow:"0 -8px 40px rgba(0,0,0,0.4)"}}>
-          <img src="/images/cookie.png" alt="Cookie" style={{width:"48px",height:"48px",animation:"ckspin 3s linear infinite",flexShrink:0}} />
+      <div className="ck-banner-outer" role="region" aria-label="Cookiemelding" style={{position:"fixed",bottom:0,left:0,right:0,zIndex:99999,padding:"12px",display:"flex",justifyContent:"center"}}>
+        <div className="ck-banner-inner" style={{maxWidth:"560px",width:"100%",background:"#141419",border:"1px solid rgba(255,255,255,0.08)",borderRadius:"20px",padding:"10px 16px",display:"flex",alignItems:"center",gap:"12px",boxShadow:"0 -8px 40px rgba(0,0,0,0.4)"}}>
+          <img src="/images/cookie.png" alt="Cookie" style={{width:"36px",height:"36px",animation:"ckspin 3s linear infinite",flexShrink:0}} />
           <p style={{flex:1,color:"rgba(255,255,255,0.8)",fontSize:"14px",lineHeight:1.5,margin:0}}>
             We gebruiken cookies voor onze chatfunctie. Lees ons{" "}
             <a href="/privacy" style={{color:"#C1FF72",textDecoration:"underline"}}>privacybeleid</a>.

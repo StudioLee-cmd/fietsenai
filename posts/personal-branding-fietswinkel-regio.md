@@ -15,7 +15,7 @@ cluster: "branding"
 
 De gemiddelde Nederlander heeft meerdere fietswinkels binnen fietsafstand. De meeste verkopen vergelijkbare merken, voor vergelijkbare prijzen, met vergelijkbare service. Waarom zou een klant jouw winkel kiezen?
 
-Branding geeft het antwoord. Het maakt jouw winkel herkenbaar en geeft klanten een reden om specifiek naar jou te komen — niet naar de concurrent verderop.
+Branding geeft het antwoord. Het maakt jouw winkel herkenbaar en geeft klanten een reden om specifiek naar jou te komen, niet naar de concurrent verderop.
 
 ## Je unieke positie bepalen
 
@@ -31,9 +31,9 @@ Kies een positie die past bij je sterkte en die je onderscheidt. Niet alles voor
 
 **Je [website](/blog/fietswinkel-website-meer-klanten) als digitale etalage**. Laat je persoonlijkheid zien. Echte foto's, je verhaal, je team. Geen stockfoto's maar foto's van jouw winkel, jouw fietsen, jouw werkplaats.
 
-**[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel)**. Houd het actueel met foto's, openingstijden en wekelijkse updates. "Nieuwe Gazelle collectie binnen!" of "Werkplaats vandaag vrij — breng je fiets langs."
+**[Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel)**. Houd het actueel met foto's, openingstijden en wekelijkse updates. "Nieuwe Gazelle collectie binnen!" of "Werkplaats vandaag vrij, breng je fiets langs."
 
-**Social media**. Deel reparatie-tips, nieuwe fietsen, klantenverhalen en [seizoenstips](/blog/seizoensmarketing-fietswinkel). Wees consistent — minstens twee posts per week.
+**Social media**. Deel reparatie-tips, nieuwe fietsen, klantenverhalen en [seizoenstips](/blog/seizoensmarketing-fietswinkel). Wees consistent: minstens twee posts per week.
 
 ## Lokaal herkenbaar worden
 
@@ -51,6 +51,6 @@ Kies een positie die past bij je sterkte en die je onderscheidt. Niet alles voor
 
 ## Aan de slag
 
-Personal branding als fietswinkel kost geen groot budget. Begin met je verhaal: wat maakt jouw winkel bijzonder? Vertaal dat naar alles wat je doet — online en offline. Consistentie wint.
+Personal branding als fietswinkel kost geen groot budget. Begin met je verhaal: wat maakt jouw winkel bijzonder? Vertaal dat naar alles wat je doet, online en offline. Consistentie wint.
 
 Wil je als fietswinkel online beter gevonden worden? [Vraag een gratis scan aan](/gratis-scan) en ontdek wat er beter kan.

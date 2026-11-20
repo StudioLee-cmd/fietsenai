@@ -9,7 +9,7 @@ cluster: "automatisering"
 ---
 ## Waarom fietswinkels online aanvragen mislopen
 
-De fietsmarkt verandert. Klanten oriënteren zich online — ze vergelijken modellen, lezen reviews en sturen aanvragen naar meerdere winkels tegelijk. De winkel die het snelst reageert, krijgt de verkoop.
+De fietsmarkt verandert. Klanten oriënteren zich online: ze vergelijken modellen, lezen reviews en sturen aanvragen naar meerdere winkels tegelijk. De winkel die het snelst reageert, krijgt de verkoop.
 
 Maar veel fietswinkels zijn overdag bezig met reparaties, proefritten en klanten in de winkel. Online aanvragen via het contactformulier of e-mail liggen uren of zelfs dagen onbeantwoord. In die tijd heeft de klant al bij de concurrent gekocht.
 
@@ -27,7 +27,7 @@ Een directe automatische bevestiging ("Bedankt voor je interesse! We nemen binne
 
 ## Automatisch reageren buiten openingstijden
 
-Veel online aanvragen komen 's avonds en in het weekend binnen — precies wanneer je winkel dicht is. Zonder automatisering liggen deze leads tot maandagochtend te wachten.
+Veel online aanvragen komen 's avonds en in het weekend binnen, precies wanneer je winkel dicht is. Zonder automatisering liggen deze leads tot maandagochtend te wachten.
 
 Stel automatische reacties in:
 
@@ -35,7 +35,7 @@ Stel automatische reacties in:
 - **Weekendaanvragen**: SMS met "We hebben je bericht ontvangen. Maandag nemen we contact op. Alvast de specificaties: [link naar product]."
 - **Spoedvragen over reparaties**: directe doorschakeling naar een mobiel nummer
 
-Elke aanvraag verdient binnen 15 minuten een eerste reactie — al is het geautomatiseerd. Dat weerhoudt de klant ervan om verder te zoeken.
+Elke aanvraag verdient binnen 15 minuten een eerste reactie, al is het geautomatiseerd. Dat weerhoudt de klant ervan om verder te zoeken.
 
 ## WhatsApp als verkoopkanaal voor fietsen
 
@@ -52,7 +52,7 @@ Klanten voelen zich persoonlijk geholpen via WhatsApp. De drempel om te kopen da
 
 ## Van websitebezoeker naar winkelbezoeker
 
-Het doel van online [lead opvolging](/blog/fietsreparatie-aanvragen-website-leads) is niet per se online verkopen — het is de klant naar je winkel krijgen. De meeste fietsen worden nog steeds in de winkel verkocht na een proefrit.
+Het doel van online [lead opvolging](/blog/fietsreparatie-aanvragen-website-leads) is niet per se online verkopen. Het is de klant naar je winkel krijgen. De meeste fietsen worden nog steeds in de winkel verkocht na een proefrit.
 
 De funnel:
 
@@ -69,8 +69,8 @@ Elke stap moet frictieloos zijn. Hoe makkelijker je het maakt, hoe meer websiteb
 
 ## Meer omzet zonder extra marketing
 
-Snellere lead opvolging is de goedkoopste manier om je omzet te verhogen. Je hebt de leads al — je zet ze alleen niet om. Door structureel meer aanvragen succesvol op te volgen, groeit je omzet met duizenden euro's per maand.
+Snellere lead opvolging is de goedkoopste manier om je omzet te verhogen. Je hebt de leads al. Je zet ze alleen niet om. Door structureel meer aanvragen succesvol op te volgen, groeit je omzet met duizenden euro's per maand.
 
-De investering is minimaal: een automatisch bevestigingsbericht, een WhatsApp-business account en de discipline om binnen het uur persoonlijk op te volgen. Geen advertenties, geen extra marketing — gewoon beter gebruik maken van de klanten die al bij je aankloppen.
+De investering is minimaal: een automatisch bevestigingsbericht, een WhatsApp-business account en de discipline om binnen het uur persoonlijk op te volgen. Geen advertenties, geen extra marketing: gewoon beter gebruik maken van de klanten die al bij je aankloppen.
 
 Wil je weten hoe je meer online aanvragen kunt omzetten in verkopen? Vraag een [gratis AI-scan](/gratis-scan) aan.

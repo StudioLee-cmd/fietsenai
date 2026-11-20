@@ -8,9 +8,9 @@ authorSlug: "tim-van-der-lee"
 tags: ["Google Maps", "Stappenplan"]
 cluster: "vindbaarheid"
 ---
-Een fietsenwinkel die niet bovenaan in Google Maps verschijnt voor "fietsenmaker bij mij in de buurt", mist een groot deel van de potentiële walk-ins. Niet omdat de winkel slecht is — vaak juist het tegendeel — maar omdat online vindbaarheid in 2026 een vak op zich is geworden waar fietsenwinkels weinig tijd voor nemen tussen reparaties en verkoop door.
+Een fietsenwinkel die niet bovenaan in Google Maps verschijnt voor "fietsenmaker bij mij in de buurt", mist een groot deel van de potentiële walk-ins. Niet omdat de winkel slecht is (vaak juist het tegendeel), maar omdat online vindbaarheid in 2026 een vak op zich is geworden waar fietsenwinkels weinig tijd voor nemen tussen reparaties en verkoop door.
 
-Dit artikel is voor jou als fietsenwinkel-eigenaar die wil weten wat je in de komende 90 dagen concreet kunt doen om hoger te ranken in Google, meer reviews te verzamelen, en seizoensgebonden klantstromen beter op te vangen. Geen abstracte SEO-theorie — een week-voor-week stappenplan dat je op een rustige donderdagochtend kunt uitvoeren.
+Dit artikel is voor jou als fietsenwinkel-eigenaar die wil weten wat je in de komende 90 dagen concreet kunt doen om hoger te ranken in Google, meer reviews te verzamelen, en seizoensgebonden klantstromen beter op te vangen. Geen abstracte SEO-theorie, maar een week-voor-week stappenplan dat je op een rustige donderdagochtend kunt uitvoeren.
 
 ## Waarom 90 dagen het juiste tijdvenster is
 
@@ -24,7 +24,7 @@ In 90 dagen kun je realistisch verwachten:
 
 ## Maand 1: fundament leggen (week 1-4)
 
-Het eerste maand is alleen maar voorbereidings- en setup-werk. Geen content schrijven, geen advertenties — gewoon de basis stevig zetten.
+Het eerste maand is alleen maar voorbereidings- en setup-werk. Geen content schrijven, geen advertenties: gewoon de basis stevig zetten.
 
 ### Week 1: Google Bedrijfsprofiel claimen en compleet maken
 
@@ -33,16 +33,16 @@ Open Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf), claim of update je v
 - **Naam, adres, telefoonnummer (NAP):** identiek aan je website en social media. Eén afwijking en je rankt lager.
 - **Diensten:** voeg specifieke fietsenwinkel-diensten toe (bandenservice, derailleur-afstellen, e-bike accu vervangen, fietsfitting, kinderfietsen). Niet alleen "fietsenwinkel".
 - **Werkgebied:** beperk je tot de plaatsen waar je daadwerkelijk klanten ontvangt. Te ruim = lagere ranking.
-- **Foto's:** minimaal 20 stuks — winkel buiten- en binnenkant, werkplaats, voorraad, je team. Foto's zijn de #2 rankingfactor in Google Maps.
+- **Foto's:** minimaal 20 stuks: winkel buiten- en binnenkant, werkplaats, voorraad, je team. Foto's zijn de #2 rankingfactor in Google Maps.
 - **Openingstijden:** inclusief feestdagen en seizoens-aanpassingen. Onjuiste tijden = directe ranking-penalty.
 
-### Week 2: Website-fundament — laadtijd en structuur
+### Week 2: Website-fundament (laadtijd en structuur)
 
 Test je website op [PageSpeed Insights](https://pagespeed.web.dev). Score onder 50? Dan verlies je bezoekers vóór ze je homepage zien. Voor fietsenwinkels zijn de drie meest voorkomende fixes:
 
 - Te grote productfoto's (compressie via TinyPNG scheelt fors in bestandsgrootte zonder kwaliteitsverlies)
 - Trage hosting (een upgrade naar SSD-hosting kost €5-10/mnd extra, scheelt seconden in laadtijd)
-- Geen mobiele optimalisatie (de meeste fietsenwinkel-bezoekers komen via mobiel — een niet-mobiele site rankt automatisch slechter)
+- Geen mobiele optimalisatie (de meeste fietsenwinkel-bezoekers komen via mobiel, dus een niet-mobiele site rankt automatisch slechter)
 
 Een [professioneel gebouwde fietsenwinkel-website](https://www.fietsenai.nl/gratis-website) heeft deze basis standaard op orde, inclusief schema.org-markup voor "BicycleShop" wat Google direct herkent.
 
@@ -54,7 +54,7 @@ NAP (Name-Address-Phone) moet op elk platform identiek zijn. Maak een lijst en u
 
 ### Week 4: Review-strategie opzetten
 
-Reviews zijn de zwaarste rankingfactor in Google Maps voor lokale bedrijven. Zet deze week een geautomatiseerd systeem op dat elke klant 2 tot 4 uur na een reparatie of fietsverkoop een persoonlijk review-verzoek stuurt via WhatsApp of e-mail. Een [Google reviews-systeem voor fietsenwinkels](https://www.fietsenai.nl/reviews) automatiseert dit: zodra een klant zijn fiets ophaalt, gaat het verzoek automatisch uit. Realistisch: in week 4 nog geen reviews — alleen het systeem opzetten en testen met 3-5 klanten.
+Reviews zijn de zwaarste rankingfactor in Google Maps voor lokale bedrijven. Zet deze week een geautomatiseerd systeem op dat elke klant 2 tot 4 uur na een reparatie of fietsverkoop een persoonlijk review-verzoek stuurt via WhatsApp of e-mail. Een [Google reviews-systeem voor fietsenwinkels](https://www.fietsenai.nl/reviews) automatiseert dit: zodra een klant zijn fiets ophaalt, gaat het verzoek automatisch uit. Realistisch: in week 4 nog geen reviews, alleen het systeem opzetten en testen met 3-5 klanten.
 
 ## Maand 2: stroom op gang brengen (week 5-8)
 
@@ -62,7 +62,7 @@ Met het fundament op orde begint maand twee de stroom van vindbaarheid op gang t
 
 ### Week 5-6: 8-15 reviews per week
 
-Het systeem uit week 4 moet nu draaien. Reken met 5 tot 15 procent respons op review-verzoeken — bij 80 reparaties per week zijn dat 4 tot 12 nieuwe reviews. Doel: 30 nieuwe reviews aan het einde van maand twee. Reageer op elke review (positief én negatief) binnen 48 uur.
+Het systeem uit week 4 moet nu draaien. Reken met 5 tot 15 procent respons op review-verzoeken: bij 80 reparaties per week zijn dat 4 tot 12 nieuwe reviews. Doel: 30 nieuwe reviews aan het einde van maand twee. Reageer op elke review (positief én negatief) binnen 48 uur.
 
 ### Week 7: lokale content publiceren
 
@@ -82,7 +82,7 @@ Verdien 5 tot 10 lokale backlinks: lid worden van Centrum-vereniging in jouw sta
 
 ### Week 11: seizoensacties klaarmaken
 
-Bereid de volgende drie maanden seizoensacties voor — voorjaar (banden + smering), zomer (kinderfietsen-uitverkoop, vakantie-controle), najaar (e-bike accu-controle, regen-pakket), winter (stallingstips + onderhoudsbeurt). Schrijf de campagne-pagina's nu vast — dan hoef je bij seizoenswisseling alleen te publiceren.
+Bereid de volgende drie maanden seizoensacties voor: voorjaar (banden + smering), zomer (kinderfietsen-uitverkoop, vakantie-controle), najaar (e-bike accu-controle, regen-pakket), winter (stallingstips + onderhoudsbeurt). Schrijf de campagne-pagina's nu vast, dan hoef je bij seizoenswisseling alleen te publiceren.
 
 ### Week 12-13: meten, verfijnen, schalen
 
@@ -104,7 +104,7 @@ Belangrijk: deze cijfers gelden bij consistente uitvoering. Twee van de zes acti
 
 - **Maand 1 doorslaan naar maand 2:** zonder NAP-consistentie en review-systeem werken alle activiteiten in maand 2-3 maar half. Geduld in de fundament-fase.
 - **Reviews kopen of vragen voor scherpe korting:** Google detecteert dit en kan je vermelding pauzeren. Alleen organische reviews op basis van echte service.
-- **Te veel platformen tegelijk:** TikTok, LinkedIn, Pinterest — iedereen heeft mening. Voor fietsenwinkels werken Google + Instagram (foto's) + Facebook (lokale community). Andere platformen kosten meer dan ze opleveren.
+- **Te veel platformen tegelijk:** TikTok, LinkedIn, Pinterest: iedereen heeft mening. Voor fietsenwinkels werken Google + Instagram (foto's) + Facebook (lokale community). Andere platformen kosten meer dan ze opleveren.
 - **Stoppen na maand 3:** zonder doorlopend ritme zakt de ranking weer weg. Het 90-dagen plan moet overgaan in een blijvend ritme van 1 review-systeem-tweak + 1 blogpost + 2 GBP-posts per week.
 
 ## Wat het kost om dit op te zetten

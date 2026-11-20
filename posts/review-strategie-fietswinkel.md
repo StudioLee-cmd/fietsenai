@@ -11,7 +11,7 @@ tags: ["Reviews", "Review strategie"]
 
 De gemiddelde fietser kiest een fietswinkel op basis van twee dingen: locatie en reputatie. Locatie kun je niet veranderen, maar reputatie wel. Google Reviews zijn de snelste manier om een sterke reputatie op te bouwen in je buurt.
 
-Een fietswinkel met 40+ reviews en een 4,6 score trekt klanten aan die anders naar de concurrent zouden gaan — zelfs als die concurrent dichterbij is.
+Een fietswinkel met 40+ reviews en een 4,6 score trekt klanten aan die anders naar de concurrent zouden gaan, zelfs als die concurrent dichterbij is.
 
 ## Twee review-momenten voor fietswinkels
 
@@ -21,7 +21,7 @@ Fietswinkels hebben twee natuurlijke review-momenten:
 
 **Na een aankoop:** De klant rijdt weg op een nieuwe fiets. "Geniet van je nieuwe fiets! We horen graag hoe je ervaring was. [link]"
 
-Bij reparaties is het moment van afhalen ideaal — de klant is blij en je hebt direct contact. Bij aankopen: stuur een WhatsApp de dag na aankoop, als de klant zijn eerste rit heeft gemaakt.
+Bij reparaties is het moment van afhalen ideaal: de klant is blij en je hebt direct contact. Bij aankopen: stuur een WhatsApp de dag na aankoop, als de klant zijn eerste rit heeft gemaakt.
 
 ## Automatiseer met je kassasysteem
 
@@ -43,7 +43,7 @@ E-bikes genereren meer review-kansen dan gewone fietsen:
 - Regelmatig servicebeurt nodig = herhaaldelijk contactmoment
 - Technische expertise gevraagd = klant waardeert vakmanschap meer
 
-Maak van elke e-bike service een review-kans. De klant betaalt €80-€150 per beurt en verwacht topservice — lever die en je krijgt de review.
+Maak van elke e-bike service een review-kans. De klant betaalt €80-€150 per beurt en verwacht topservice. Lever die en je krijgt de review.
 
 ## Reageer op elke review
 
@@ -69,4 +69,4 @@ Focus op kwaliteit en persoonlijkheid. Gedetailleerde reviews over jouw persoonl
 
 Elke reparatie en verkoop is een review-kans. Automatiseer het proces, maak het persoonlijk en reageer op alles. Reviews kosten je niets en bouwen de reputatie die klanten naar je winkel brengt.
 
-De klanten die je vandaag helpt zijn de reviewschrijvers die morgen nieuwe klanten overtuigen. Benieuwd hoe FietsenAI je reviewverzameling automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij repareert fietsen.
+De klanten die je vandaag helpt zijn de reviewschrijvers die morgen nieuwe klanten overtuigen. Benieuwd hoe FietsenAI je reviewverzameling automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het, jij repareert fietsen.

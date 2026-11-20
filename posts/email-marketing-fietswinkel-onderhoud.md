@@ -13,9 +13,9 @@ cluster: "automatisering"
 
 ## Waarom email marketing werkt voor fietswinkels
 
-Een fiets kopen is een eenmalig moment, maar onderhoud is doorlopend. Banden, remmen, ketting, verlichting — elke fiets heeft regelmatig aandacht nodig. En e-bikes al helemaal.
+Een fiets kopen is een eenmalig moment, maar onderhoud is doorlopend. Banden, remmen, ketting, verlichting: elke fiets heeft regelmatig aandacht nodig. En e-bikes al helemaal.
 
-De meeste klanten denken pas aan onderhoud als er iets kapot is. Dan googelen ze "fietsreparatie bij mij in de buurt" en belanden ze misschien bij een concurrent. Met een simpele onderhoudsherinnering per email zorg je dat ze bij jou komen — voordat er iets mis is.
+De meeste klanten denken pas aan onderhoud als er iets kapot is. Dan googelen ze "fietsreparatie bij mij in de buurt" en belanden ze misschien bij een concurrent. Met een simpele onderhoudsherinnering per email zorg je dat ze bij jou komen, voordat er iets mis is.
 
 Email marketing is bovendien goedkoop. Een mail sturen naar 300 klanten kost niets. Als daar tien onderhoudsbeurten uit komen van 50 euro, is dat 500 euro omzet zonder acquisitiekosten.
 
@@ -33,24 +33,24 @@ Email marketing is bovendien goedkoop. Een mail sturen naar 300 klanten kost nie
 
 Vijf soorten emails die direct resultaat opleveren:
 
-**Onderhoudsherinneringen**. "Het is zes maanden geleden dat je fiets een beurt heeft gehad. Tijd voor een check — boek nu je onderhoudsbeurt." Dit is je belangrijkste email. Eenvoudig, direct en het genereert werk.
+**Onderhoudsherinneringen**. "Het is zes maanden geleden dat je fiets een beurt heeft gehad. Tijd voor een check: boek nu je onderhoudsbeurt." Dit is je belangrijkste email. Eenvoudig, direct en het genereert werk.
 
-**Seizoenstips**. In het voorjaar: "Maak je fiets klaar voor het fietsweer — check banden, remmen en verlichting." In het najaar: "Wintercheck: verlichting, banden met profiel en een schone ketting." Elk [seizoen](/blog/seizoensmarketing-fietswinkel) brengt andere tips.
+**Seizoenstips**. In het voorjaar: "Maak je fiets klaar voor het fietsweer: check banden, remmen en verlichting." In het najaar: "Wintercheck: verlichting, banden met profiel en een schone ketting." Elk [seizoen](/blog/seizoensmarketing-fietswinkel) brengt andere tips.
 
 **Nieuwe producten en modellen**. Heb je een nieuw e-bike merk binnen? Een nieuwe lijn kinderfiesten? Laat het je klanten weten voordat ze bij een concurrent gaan kijken.
 
 **Acties en kortingen**. Een winteractie op onderhoudsbeurten of een korting op accessoires. Tijdsgebonden acties creeren urgentie: "Alleen deze maand: volledige onderhoudsbeurt voor 39 euro in plaats van 55 euro."
 
-**Tips en tricks**. Korte, praktische tips: hoe je een band plakt, hoe je je ketting smeert, wanneer je je remblokken moet vervangen. Dit positioneert je als expert en bouwt vertrouwen — zelfs als de klant het zelf doet, denkt hij bij het volgende probleem aan jou.
+**Tips en tricks**. Korte, praktische tips: hoe je een band plakt, hoe je je ketting smeert, wanneer je je remblokken moet vervangen. Dit positioneert je als expert en bouwt vertrouwen. Zelfs als de klant het zelf doet, denkt hij bij het volgende probleem aan jou.
 
 ## Seizoensgebonden campagnes
 
 Plan je campagnes rond de seizoenen:
 
-- **Maart**: "Fiets klaar voor de lente — boek nu je voorjaarsbeurt"
+- **Maart**: "Fiets klaar voor de lente? Boek nu je voorjaarsbeurt"
 - **Juni**: "Zomervakantie met de fiets? Check je banden en remmen"
-- **September**: "Terug naar school/werk — is je fiets klaar voor de dagelijkse rit?"
-- **November**: "Wintercheck + verlichting — rijd veilig door het donker"
+- **September**: "Terug naar school/werk: is je fiets klaar voor de dagelijkse rit?"
+- **November**: "Wintercheck + verlichting: rijd veilig door het donker"
 - **December**: "Cadeautip: een onderhoudsabonnement voor je geliefde fietser"
 
 Elke campagne sluit aan bij een natuurlijk moment waarop klanten nadenken over hun fiets.
@@ -69,7 +69,7 @@ Een gratis tool als Mailchimp of MailerLite biedt al deze automatisering. Het in
 
 ## Aan de slag
 
-Fietsen en onderhoud horen bij elkaar. Door klanten op het juiste moment te herinneren, genereer je doorlopend onderhoudsopdrachten — de meest winstgevende inkomstenbron voor een fietswinkel.
+Fietsen en onderhoud horen bij elkaar. Door klanten op het juiste moment te herinneren, genereer je doorlopend onderhoudsopdrachten, de meest winstgevende inkomstenbron voor een fietswinkel.
 
 Begin met je klantenlijst uit het afgelopen jaar. Stuur je eerste seizoensmail en stel automatische herinneringen in. Over drie maanden merk je het verschil in je werkplaatsagenda.
 

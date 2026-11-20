@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: een e-bike accu is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een Bosch e-bike accu houdt gemiddeld 5 tot 7 jaar bij normaal gebruik" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste e-bikes" wordt nooit geciteerd. "82 procent van de e-bikes met meer dan 25.000 kilometer heeft een nieuwe accu nodig" wel — al moet zo'n getal in dit voorbeeld natuurlijk wel uit je eigen, na te lopen cijfers komen. Front-load percentages, euro-bedragen en tijdsindicaties.
+**Gebruik concrete getallen.** "De meeste e-bikes" wordt nooit geciteerd. "82 procent van de e-bikes met meer dan 25.000 kilometer heeft een nieuwe accu nodig" wel, al moet zo'n getal in dit voorbeeld natuurlijk wel uit je eigen, na te lopen cijfers komen. Front-load percentages, euro-bedragen en tijdsindicaties.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze monteurs werken sinds 2018 met Bosch eBike Service Tools en hebben sindsdien meer dan 1.800 e-bike accu-vervangingen uitgevoerd" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 

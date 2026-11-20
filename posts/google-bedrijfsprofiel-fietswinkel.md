@@ -8,7 +8,7 @@ image: "/images/blog/google-bedrijfsprofiel-fietswinkel.jpg"
 tags: ["Google", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
-Als fietswinkel ben je afhankelijk van klanten uit je directe omgeving. En waar zoeken die klanten? Op Google. Een goed geoptimaliseerd Google Bedrijfsprofiel is de meest effectieve — en volledig gratis — manier om meer klanten naar je winkel te trekken.
+Als fietswinkel ben je afhankelijk van klanten uit je directe omgeving. En waar zoeken die klanten? Op Google. Een goed geoptimaliseerd Google Bedrijfsprofiel is de meest effectieve (en volledig gratis) manier om meer klanten naar je winkel te trekken.
 
 ## Wat is een Google Bedrijfsprofiel?
 
@@ -21,7 +21,7 @@ De cijfers spreken voor zich:
 - **De meeste mensen** die lokaal zoeken bezoeken binnen 24 uur een bedrijf
 - **Een aanzienlijk deel van de lokale zoekopdrachten** leidt tot een aankoop
 - Bedrijven met een volledig profiel zijn **merkbaar aantrekkelijker** voor potentiële klanten
-- **Gratis** — je betaalt er geen cent voor
+- **Gratis**: je betaalt er geen cent voor
 
 Voor een fietswinkel betekent dit: mensen die zoeken op "band plakken", "e-bike reparatie" of "fiets kopen" in jouw buurt kunnen direct bij jou terechtkomen.
 
@@ -33,12 +33,12 @@ Als je nog geen Google Bedrijfsprofiel hebt, ga naar [business.google.com](https
 
 ### 2. Vul alle basisgegevens correct in
 
-- **Bedrijfsnaam** — precies zoals op je gevel staat
-- **Adres** — volledig en correct, inclusief postcode
-- **Telefoonnummer** — bij voorkeur een vast nummer
-- **Openingstijden** — ook feestdagen en seizoenswijzigingen
-- **Website** — link naar je homepage
-- **Categorie** — kies "Fietswinkel" als primaire categorie. Voeg subcategorieën toe zoals "Fietsenmaker", "E-bike dealer"
+- **Bedrijfsnaam**: precies zoals op je gevel staat
+- **Adres**: volledig en correct, inclusief postcode
+- **Telefoonnummer**: bij voorkeur een vast nummer
+- **Openingstijden**: ook feestdagen en seizoenswijzigingen
+- **Website**: link naar je homepage
+- **Categorie**: kies "Fietswinkel" als primaire categorie. Voeg subcategorieën toe zoals "Fietsenmaker", "E-bike dealer"
 
 ### 3. Voeg foto's toe (dit is waar de meeste winkels falen)
 
@@ -46,9 +46,9 @@ Volgens Google krijgen bedrijven met foto's **35% meer klikken** naar hun websit
 
 - **Buitenkant** van je winkel (herkenbaar vanaf de straat)
 - **Binnenkant** van de werkplaats en showroom
-- **Producten** — fietsen, accessoires, e-bikes
-- **Team** — laat zien wie er werkt
-- **Reparaties** — voor-en-na foto's van onderhoud
+- **Producten**: fietsen, accessoires, e-bikes
+- **Team**: laat zien wie er werkt
+- **Reparaties**: voor-en-na foto's van onderhoud
 
 Upload minimaal 10 foto's en voeg elke maand nieuwe toe.
 
@@ -56,7 +56,7 @@ Upload minimaal 10 foto's en voeg elke maand nieuwe toe.
 
 Je hebt 750 tekens. Gebruik ze slim:
 
-> "Al [X] jaar dé fietswinkel in [stad]. Van e-bikes tot kinderfietsen, van bandenreparatie tot een grote beurt — onze vakkundige monteurs staan voor je klaar. Kom langs of bel voor een afspraak."
+> "Al [X] jaar dé fietswinkel in [stad]. Van e-bikes tot kinderfietsen, van bandenreparatie tot een grote beurt: onze vakkundige monteurs staan voor je klaar. Kom langs of bel voor een afspraak."
 
 Verwerk hierin je belangrijkste diensten en je locatie.
 
@@ -66,7 +66,7 @@ Reviews zijn de belangrijkste ranking factor voor lokale zoekresultaten. Vraag t
 
 - Stuur na een reparatie of aankoop een WhatsApp met een directe link
 - Plaats een QR-code bij de kassa
-- Reageer altijd op reviews — ook (en vooral) op negatieve
+- Reageer altijd op reviews, ook (en vooral) op negatieve
 
 **Tip:** Bedrijven met meer dan 10 reviews en een gemiddelde van 4+ sterren verschijnen bovenaan in het Local Pack (de top 3 resultaten op de kaart).
 
@@ -95,7 +95,7 @@ Ja, je kunt voor elke vestiging een apart profiel aanmaken. Zorg dat elk profiel
 
 ### Hoe hoog moet mijn reviewscore zijn?
 
-Streef naar minimaal 4.2 sterren. Bedrijven onder de 4.0 worden minder vaak gekozen. Een perfecte 5.0 kan juist ongeloofwaardig overkomen — een mix van 4- en 5-sterren reviews is ideaal.
+Streef naar minimaal 4.2 sterren. Bedrijven onder de 4.0 worden minder vaak gekozen. Een perfecte 5.0 kan juist ongeloofwaardig overkomen. Een mix van 4- en 5-sterren reviews is ideaal.
 
 ### Wat doe ik met een negatieve review?
 
@@ -103,6 +103,6 @@ Reageer altijd professioneel en empathisch. Bied aan om het probleem op te losse
 
 ## Conclusie
 
-Een geoptimaliseerd Google Bedrijfsprofiel is de makkelijkste manier om meer klanten naar je fietswinkel te trekken. Het kost je niets behalve een uurtje per week aan onderhoud. Begin vandaag met het updaten van je profiel en je foto's — de eerste resultaten zie je binnen een maand.
+Een geoptimaliseerd Google Bedrijfsprofiel is de makkelijkste manier om meer klanten naar je fietswinkel te trekken. Het kost je niets behalve een uurtje per week aan onderhoud. Begin vandaag met het updaten van je profiel en je foto's, dan zie je de eerste resultaten binnen een maand.
 
 Wil je weten hoe jouw online zichtbaarheid er nu voor staat? [Vraag een gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen voor jouw fietswinkel.

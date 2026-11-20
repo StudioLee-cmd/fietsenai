@@ -13,7 +13,7 @@ cluster: "branding"
 
 ## Waarom mond-tot-mond werkt voor fietswinkels
 
-Fietsen kopen is persoonlijk. Klanten willen advies, willen een proefrit maken, willen weten welk model bij hen past. Die persoonlijke ervaring delen ze graag — vooral als het positief was.
+Fietsen kopen is persoonlijk. Klanten willen advies, willen een proefrit maken, willen weten welk model bij hen past. Die persoonlijke ervaring delen ze graag, vooral als het positief was.
 
 Een aanbeveling van een fietsvriend weegt zwaarder dan elk online zoekresultaat. Fietsers vertrouwen fietsers.
 
@@ -41,7 +41,7 @@ Organiseer een fietsgroeprit of workshop. Klanten die samen fietsen, praten over
 
 ### 3. Google reviews als digitale mond-tot-mond
 
-Vraag tevreden klanten om een [Google review](/blog/meer-google-reviews-fietswinkel). Reviews zijn de online versie van mond-tot-mond — ze zijn permanent en zichtbaar voor iedereen.
+Vraag tevreden klanten om een [Google review](/blog/meer-google-reviews-fietswinkel). Reviews zijn de online versie van mond-tot-mond: ze zijn permanent en zichtbaar voor iedereen.
 
 ### 4. Specialisatie maakt aanbevelingen concreter
 
@@ -57,11 +57,11 @@ De offline aanbeveling triggert de online verificatie. Beide moeten sterk zijn.
 
 Je beste ambassadeurs zijn je [vaste klanten](/blog/vaste-klanten-fietswinkel-ambassadeur). Ze kopen accessoires, komen voor onderhoud en upgraden naar een nieuwe fiets. En ze vertellen iedereen over hun fietswinkel.
 
-Investeer in die relatie. Een persoonlijke benadering, onthouden wat ze vorige keer hebben gekocht, proactief advies — dat maakt het verschil. Een klant die zich gezien voelt, deelt dat gevoel met anderen. Mond-tot-mondreclame begint bij persoonlijke aandacht.
+Investeer in die relatie. Een persoonlijke benadering, onthouden wat ze vorige keer hebben gekocht, proactief advies: dat maakt het verschil. Een klant die zich gezien voelt, deelt dat gevoel met anderen. Mond-tot-mondreclame begint bij persoonlijke aandacht.
 
 ## Mond-tot-mond meten
 
-Vraag bij elke nieuwe klant: "Hoe heeft u ons gevonden?" Registreer doorverwijzingen apart. Je zult ontdekken dat je meest winstgevende klanten via aanbevelingen komen — niet via advertenties.
+Vraag bij elke nieuwe klant: "Hoe heeft u ons gevonden?" Registreer doorverwijzingen apart. Je zult ontdekken dat je meest winstgevende klanten via aanbevelingen komen, niet via advertenties.
 
 ## Hulp nodig?
 

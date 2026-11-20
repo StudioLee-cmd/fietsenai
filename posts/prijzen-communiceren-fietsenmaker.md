@@ -12,7 +12,7 @@ tags: ["Prijzen", "Website"]
 
 De klant staat in je werkplaats. Of belt. Of appt. Altijd dezelfde eerste vraag: wat kost het?
 
-De meeste fietsenmakers noemen een prijs, doen het werk en sturen de klant weg. Maar de klant die niet belt — die gewoon googelt en vergelijkt — die mis je. Want op jouw website staan geen prijzen.
+De meeste fietsenmakers noemen een prijs, doen het werk en sturen de klant weg. Maar de klant die niet belt en gewoon googelt en vergelijkt, die mis je. Want op jouw website staan geen prijzen.
 
 ## Waarom prijzen op je website horen
 
@@ -46,9 +46,9 @@ De Fietsenwinkel, Halfords en lokale concurrenten vermelden hun prijzen online. 
 ### Service pakketten
 
 Bied pakketten aan in plaats van losse reparaties:
-- **Basisbeurt** (€25) — banden, remmen, verlichting check
-- **Grote beurt** (€45) — alles uit de basisbeurt + ketting, versnellingen, wielen
-- **Seizoensklaar** (€55) — alles + schoonmaken en smeren
+- **Basisbeurt** (€25): banden, remmen, verlichting check
+- **Grote beurt** (€45): alles uit de basisbeurt + ketting, versnellingen, wielen
+- **Seizoensklaar** (€55): alles + schoonmaken en smeren
 
 
 
@@ -56,12 +56,12 @@ Bied pakketten aan in plaats van losse reparaties:
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als fietsenmaker.
 
-Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [tarieven](/tarieven) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [gratis scan](/gratis-scan) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [tarieven](/tarieven) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Prijzen communiceren is geen zwakte — het is professionaliteit. Klanten waarderen transparantie en belonen het met hun keuze. Zet je meest gevraagde prijzen op je website en zie je aanvragen stijgen.
+Prijzen communiceren is geen zwakte. Het is professionaliteit. Klanten waarderen transparantie en belonen het met hun keuze. Zet je meest gevraagde prijzen op je website en zie je aanvragen stijgen.
 
 Wil je je website optimaliseren met prijsinformatie? [Vraag een gratis scan aan](/gratis-scan) en we helpen je meer klanten te trekken.

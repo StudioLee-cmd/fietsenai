@@ -28,7 +28,7 @@ Drie problemen, drie oplossingen. Allemaal met één eenvoudige bevestigingskete
 
 ## De ideale bevestigingsketen voor reparatieafspraken
 
-### Bij het inplannen — directe bevestiging
+### Bij het inplannen: directe bevestiging
 
 Zodra de afspraak in je systeem zit, ontvangt de klant binnen één minuut een SMS of WhatsApp:
 
@@ -36,13 +36,13 @@ Zodra de afspraak in je systeem zit, ontvangt de klant binnen één minuut een S
 
 Dit zet de afspraak op zijn telefoon en geeft hem een laagdrempelige optie om te verzetten.
 
-### 48 uur vooraf — eerste herinnering
+### 48 uur vooraf: eerste herinnering
 
 Twee dagen voor de afspraak komt het tweede bericht:
 
 > "Hi [naam], over twee dagen brengen we je fiets in orde: [dag] om [tijd]. Mocht het je niet meer uitkomen, geef het ons even door. Geen kosten."
 
-### 24 uur vooraf — laatste herinnering
+### 24 uur vooraf: laatste herinnering
 
 Een dag van tevoren:
 
@@ -85,10 +85,10 @@ Zo wordt een geannuleerd slot binnen een uur weer gevuld. Geen verloren omzet me
 
 Een no-show overkomt iedereen. Wat doe je dan?
 
-1. **Bel direct** — soms staat de klant in de file of is even weg
+1. **Bel direct**: soms staat de klant in de file of is even weg
 2. **Stuur een berichtje** met "Wij verwachtten je vandaag, alles oké?"
 3. **Plan een nieuwe afspraak** zodra je contact hebt
-4. **Bij herhaaldelijk no-show gedrag** — communiceer dat je een aanbetaling vraagt voor de volgende afspraak
+4. **Bij herhaaldelijk no-show gedrag**: communiceer dat je een aanbetaling vraagt voor de volgende afspraak
 
 Een no-show hoeft geen verloren klant te zijn. De meeste mensen verzetten en komen alsnog. Maar dat lukt alleen als je het netjes oppakt.
 
@@ -103,7 +103,7 @@ Reken even mee:
 
 Voor minder dan 30 euro per maand setup heb je een systeem dat je 4.000+ euro per jaar oplevert. Geen advertentiekanaal komt daar in de buurt.
 
-## Tijdelijke piekperiodes — voorjaar en herfst
+## Tijdelijke piekperiodes: voorjaar en herfst
 
 Voor fietswinkels zijn er twee piekperiodes per jaar: het voorjaar (maart-mei, klanten halen hun fietsen uit de schuur) en de herfst (september-oktober, klanten maken zich klaar voor de winter). In deze perioden is de impact van no-shows extra groot, omdat je werkplaats vol zit en elke gemist slot direct geld kost.
 

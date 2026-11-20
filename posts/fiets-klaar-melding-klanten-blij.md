@@ -1,7 +1,7 @@
 ---
 title: "Fiets klaar? Automatische meldingen die je klanten blij maken"
 seoTitle: "Fiets klaar? Automatische meldingen voor klanten"
-excerpt: "Klanten die bellen met 'Is mijn fiets al klaar?' kosten je uren per week. Automatische meldingen lossen dat op — en maken je klanten blij."
+excerpt: "Klanten die bellen met 'Is mijn fiets al klaar?' kosten je uren per week. Automatische meldingen lossen dat op en maken je klanten blij."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/fiets-klaar-melding-klanten-blij.png"
@@ -17,7 +17,7 @@ Dit telefoontje krijg je 10-15 keer per dag. Dat is meer dan een uur per dag aan
 
 ## Waarom klanten bellen
 
-Klanten bellen niet om je te irriteren. Ze bellen omdat ze hun fiets nodig hebben — voor het woon-werkverkeer, de schoolrun of het weekend. De onzekerheid is het probleem: "Wanneer kan ik mijn fiets weer ophalen?"
+Klanten bellen niet om je te irriteren. Ze bellen omdat ze hun fiets nodig hebben: voor het woon-werkverkeer, de schoolrun of het weekend. De onzekerheid is het probleem: "Wanneer kan ik mijn fiets weer ophalen?"
 
 De oplossing is simpel: vertel het ze voordat ze hoeven te vragen.
 
@@ -47,7 +47,7 @@ Klanten waarderen proactieve communicatie. Ze hoeven niet te bellen, niet onzeke
 Elke fietsenmaker kent het: fietsen die weken in de werkplaats staan. Automatische herinneringen reduceren dit drastisch.
 
 ### Upsell-kansen
-De "extra kosten" melding is een gouden verkoopmoment. Als je bij de inspectie een versleten ketting ontdekt, stuur je een bericht met foto. De klant geeft akkoord via SMS — geen lastig telefoongesprek nodig.
+De "extra kosten" melding is een gouden verkoopmoment. Als je bij de inspectie een versleten ketting ontdekt, stuur je een bericht met foto. De klant geeft akkoord via SMS, zonder lastig telefoongesprek.
 
 ## Extra automatiseringen
 

@@ -1,7 +1,7 @@
 ---
 title: "Een webshop als fietswinkel: online verkopen naast je fysieke winkel"
 seoTitle: "Een webshop als fietswinkel"
-excerpt: "Online verkopen is geen bedreiging voor je fietswinkel — het is een verlengstuk. Zo zet je een webshop op die je fysieke winkel versterkt."
+excerpt: "Online verkopen is geen bedreiging voor je fietswinkel. Het is een verlengstuk. Zo zet je een webshop op die je fysieke winkel versterkt."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/webshop-fietswinkel-online-verkopen.png"
@@ -12,7 +12,7 @@ cluster: "website"
 
 De Nederlandse fietsmarkt is €2+ miljard per jaar. Een groeiend deel daarvan gaat online. Grote spelers zoals Mantel, Fietsenwinkel.nl en Decathlon domineren de online markt. Maar lokale fietswinkels hebben een voordeel: persoonlijke service, lokale binding en het feit dat fietsen een product is dat je wilt passen en voelen.
 
-Een webshop is geen vervanging van je fysieke winkel — het is een verlengstuk. Je verkoopt accessoires en onderdelen online, trekt klanten naar je winkel voor fietsen, en bent 24/7 bereikbaar.
+Een webshop is geen vervanging van je fysieke winkel. Het is een verlengstuk. Je verkoopt accessoires en onderdelen online, trekt klanten naar je winkel voor fietsen, en bent 24/7 bereikbaar.
 
 ## Wat verkoop je online (en wat niet)?
 
@@ -49,7 +49,7 @@ De strategie: accessoires online, fietsen in de winkel. Maar bied fietsen wel on
 | Lightspeed | €49-99 | Integratie met kassasysteem |
 | CycleSoftware | Op aanvraag | Specifiek voor fietswinkels |
 
-Als je al Lightspeed of CycleSoftware gebruikt voor je kassa, kies dan hun webshop-integratie — voorraad synchroniseert automatisch.
+Als je al Lightspeed of CycleSoftware gebruikt voor je kassa, kies dan hun webshop-integratie, want de voorraad synchroniseert automatisch.
 
 ### Stap 2: Begin klein
 
@@ -101,13 +101,13 @@ Bouw een klantenbestand en stuur:
 | Openingstijden | 09:00-18:00 | 24/7 |
 | Accessoire-omzet/maand | €3.000 | €5.000-8.000 |
 | Klantenbestand | Lokaal | Groeiend landelijk |
-| Investering | — | €200-500/maand |
+| Investering | geen | €200-500/maand |
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/prijzen-communiceren-fietsenmaker" class="text-dark fw-semibold">Prijzen communiceren als fietsenmaker: transparant zonder je marge weg te geven</a> →</p></div></div></div>
 
 ## Conclusie
 
-Een webshop is geen bedreiging voor je fietswinkel — het is een groeikans. Begin klein met accessoires, koppel je voorraad en bied click-and-collect aan. Je combineert het beste van twee werelden: lokale service en online bereik.
+Een webshop is geen bedreiging voor je fietswinkel. Het is een groeikans. Begin klein met accessoires, koppel je voorraad en bied click-and-collect aan. Je combineert het beste van twee werelden: lokale service en online bereik.
 
 Met [FietsenAI](/) helpen we fietswinkels bij hun online zichtbaarheid en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

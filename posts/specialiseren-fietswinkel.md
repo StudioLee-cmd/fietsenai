@@ -30,14 +30,14 @@ De beste keuze hangt af van je markt, expertise en passie.
 
 ## Hoe communiceer je je specialisatie?
 
-- **Website** — maak je niche direct duidelijk op je [homepage](/blog/fietswinkel-website-meer-klanten)
-- **Google** — optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel) met de juiste categorieen
-- **Content** — schrijf specifiek over je niche (e-bike onderhoud, racefietstips)
-- **Reviews** — vraag klanten specifiek over hun ervaring met jouw specialisatie via [Google reviews](/blog/meer-google-reviews-fietswinkel)
+- **Website**: maak je niche direct duidelijk op je [homepage](/blog/fietswinkel-website-meer-klanten)
+- **Google**: optimaliseer je [bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel) met de juiste categorieen
+- **Content**: schrijf specifiek over je niche (e-bike onderhoud, racefietstips)
+- **Reviews**: vraag klanten specifiek over hun ervaring met jouw specialisatie via [Google reviews](/blog/meer-google-reviews-fietswinkel)
 
 ## Specialisatie en service
 
-Als specialist kun je diepere service bieden. Een e-bike specialist kent elk merk, elk accutype en elke motor. Dat niveau van expertise biedt een generieke winkel niet — en klanten waarderen dat.
+Als specialist kun je diepere service bieden. Een e-bike specialist kent elk merk, elk accutype en elke motor. Dat niveau van expertise biedt een generieke winkel niet, en klanten waarderen dat.
 
 Combineer specialisatie met uitstekende service en [vaste klanten](/blog/vaste-klanten-fietswinkel-ambassadeur) worden je ambassadeurs.
 
@@ -49,7 +49,7 @@ Dat persoonlijke advies is online niet te repliceren. Combineer je specialisatie
 
 ## De valkuil van te breed blijven
 
-Door alles aan te bieden, val je nergens op. Het betekent niet dat je stopt met standaardfietsen verkopen — het betekent dat je ergens de expert bent. Die expertise trekt de juiste klanten aan en rechtvaardigt hogere prijzen.
+Door alles aan te bieden, val je nergens op. Het betekent niet dat je stopt met standaardfietsen verkopen. Het betekent dat je ergens de expert bent. Die expertise trekt de juiste klanten aan en rechtvaardigt hogere prijzen.
 
 Een klant betaalt graag meer voor een fiets als de verkoper precies weet welk model bij die klant past. Dat is het verschil tussen een generieke winkel en een specialist.
 

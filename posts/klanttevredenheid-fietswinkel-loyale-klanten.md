@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 Nederland is een fietsland. Er zijn meer fietsen dan inwoners. Dat betekent dat er geen tekort is aan potentiële klanten voor je fietswinkel. Maar het betekent ook dat er geen tekort is aan concurrentie.
 
-Klanttevredenheid is wat het verschil maakt. Een tevreden klant komt terug voor onderhoud, koopt accessoires en beveelt je aan bij vrienden. Een ontevreden klant gaat naar de concurrent — en vertelt het door.
+Klanttevredenheid is wat het verschil maakt. Een tevreden klant komt terug voor onderhoud, koopt accessoires en beveelt je aan bij vrienden. Een ontevreden klant gaat naar de concurrent en vertelt het door.
 
 Investeren in tevredenheid is de meest effectieve manier om je winkel te laten groeien. Het kost geen advertentiebudget, alleen aandacht voor je klanten.
 
@@ -23,7 +23,7 @@ Klanten verwachten meer dan alleen een goede fiets of reparatie:
 - **Eerlijk advies**: help ze de juiste fiets te kiezen, niet de duurste
 - **Transparante prijzen**: geen verrassingen bij het afrekenen
 - **Snelle service**: reparaties op tijd en liefst binnen de afgesproken termijn
-- **Kennis**: ze verwachten dat je alles weet over fietsen — wees de expert
+- **Kennis**: ze verwachten dat je alles weet over fietsen, dus wees de expert
 - **Bereikbaarheid**: makkelijk contact opnemen voor vragen of het maken van een afspraak
 
 De basis is simpel: doe wat je belooft, communiceer duidelijk en behandel elke klant met respect. Maar de details maken het verschil.
@@ -39,7 +39,7 @@ Je hoeft geen ingewikkelde onderzoeken te doen om te weten hoe tevreden je klant
 - **Stuur een kort mailtje**: een dag na ophalen van de fiets, vraag of alles goed is
 - **Houd klachten bij**: elke klacht is een verbeterkans
 
-Het gaat niet om perfecte data — het gaat om het signaal oppakken. Als drie klanten in een maand klagen over wachttijden, dan weet je waar je moet verbeteren.
+Het gaat niet om perfecte data. Het gaat om het signaal oppakken. Als drie klanten in een maand klagen over wachttijden, dan weet je waar je moet verbeteren.
 
 ## Service als onderscheidende factor
 
@@ -54,7 +54,7 @@ Het zijn de kleine dingen die klanten onthouden. En het zijn deze dingen die ze 
 
 ## Van tevreden klanten naar ambassadeurs
 
-Een tevreden klant is goed. Maar een ambassadeur — iemand die actief jouw winkel aanbeveelt — is vele malen waardevoller:
+Een tevreden klant is goed. Maar een ambassadeur (iemand die actief jouw winkel aanbeveelt) is vele malen waardevoller:
 
 1. **Vraag om reviews**: na een positieve ervaring, vraag of ze een Google Review willen achterlaten
 2. **Maak het makkelijk**: stuur een directe link via SMS of e-mail
@@ -67,10 +67,10 @@ Het verschil tussen een tevreden klant en een ambassadeur is vaak één vraag. D
 
 ## Praktische tips voor meer tevredenheid
 
-1. **Train je team** op klantgerichtheid — iedereen in de winkel is het visitekaartje
+1. **Train je team** op klantgerichtheid, want iedereen in de winkel is het visitekaartje
 2. **Communiceer duidelijk** over levertijden, reparatieduur en kosten
-3. **Los klachten snel op** — een klacht die goed wordt afgehandeld levert vaak meer loyaliteit op dan geen klacht
-4. **Houd je winkel netjes** — een opgeruimde, schone winkel straalt kwaliteit uit
+3. **Los klachten snel op**: een klacht die goed wordt afgehandeld levert vaak meer loyaliteit op dan geen klacht
+4. **Houd je winkel netjes**: een opgeruimde, schone winkel straalt kwaliteit uit
 5. **Vraag regelmatig feedback** en doe er iets mee
 
 Klanttevredenheid is geen project met een eindpunt. Het is een dagelijkse houding die je hele team deelt. De fietswinkels die dit begrijpen, zijn de winkels waar klanten graag terugkomen.

@@ -13,7 +13,7 @@ Nederland fietst, maar de concurrentie tussen fietswinkels is groot. Online aanb
 
 ## Waarom partnerschappen voor fietswinkels werken
 
-Fietsers zijn meer dan klanten — ze zijn onderdeel van een community. Sportverenigingen, werkgevers met fietsplannen, toeristische organisaties en verzekeringsmaatschappijen bedienen dezelfde doelgroep. Door samen te werken, bereik je fietsers op het moment dat ze een fiets nodig hebben.
+Fietsers zijn meer dan klanten: ze zijn onderdeel van een community. Sportverenigingen, werkgevers met fietsplannen, toeristische organisaties en verzekeringsmaatschappijen bedienen dezelfde doelgroep. Door samen te werken, bereik je fietsers op het moment dat ze een fiets nodig hebben.
 
 Voordelen:
 - Structurele doorverwijzingen van sportverenigingen
@@ -53,7 +53,7 @@ Organiseer samen met je partners evenementen: een "Fiets-naar-je-werk-dag" met e
 
 ## Online zichtbaarheid
 
-Vermeld je samenwerkingspartners op je [website](/blog/fietswinkel-website-meer-klanten). Deel gezamenlijke content op [social media](/blog/social-media-fietswinkels-online). Link naar elkaars websites — dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel).
+Vermeld je samenwerkingspartners op je [website](/blog/fietswinkel-website-meer-klanten). Deel gezamenlijke content op [social media](/blog/social-media-fietswinkels-online). Link naar elkaars websites, want dit versterkt je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-fietswinkel).
 
 ## Meten en evalueren
 
@@ -61,7 +61,7 @@ Registreer per verkoop hoe de klant je gevonden heeft. Track hoeveel fiets-van-d
 
 ## Lokaal netwerk verslaat online prijs
 
-De grootste dreiging voor lokale fietswinkels is niet de concurrent om de hoek — het zijn de online webshops die alleen op prijs concurreren. Maar een online shop kan geen clubavond sponsoren, geen proefrit organiseren en geen fiets-van-de-zaak traject persoonlijk begeleiden. Jouw lokale netwerk van sportverenigingen, werkgevers en toeristische partners is je concurrentievoordeel. Investeer erin en je bouwt aan iets dat geen webshop kan kopiëren.
+De grootste dreiging voor lokale fietswinkels is niet de concurrent om de hoek. Het zijn de online webshops die alleen op prijs concurreren. Maar een online shop kan geen clubavond sponsoren, geen proefrit organiseren en geen fiets-van-de-zaak traject persoonlijk begeleiden. Jouw lokale netwerk van sportverenigingen, werkgevers en toeristische partners is je concurrentievoordeel. Investeer erin en je bouwt aan iets dat geen webshop kan kopiëren.
 
 ## Hulp nodig?
 

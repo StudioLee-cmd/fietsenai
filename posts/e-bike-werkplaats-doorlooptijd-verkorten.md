@@ -9,7 +9,7 @@ tags: ["Doorlooptijd", "E-bike"]
 cluster: "automatisering"
 ---
 
-Als fietsenwinkeleigenaar ken je het patroon. Het is half april, de zon breekt door, en de agenda van je werkplaats staat in drie dagen volgeboekt voor twee weken vooruit. Een vaste klant belt met een e-bike die rare geluiden maakt. Je moet antwoorden: "eerste beschikbare datum is over zeventien werkdagen". De klant antwoordt beleefd, maar binnen een week staat die e-bike bij een concurrent in de werkplaats. Verloren retentie, verloren reparatieomzet, verloren vervolgwerk. De doorlooptijd van je werkplaats is in het hoogseizoen niet alleen een operationele uitdaging — het is een directe bedreiging voor je klantenbinding.
+Als fietsenwinkeleigenaar ken je het patroon. Het is half april, de zon breekt door, en de agenda van je werkplaats staat in drie dagen volgeboekt voor twee weken vooruit. Een vaste klant belt met een e-bike die rare geluiden maakt. Je moet antwoorden: "eerste beschikbare datum is over zeventien werkdagen". De klant antwoordt beleefd, maar binnen een week staat die e-bike bij een concurrent in de werkplaats. Verloren retentie, verloren reparatieomzet, verloren vervolgwerk. De doorlooptijd van je werkplaats is in het hoogseizoen niet alleen een operationele uitdaging. Het is een directe bedreiging voor je klantenbinding.
 
 Dit artikel behandelt vier concrete ingrepen die doorlooptijd structureel verkorten zonder dat je extra monteurs hoeft aan te nemen. Elke ingreep staat op zichzelf en kan stapsgewijs worden ingevoerd.
 
@@ -25,7 +25,7 @@ Voor een winkel die in piekseizoen wekelijks 40 reparaties binnenhaalt, betekent
 
 De grootste winst in doorlooptijd ligt in de pre-intake. Als een klant zijn e-bike probleem alleen fysiek kan beschrijven bij de balie ("hij maakt rare geluiden, de versnelling schakelt vreemd"), dan volgt een diagnose-gesprek van 5 tot 10 minuten bij het afnemen, vervolgens 10 tot 30 minuten opzoekwerk door de monteur voordat de fiets überhaupt op de stand staat.
 
-Met digitale pre-intake via je website — ideaal via een [AI chatbot die reparatie-aanvragen opvangt](/chatbot) — vraag je merk, type, accu-leeftijd, specifieke symptomen en eventueel foto's op. Die info komt binnen voordat de fiets fysiek komt, jouw monteur kan alvast bedenken welke onderdelen hij nodig heeft, en de daadwerkelijke reparatietijd is korter.
+Met digitale pre-intake via je website (ideaal via een [AI chatbot die reparatie-aanvragen opvangt](/chatbot)) vraag je merk, type, accu-leeftijd, specifieke symptomen en eventueel foto's op. Die info komt binnen voordat de fiets fysiek komt, jouw monteur kan alvast bedenken welke onderdelen hij nodig heeft, en de daadwerkelijke reparatietijd is korter.
 
 Resultaat: een kortere effectieve reparatietijd per fiets, en de werkplaats heeft meer doorvoercapaciteit zonder extra handen.
 
@@ -51,7 +51,7 @@ Bij pre-intake kun je al vaak inschatten welk onderdeel nodig is. Dus:
 
 - **Bij bepaalde problemen direct een foto aanvragen** van het specifieke onderdeel (bijvoorbeeld "stuur jij even een foto van de huidige versnellingshandel?"), zodat jouw monteur vooraf kan bestellen
 - **Klanten proactief informeren** over potentiële levertijd, zodat ze niet verrast worden
-- **Waar mogelijk alternatieve onderdelen suggereren** ("we hebben een compatibel alternatief op voorraad, is dat ok?") — klanten kiezen vaak voor snelheid boven merk-specifiek onderdeel
+- **Waar mogelijk alternatieve onderdelen suggereren** ("we hebben een compatibel alternatief op voorraad, is dat ok?"), want klanten kiezen vaak voor snelheid boven merk-specifiek onderdeel
 
 Lees onze aanpak voor beste software voor fietsenwinkels in 2026 voor welke praktijksoftware deze voorraad-koppeling het best doet.
 

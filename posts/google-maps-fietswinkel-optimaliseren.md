@@ -9,7 +9,7 @@ tags: ["Vindbaarheid", "Google Maps"]
 ---
 ## Waarom Google Maps onmisbaar is voor fietswinkels
 
-Fietsers kopen lokaal. Een lekke band, een nieuwe ketting of een e-bike uitzoeken — dat doe je bij een winkel in de buurt. Wanneer iemand op de telefoon zoekt naar 'fietswinkel in de buurt' of 'fiets reparatie [stad]', toont Google als eerste de kaartresultaten. Wie daar bovenaan staat, krijgt de klant.
+Fietsers kopen lokaal. Een lekke band, een nieuwe ketting of een e-bike uitzoeken: dat doe je bij een winkel in de buurt. Wanneer iemand op de telefoon zoekt naar 'fietswinkel in de buurt' of 'fiets reparatie [stad]', toont Google als eerste de kaartresultaten. Wie daar bovenaan staat, krijgt de klant.
 
 Het maakt niet uit hoe mooi je website is als je onzichtbaar bent op Google Maps. Dat is waar de meeste fietswinkels klanten verliezen: niet door een slecht aanbod, maar door een slechte online zichtbaarheid.
 
@@ -34,11 +34,11 @@ Vermijd stockfoto's. Authentieke foto's van jouw winkel wekken meer vertrouwen.
 
 De meest waardevolle zoektermen voor fietswinkels:
 
-- **"fietswinkel [stad]"** — hoog volume, commerciële intentie
-- **"fiets reparatie [stad]"** — urgent, snelle beslissing
-- **"e-bike kopen [stad]"** — hoge orderwaarde
-- **"band plakken fiets [stad]"** — laagdrempelig, eerste contact
-- **"fiets ophalen en bezorgen"** — handig, onderscheidend
+- **"fietswinkel [stad]"**: hoog volume, commerciële intentie
+- **"fiets reparatie [stad]"**: urgent, snelle beslissing
+- **"e-bike kopen [stad]"**: hoge orderwaarde
+- **"band plakken fiets [stad]"**: laagdrempelig, eerste contact
+- **"fiets ophalen en bezorgen"**: handig, onderscheidend
 
 ![Nieuwe e-bikes in showroom van fietswinkel](/images/blog/google-maps-fietswinkel-optimaliseren-2.jpg)
 
@@ -74,7 +74,7 @@ Consistente vermeldingen versterken je lokale SEO-signaal naar Google.
 
 De meeste fietswinkels doen weinig aan online marketing. Dat is goed nieuws voor jou: met een geoptimaliseerd Google Bedrijfsprofiel, regelmatige posts en een stroom reviews ben je snel de best zichtbare fietswinkel in je regio.
 
-Een managed service als [StudioLee](/tarieven) kan dit volledig voor je regelen — van [SEO-optimalisatie](/seo) tot [social media](/social-media) en [review-management](/reviews). Jij houdt je bezig met fietsen, wij zorgen dat klanten je vinden. Jij besteedt er maar 15 minuten per maand aan — de rest wordt volledig geregeld.
+Een managed service als [StudioLee](/tarieven) kan dit volledig voor je regelen, van [SEO-optimalisatie](/seo) tot [social media](/social-media) en [review-management](/reviews). Jij houdt je bezig met fietsen, wij zorgen dat klanten je vinden. Jij besteedt er maar 15 minuten per maand aan. De rest wordt volledig geregeld.
 
 ## Veelgestelde vragen
 
@@ -84,7 +84,7 @@ De eerste resultaten zijn na 4-6 weken zichtbaar. Een structurele top-3 positie 
 
 ### Moet ik betalen om op Google Maps te staan?
 
-Nee. Je Google Bedrijfsprofiel is gratis. Optimalisatie — reviews, posts, SEO — kost wel tijd of geld als je het uitbesteedt, maar de vermelding zelf is kosteloos.
+Nee. Je Google Bedrijfsprofiel is gratis. Optimalisatie (reviews, posts, SEO) kost wel tijd of geld als je het uitbesteedt, maar de vermelding zelf is kosteloos.
 
 ### Wat als ik ook een webshop heb?
 
@@ -92,6 +92,6 @@ Combineer lokale SEO met je webshop. Klanten die lokaal zoeken en vervolgens onl
 
 ## Conclusie
 
-Google Maps is de belangrijkste etalage voor fietswinkels in 2026. Een geoptimaliseerd profiel met goede foto's, regelmatige posts en een stroom reviews brengt je bovenaan bij lokale zoekopdrachten. De klanten zijn er al — je moet alleen zorgen dat ze jou vinden.
+Google Maps is de belangrijkste etalage voor fietswinkels in 2026. Een geoptimaliseerd profiel met goede foto's, regelmatige posts en een stroom reviews brengt je bovenaan bij lokale zoekopdrachten. De klanten zijn er al. Je moet alleen zorgen dat ze jou vinden.
 
 Benieuwd hoe je fietswinkel scoort? Start een [gratis scan](/gratis-scan) en ontvang een concreet actieplan.

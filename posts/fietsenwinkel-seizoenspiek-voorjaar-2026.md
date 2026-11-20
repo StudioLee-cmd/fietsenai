@@ -60,7 +60,7 @@ Cruciaal. Klanten die in maart bellen voor een afspraak en horen "drie weken wac
 
 - Implementeer een online boekingstool (Calendly, Booqable, of een [eigen boekingssysteem](/voice-ai)).
 - Promoot dit actief via je nieuwsbrief en website.
-- Open ook werkdagen vanaf 17:00 voor afspraken (e-bikes uitchecken etc) — veel klanten kunnen alleen na werk.
+- Open ook werkdagen vanaf 17:00 voor afspraken (e-bikes uitchecken etc), want veel klanten kunnen alleen na werk.
 
 ### Marketing-campagne uitsturen
 
@@ -96,7 +96,7 @@ Geautomatiseerd via een [klant-communicatie systeem](/chatbot) scheelt je in maa
 
 - Markeer fietsen die binnenkomen met een sticker (datum + bestelnummer + werk-soort).
 - Gebruik een digitale werkstroom (zelfs Trello of Asana volstaat) om te zien welke fietsen waar staan in het proces.
-- Houd 1 monteur vrij voor "spoed" (lekke band, kabels los) — die hoeven niet 2 weken te wachten.
+- Houd 1 monteur vrij voor "spoed" (lekke band, kabels los), want die hoeven niet 2 weken te wachten.
 
 ### Inkoop-buffer monitoren
 

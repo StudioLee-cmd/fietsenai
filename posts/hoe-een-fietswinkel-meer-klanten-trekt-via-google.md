@@ -8,7 +8,7 @@ tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 
-## Fietswinkels concurreren met grote ketens — online maak je het verschil
+## Fietswinkels concurreren met grote ketens, maar online maak je het verschil
 
 Mensen die een fiets willen kopen of laten repareren, googlen. Ze zoeken "fietswinkel [stad]", "fiets reparatie in de buurt", of specifiek "elektrische fiets kopen [stad]". Ze vergelijken snel en kiezen de winkel die het meest betrouwbaar lijkt, het dichtst bij is, en de beste reviews heeft.
 
@@ -22,7 +22,7 @@ Je Google Bedrijfsprofiel is je eerste indruk voor mensen die lokaal zoeken.
 
 - Categorie: "Fietswinkel", "Fietsenmaker", "Fietsreparatie"
 - Diensten: verkoop, reparatie, elektrische fietsen, fietsonderdelen, banden plakken, grote beurt
-- Openingstijden — inclusief of je ook op zaterdagmiddag of zondag open bent
+- Openingstijden, inclusief of je ook op zaterdagmiddag of zondag open bent
 - Foto's: showroom met fietsen, reparatiewerkplaats, elektrische fietsen uitgestald
 - Beschrijving: welke merken je voert, je specialisaties, hoe lang je al actief bent
 
@@ -30,13 +30,13 @@ Je Google Bedrijfsprofiel is je eerste indruk voor mensen die lokaal zoeken.
 
 ## Stap 2: Reviews verzamelen na elke aankoop of reparatie
 
-Reviews zijn voor fietswinkels extra waardevol — mensen willen weten dat de reparatie goed is uitgevoerd en dat de verkoper eerlijk advies geeft.
+Reviews zijn voor fietswinkels extra waardevol, want mensen willen weten dat de reparatie goed is uitgevoerd en dat de verkoper eerlijk advies geeft.
 
 Stuur na elke reparatie of aankoop automatisch een WhatsApp:
 
 > "Hoi [naam], bedankt voor je bezoek! We hopen dat je tevreden bent. Zou je ons willen helpen met een Google-review? Dat helpt andere fietsers ons te vinden: [link]"
 
-Met automatisering gaat dit altijd vanzelf — ook op drukke dagen.
+Met automatisering gaat dit altijd vanzelf, ook op drukke dagen.
 
 ---
 
@@ -63,7 +63,7 @@ Schrijf artikelen die mensen helpen bij hun aankoopbeslissing:
 - "Wat is het verschil tussen een e-bike en een speedpedelec?"
 - "Hoe kies je de juiste fiets voor dagelijks woon-werkverkeer?"
 
-Informatieve content trekt bezoekers die serieus overwegen iets te kopen — en die vervolgens naar jou toekomen voor persoonlijk advies.
+Informatieve content trekt bezoekers die serieus overwegen iets te kopen, en die vervolgens naar jou toekomen voor persoonlijk advies.
 
 ---
 

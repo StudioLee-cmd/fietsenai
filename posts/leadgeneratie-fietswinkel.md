@@ -15,10 +15,10 @@ Een fietswinkel leeft van drie dingen: verkoop, reparatie en onderhoud. De meest
 
 De fietsbranche verandert snel:
 
-- **Online concurrentie** — klanten vergelijken prijzen online
-- **Seizoensgebondenheid** — winter is traditioneel rustig
-- **E-bike groei** — nieuwe doelgroepen, maar ook nieuwe concurrenten
-- **Keten-expansie** — grote spelers openen meer vestigingen
+- **Online concurrentie**: klanten vergelijken prijzen online
+- **Seizoensgebondenheid**: winter is traditioneel rustig
+- **E-bike groei**: nieuwe doelgroepen, maar ook nieuwe concurrenten
+- **Keten-expansie**: grote spelers openen meer vestigingen
 
 Fietswinkels die meerdere leadkanalen benutten, staan sterker.
 
